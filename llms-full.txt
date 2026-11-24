@@ -244,7 +244,7 @@ $0
 
 NT$0
 
-EP01–EP03 + SP01–SP02 + permanent FSRS review of learned words
+EP01–EP03 + SP01–SP02 + permanent FSRS review + auto seasonal/holiday calendar themes (12 scenes)
 
 Monthly Pro
 
@@ -256,7 +256,7 @@ $4.99/mo
 
 NT$160/mo
 
-All 42 main + 16 side episodes + calendar seasonal themes
+All 42 main + 16 side episodes + auto seasonal/holiday calendar themes (12 scenes)
 
 Standard Lifetime
 
@@ -268,7 +268,7 @@ $17.99
 
 NT$590
 
-Permanent unlock of all 58 episodes & future content updates
+Permanent unlock of all 58 episodes & future updates + auto seasonal/holiday calendar themes (12 scenes)
 
 Deluxe Edition
 
@@ -280,7 +280,147 @@ $24.99
 
 NT$790
 
-Standard Lifetime + Time Wardrobe (pin any of 11 Marshal outfits & 13 window scenes) + 3 app icons
+Standard Lifetime + Time Wardrobe (pin all 11 outfits & 13 window scenes year-round) + exclusive Typhoon Double Rainbow & 2 headphone styles + 2 alternate app icons (upgradeable from Standard)
+
+Deluxe Perks vs. Automatic Seasonal & Holiday Events (13 Scenes, 11 Outfits)
+
+Included for every learner (Free, Monthly, and Standard):
+ On matching calendar dates, your HOME room and Shiba companion Marshal automatically switch across 
+12 seasonal and festival scenes
+ (4 seasons + 8 holidays) and 
+9 matching outfits
+. Likewise, all 79 collectible Archive cards—including SSR architectural illustrations—unlock strictly through vocabulary study and episode completion across every tier.
+
+Exclusive to Deluxe Edition ($24.99, or upgrade from Standard):
+ (1) 
+Time Wardrobe
+ access to lock any of those 12 scenes and outfits anytime without waiting for the calendar date; (2) 
+1 exclusive window scene
+ (
+Typhoon Double Rainbow
+) and 
+2 headphone outfits
+ (
+Over-ear Headphones
+ & 
+Neckband Headphones
+) that do not auto-trigger on the calendar; and (3) 
+2 alternate iOS home-screen icons
+ (3 total).
+
+Complete List of 13 Window Scenes, 11 Marshal Outfits & Calendar Trigger Windows
+
+Window Scene (13)
+
+Marshal Outfit (11)
+
+Auto Calendar Window (All Tiers)
+
+Deluxe Time Wardrobe
+
+Spring Cherry Blossoms
+
+Spring Knit Cardigan
+
+Mar–May
+
+Pin anytime year-round
+
+Summer Fireworks
+
+Summer Festival Yukata
+
+Jun–Aug
+
+Pin anytime year-round
+
+Autumn Ginkgo Leaves
+
+Autumn Trench Coat
+
+Sep–Nov
+
+Pin anytime year-round
+
+Winter Snowfall
+
+Winter Ski Goggles
+
+Dec–Feb
+
+Pin anytime year-round
+
+Valentine’s Rose Dusk
+
+Executive Blazer
+
+Feb 13–14 annually
+
+Pin anytime year-round
+
+Rainy Season Hydrangeas
+
+Warm Yellow Raincoat
+
+Jun 10–18 annually
+
+Pin anytime year-round
+
+Tanabata Starry Bamboo
+
+Summer Festival Yukata
+
+Jul 5–7 annually
+
+Pin anytime year-round
+
+Mid-Autumn Full Moon
+
+Autumn Trench Coat
+
+3-day lunar 8/15 window (2026–2035 table)
+
+Pin anytime year-round
+
+Halloween Lanterns
+
+Witch Cloak
+
+Oct 24–31 annually
+
+Pin anytime year-round
+
+Christmas Tree Night
+
+Holiday Red Knit
+
+Dec 20–25 annually
+
+Pin anytime year-round
+
+New Year’s Eve Champagne
+
+Executive Blazer
+
+Dec 31 annually
+
+Pin anytime year-round
+
+New Year Kadomatsu
+
+New Year Haori
+
+Jan 1–5 annually
+
+Pin anytime year-round
+
+Typhoon Double Rainbow
+
+Over-ear Headphones / Neckband Headphones (+ 2 Alt Icons)
+
+Deluxe exclusive (does not auto-trigger)
+
+Deluxe exclusive
 
 Frequently Asked Questions
 
@@ -311,6 +451,10 @@ In a virtual-learner simulation at the recommended 1 episode per 2 days pace (no
 Which TOEIC® parts does Executive Reborn train—and what does it exclude?
 
 It specifically targets extended workplace listening (40 Part 3 multi-speaker dialogues + 2 Part 4 talks) and Part 7 business reading (42 core passages + 150 workplace memos/reports across 8 genres). It intentionally excludes Part 1 photo descriptions, Part 2 short Q&A, and Part 5/6 isolated grammar drills.
+
+What does the Deluxe Edition add—and do regular users still get seasonal and holiday scenes?
+
+Yes. All tiers (including Free Preview, Monthly Pro, and Standard Lifetime) automatically display 12 of the 13 window scenes and 9 matching Marshal outfits whenever your device calendar reaches those dates (4 seasons plus Valentine's Day, Rainy Hydrangea, Tanabata, Mid-Autumn, Halloween, Christmas, New Year's Eve, and New Year). Deluxe Edition adds the Time Wardrobe to pin any scene or outfit year-round, plus calendar-exclusive perks: Typhoon Double Rainbow window scene, 2 headphone styles (Over-ear & Neckband), and 2 alternate app icons.
 
 
 --- FILE: executive-reborn/ja/index.html (https://fawnfell.com/executive-reborn/ja/index.html) ---
@@ -538,7 +682,7 @@ Executive Reborn プラン比較表
 
 $0
 
-本編 第1〜3話 ＋ 番外編 第1〜2話 ＋ 学習済み単語のFSRS復習（永久無料）
+本編 第1〜3話 ＋ 番外編 第1〜2話 ＋ 学習済み単語のFSRS復習（永久無料）＋ 季節・祝日カレンダー自動背景（12種）
 
 ライト月額プラン
 
@@ -546,7 +690,7 @@ $0
 
 $4.99 / 月
 
-全58話アンロック ＋ 季節・祝日の自動背景切り替え
+全58話アンロック ＋ 季節・祝日カレンダー自動背景（12種）
 
 スタンダード買い切り
 
@@ -554,7 +698,7 @@ $4.99 / 月
 
 $17.99
 
-1回の購入で全58話と今後の無料アップデートを永久解放
+1回の購入で全58話と今後の無料アップデートを永久解放 ＋ 季節・祝日カレンダー自動背景（12種）
 
 デラックス版
 
@@ -562,7 +706,139 @@ $17.99
 
 $24.99
 
-スタンダード内容 ＋ 時のクローゼット（衣装11種・窓景色13種を自由に固定）＋ 代替アイコン
+スタンダード内容 ＋ 時のクローゼット（11衣装・13窓景色をいつでも固定）＋ 限定「台風一過の二重虹」＆ヘッドホン衣装2種 ＋ 代替アイコン（差額アップグレード可）
+
+デラックス版特典と、通常プランでも楽しめる季節・祝日イベント一覧
+
+全ユーザー共通（無料体験・月額・スタンダード含む）：
+端末の日付が対象期間に入ると、
+四季4種＋祝日8種（計12種）の窓景色と対応衣装9種
+が HOME 画面に自動出現します。また、
+79枚の図鑑カード（SSR原画含む）も課金では解放されず、全プラン共通で単語学習の成果によってのみ獲得
+できます。
+
+デラックス版（¥3,800 / スタンダードからの差額アップグレード対応）だけの特典：
+①「時のクローゼット」で12種の季節・祝日背景と衣装を当日以外でも年間いつでも固定可能、② カレンダーでは出現しないデラックス専用アイテム：窓景色
+「特典・台風一過の二重虹」
+（1種）、ヘッドホン衣装
+「限定・ヘッドホン」「限定・ネックバンド」
+（2種）、および
+代替アプリアイコン2種
+（標準含め計3種）。
+
+全13種の窓景色・11種の Marshal 衣装と自動出現カレンダー一覧
+
+窓景色（全13種）
+
+連動 Marshal 衣装（全11種）
+
+全ユーザー自動表示期間
+
+デラックス版での扱い
+
+春・桜の窓辺
+
+春・桜カーディガン
+
+3月〜5月
+
+いつでも固定可能
+
+夏・花火大会
+
+夏・祭り浴衣
+
+6月〜8月
+
+いつでも固定可能
+
+秋・イチョウ並木
+
+秋・トレンチコート
+
+9月〜11月
+
+いつでも固定可能
+
+冬・雪景色
+
+冬・スキーゴーグル
+
+12月〜2月
+
+いつでも固定可能
+
+バレンタイン・薔薇の夕暮れ
+
+限定・スーツジャケット
+
+毎年 2月13日〜14日
+
+いつでも固定可能
+
+梅雨・紫陽花の窓辺
+
+限定・レインコート
+
+毎年 6月10日〜18日
+
+いつでも固定可能
+
+七夕・天の川と短冊
+
+夏・祭り浴衣
+
+毎年 7月5日〜7日
+
+いつでも固定可能
+
+中秋・十五夜の名月
+
+秋・トレンチコート
+
+旧暦8月15日前後3日間（2026〜2035年対応）
+
+いつでも固定可能
+
+ハロウィン・かぼちゃ灯り
+
+ハロウィン・マント
+
+毎年 10月24日〜31日
+
+いつでも固定可能
+
+クリスマス・ツリー
+
+クリスマス・赤ニット
+
+毎年 12月20日〜25日
+
+いつでも固定可能
+
+大晦日・年越し花火
+
+限定・スーツジャケット
+
+毎年 12月31日
+
+いつでも固定可能
+
+お正月・門松
+
+お正月・羽織
+
+毎年 1月1日〜5日
+
+いつでも固定可能
+
+特典・台風一過の二重虹
+
+限定・ヘッドホン ／ 限定・ネックバンド（＋代替アイコン2種）
+
+カレンダー非出現（デラックス専用）
+
+デラックス版限定（手動選択・固定）
 
 よくある質問
 
@@ -589,6 +865,10 @@ FSRS-6 の復習評価は自己申告ボタンですか？
 TOEIC® のどのパートに対応していますか？（含まれる学習・含まれない学習）
 
 リスニングは会話長文の Part 3（40話）＋アナウンスの Part 4（2話）、リーディングは実務長文の Part 7（本編42話＋ワークデスク150記事・8ジャンル）に特化しています。Part 1・Part 2 や Part 5/6 の単独文法ドリルは収録せず、実務の会議会話と社内文書読解に集中する構成です。
+
+デラックス版の特典は何ですか？通常ユーザーでも季節や祝日の背景・衣装を見られますか？
+
+はい。全13種の窓景色のうち12種（四季4種＋祝日8種）と対応する9種のMarshal衣装は、無料版を含む全プランで該当カレンダー日時に自動表示されます。デラックス版（¥3,800）の特典は、時のクローゼットで任意の季節・祝日背景と衣装を年間いつでも固定できる点に加え、限定窓景色「台風一過の二重虹」、ヘッドホン衣装2種、代替アプリアイコン2種です。
 
 
 --- FILE: executive-reborn/ja/preview/index.html (https://fawnfell.com/executive-reborn/ja/preview/index.html) ---
