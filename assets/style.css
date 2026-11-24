@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Fawnfell Brand";
+  font-style: normal;
+  font-weight: 680;
+  font-display: swap;
+  src: url("/assets/fonts/fraunces-brand.woff2") format("woff2");
+}
+
 :root {
   color-scheme: light dark;
 
@@ -17,7 +25,15 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  @font-face {
+  font-family: "Fawnfell Brand";
+  font-style: normal;
+  font-weight: 680;
+  font-display: swap;
+  src: url("/assets/fonts/fraunces-brand.woff2") format("woff2");
+}
+
+:root {
     --bg-tile: url("/assets/brand/bg-paper-dark.webp");
   }
 }
@@ -117,15 +133,41 @@ summary:focus-visible {
   gap: 0.65rem;
   text-decoration: none;
   color: var(--ink);
-  font-weight: 700;
-  font-size: 1.1rem;
-  letter-spacing: 0.02em;
 }
 
 .brand-mark {
-  inline-size: 30px;
-  block-size: 30px;
+  inline-size: 34px;
+  block-size: 34px;
   flex-shrink: 0;
+}
+
+.brand-lockup {
+  display: grid;
+  line-height: 1;
+  gap: 0.22rem;
+}
+
+.brand-wordmark {
+  font-family: "Fawnfell Brand", "Fraunces", Georgia, "Times New Roman", serif;
+  font-weight: 680;
+  font-size: 1.48rem;
+  letter-spacing: -0.015em;
+  line-height: 0.94;
+}
+
+.brand-dot {
+  color: var(--accent);
+}
+
+.brand-sub {
+  font-size: 0.5rem;
+  font-weight: 600;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: light-dark(
+    color-mix(in srgb, var(--muted) 72%, var(--accent) 28%),
+    color-mix(in srgb, var(--muted) 60%, var(--accent) 40%)
+  );
 }
 
 .nav-links {
