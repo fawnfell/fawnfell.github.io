@@ -222,31 +222,40 @@ main.banner-page {
 
 .banner-deckle-wrap {
   position: relative;
-  filter: drop-shadow(0 8px 18px light-dark(rgba(20, 32, 24, 0.14), rgba(0, 0, 0, 0.42)));
+  filter: drop-shadow(0 10px 22px light-dark(rgba(18, 28, 22, 0.2), rgba(0, 0, 0, 0.5)));
 }
 
 .banner-deckle {
   position: relative;
   overflow: hidden;
-  min-block-size: clamp(380px, 39vw, 560px);
+  min-block-size: clamp(400px, 39vw, 560px);
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   align-items: center;
-  background-color: #122019;
+  background-color: #0f1b15;
   color: #FAF6EC;
-  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 1000' preserveAspectRatio='none'%3E%3Cdefs%3E%3Cfilter id='d' x='0%25' y='-5%25' width='100%25' height='110%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.018 0.055' numOctaves='4' seed='12' result='n'/%3E%3CfeDisplacementMap in='SourceGraphic' in2='n' scale='14' xChannelSelector='R' yChannelSelector='G'/%3E%3C/filter%3E%3C/defs%3E%3Crect x='0' y='0' width='1600' height='930' fill='%23000'/%3E%3Cpath fill='%23000' filter='url(%23d)' d='M-20,900 L1620,900 L1620,972 Q1440,986 1260,968 Q1080,956 900,976 Q720,988 540,968 Q360,958 180,978 Q80,986 -20,970 Z'/%3E%3C/svg%3E");
-  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 1000' preserveAspectRatio='none'%3E%3Cdefs%3E%3Cfilter id='d' x='0%25' y='-5%25' width='100%25' height='110%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.018 0.055' numOctaves='4' seed='12' result='n'/%3E%3CfeDisplacementMap in='SourceGraphic' in2='n' scale='14' xChannelSelector='R' yChannelSelector='G'/%3E%3C/filter%3E%3C/defs%3E%3Crect x='0' y='0' width='1600' height='930' fill='%23000'/%3E%3Cpath fill='%23000' filter='url(%23d)' d='M-20,900 L1620,900 L1620,972 Q1440,986 1260,968 Q1080,956 900,976 Q720,988 540,968 Q360,958 180,978 Q80,986 -20,970 Z'/%3E%3C/svg%3E");
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 1000' preserveAspectRatio='none'%3E%3Cdefs%3E%3Cfilter id='d' x='0%25' y='-10%25' width='100%25' height='120%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.016 0.075' numOctaves='4' seed='12' result='n'/%3E%3CfeDisplacementMap in='SourceGraphic' in2='n' scale='26' xChannelSelector='R' yChannelSelector='G'/%3E%3C/filter%3E%3C/defs%3E%3Crect x='0' y='0' width='1600' height='910' fill='%23000'/%3E%3Cpath fill='%23000' filter='url(%23d)' d='M-20,880 L1620,880 L1620,964 Q1460,986 1310,956 Q1160,932 1010,972 Q860,992 710,958 Q560,930 410,970 Q260,990 110,958 Q40,942 -20,968 Z'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 1000' preserveAspectRatio='none'%3E%3Cdefs%3E%3Cfilter id='d' x='0%25' y='-10%25' width='100%25' height='120%25'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.016 0.075' numOctaves='4' seed='12' result='n'/%3E%3CfeDisplacementMap in='SourceGraphic' in2='n' scale='26' xChannelSelector='R' yChannelSelector='G'/%3E%3C/filter%3E%3C/defs%3E%3Crect x='0' y='0' width='1600' height='910' fill='%23000'/%3E%3Cpath fill='%23000' filter='url(%23d)' d='M-20,880 L1620,880 L1620,964 Q1460,986 1310,956 Q1160,932 1010,972 Q860,992 710,958 Q560,930 410,970 Q260,990 110,958 Q40,942 -20,968 Z'/%3E%3C/svg%3E");
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
 }
 
 .banner-hero-bg {
   position: absolute;
-  inset: 0;
-  inline-size: 100%;
+  inset-block: 0;
+  inset-inline: 0;
+  margin-inline: auto;
+  inline-size: min(100%, 1600px);
   block-size: 100%;
   object-fit: cover;
   object-position: 88% 92%;
+}
+
+@media (min-width: 1601px) {
+  .banner-hero-bg {
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 12%, #000 92%, transparent 100%);
+    mask-image: linear-gradient(to right, transparent 0%, #000 12%, #000 92%, transparent 100%);
+  }
 }
 
 .banner-deckle::before {
@@ -258,13 +267,13 @@ main.banner-page {
     95deg,
     rgba(14, 24, 19, 0.92) 0%,
     rgba(14, 24, 19, 0.74) 40%,
-    rgba(14, 24, 19, 0.18) 68%,
+    rgba(14, 24, 19, 0.16) 68%,
     transparent 100%
   );
 }
 
 .banner-deckle.banner-er {
-  background-color: #161B20;
+  background-color: #13181e;
 }
 
 .banner-deckle.banner-er::before {
