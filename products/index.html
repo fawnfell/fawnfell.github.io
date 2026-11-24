@@ -7,8 +7,14 @@
   <title>Products | Fawnfell</title>
   <meta name="description" content="Explore all products from Fawnfell: Executive Reborn (iOS business English RPG + FSRS app, coming soon), upcoming interactive fiction and nature games, and open-source developer tools.">
   <link rel="canonical" href="https://fawnfell.com/products/">
+  <link rel="alternate" hreflang="en" href="https://fawnfell.com/products/">
+  <link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/ja/">
+  <link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/ko/">
+  <link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/zh-tw/">
+  <link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/assets/style.css?v=20261124e">
+  <link rel="stylesheet" href="/assets/style.css?v=20261124f">
+  <script src="/assets/i18n-nav.js?v=20261124f"></script>
   <!-- Cloudflare Web Analytics (cookieless) --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "5427a3a0f94443e38330e5a17be45161"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
 <body>
@@ -33,6 +39,17 @@
           <li><a href="https://github.com/fawnfell">GitHub</a></li>
         </ul>
       </nav>
+      <div class="lang-picker">
+        <button type="button" class="lang-btn" popovertarget="lang-menu" aria-label="Language">
+          <span aria-hidden="true">🌐</span><span>EN</span><span aria-hidden="true">▾</span>
+        </button>
+        <div id="lang-menu" class="lang-menu" popover="auto" aria-label="Language">
+          <a href="/products/" hreflang="en" data-set-lang="en" aria-current="page">English</a>
+          <a href="/products/ja/" hreflang="ja" data-set-lang="ja">日本語</a>
+          <a href="/products/ko/" hreflang="ko" data-set-lang="ko">한국어</a>
+          <a href="/products/zh-tw/" hreflang="zh-Hant" data-set-lang="zh-Hant">繁體中文</a>
+        </div>
+      </div>
     </div>
   </header>
 
@@ -64,7 +81,6 @@
           <div class="cta-row">
             <a class="btn btn-primary" href="/products/executive-reborn/">Open Executive Reborn</a>
             <a class="btn" href="/products/executive-reborn/preview/">Free Preview (EP1–3)</a>
-            <a class="btn" href="/products/executive-reborn/ja/">日本語</a>
           </div>
         </article>
       </div>

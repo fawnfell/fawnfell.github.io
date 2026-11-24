@@ -13,7 +13,8 @@
   <link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/zh-tw/">
   <link rel="alternate" hreflang="x-default" href="https://fawnfell.com/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/assets/style.css?v=20261124e">
+  <link rel="stylesheet" href="/assets/style.css?v=20261124f">
+  <script src="/assets/i18n-nav.js?v=20261124f"></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -50,11 +51,16 @@
           <li><a href="https://github.com/fawnfell">GitHub</a></li>
         </ul>
       </nav>
-      <div class="lang-switch" aria-label="Language">
-        <a href="/" aria-current="page">EN</a>
-        <a href="/ja/">日本語</a>
-        <a href="/ko/">한국어</a>
-        <a href="/zh-tw/">繁體中文</a>
+      <div class="lang-picker">
+        <button type="button" class="lang-btn" popovertarget="lang-menu" aria-label="Language">
+          <span aria-hidden="true">🌐</span><span>EN</span><span aria-hidden="true">▾</span>
+        </button>
+        <div id="lang-menu" class="lang-menu" popover="auto" aria-label="Language">
+          <a href="/" hreflang="en" data-set-lang="en" aria-current="page">English</a>
+          <a href="/ja/" hreflang="ja" data-set-lang="ja">日本語</a>
+          <a href="/ko/" hreflang="ko" data-set-lang="ko">한국어</a>
+          <a href="/zh-tw/" hreflang="zh-Hant" data-set-lang="zh-Hant">繁體中文</a>
+        </div>
       </div>
     </div>
   </header>

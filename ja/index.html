@@ -13,7 +13,8 @@
   <link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/zh-tw/">
   <link rel="alternate" hreflang="x-default" href="https://fawnfell.com/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/assets/style.css?v=20261124e">
+  <link rel="stylesheet" href="/assets/style.css?v=20261124f">
+  <script src="/assets/i18n-nav.js?v=20261124f"></script>
   <!-- Cloudflare Web Analytics (cookieless) --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "5427a3a0f94443e38330e5a17be45161"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
 <body>
@@ -33,16 +34,21 @@
       <nav aria-label="メインナビゲーション">
         <ul class="nav-links">
           <li><a href="/ja/" aria-current="page">スタジオ</a></li>
-          <li><a href="/products/">プロダクト</a></li>
+          <li><a href="/products/ja/">プロダクト</a></li>
           <li><a href="/products/executive-reborn/support/">サポート</a></li>
           <li><a href="https://github.com/fawnfell">GitHub</a></li>
         </ul>
       </nav>
-      <div class="lang-switch" aria-label="言語切替">
-        <a href="/">EN</a>
-        <a href="/ja/" aria-current="page">日本語</a>
-        <a href="/ko/">한국어</a>
-        <a href="/zh-tw/">繁體中文</a>
+      <div class="lang-picker">
+        <button type="button" class="lang-btn" popovertarget="lang-menu" aria-label="言語切替">
+          <span aria-hidden="true">🌐</span><span>日本語</span><span aria-hidden="true">▾</span>
+        </button>
+        <div id="lang-menu" class="lang-menu" popover="auto" aria-label="言語切替">
+          <a href="/" hreflang="en" data-set-lang="en">English</a>
+          <a href="/ja/" hreflang="ja" data-set-lang="ja" aria-current="page">日本語</a>
+          <a href="/ko/" hreflang="ko" data-set-lang="ko">한국어</a>
+          <a href="/zh-tw/" hreflang="zh-Hant" data-set-lang="zh-Hant">繁體中文</a>
+        </div>
       </div>
     </div>
   </header>
@@ -57,7 +63,7 @@
             <h1>Fawnfell — 静かで長く使えるアプリと物語を</h1>
             <p class="lead"><strong>Fawnfell（フォーンフェル）</strong>は、オフライン完結型の語学アプリ、物語体験のあるゲーム、そして開発者向けワークフローツールを制作する独立スタジオです。各プロダクトの詳細・料金・サポートはプロダクト一覧からお選びいただけます。</p>
             <div class="cta-row">
-              <a class="btn btn-banner-primary" href="/products/">プロダクト一覧を見る</a>
+              <a class="btn btn-banner-primary" href="/products/ja/">プロダクト一覧を見る</a>
               <a class="btn btn-banner-ghost" href="/products/executive-reborn/ja/">Executive Reborn へ</a>
             </div>
           </div>
@@ -75,7 +81,7 @@
               <h3>語学学習アプリ・物語ゲーム</h3>
             </div>
             <p>社会人向けビジネス英語RPG『Executive Reborn』をはじめ、オフラインでじっくり楽しめる作品を開発しています。</p>
-            <div><a class="btn" href="/products/">プロダクトを選ぶ</a></div>
+            <div><a class="btn" href="/products/ja/">プロダクトを選ぶ</a></div>
           </article>
           <article class="card">
             <div>
@@ -93,7 +99,7 @@
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <span>© 2026 Fawnfell</span>
-      <span><a href="/products/">プロダクト</a> · <a href="/products/executive-reborn/support/">サポート</a> · <a href="/products/executive-reborn/privacy/">プライバシーポリシー</a> · <a href="mailto:fawnfell@gmail.com">fawnfell@gmail.com</a></span>
+      <span><a href="/products/ja/">プロダクト</a> · <a href="/products/executive-reborn/support/">サポート</a> · <a href="/products/executive-reborn/privacy/">プライバシーポリシー</a> · <a href="mailto:fawnfell@gmail.com">fawnfell@gmail.com</a></span>
     </div>
   </footer>
 </body>

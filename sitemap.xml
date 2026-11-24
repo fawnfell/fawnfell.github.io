@@ -35,6 +35,35 @@
   </url>
   <url>
     <loc>https://fawnfell.com/products/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/products/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/products/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/products/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/products/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/products/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/products/zh-tw/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/products/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/"/>
   </url>
   <url>
     <loc>https://fawnfell.com/products/executive-reborn/</loc>
@@ -72,12 +101,32 @@
     <loc>https://fawnfell.com/products/executive-reborn/preview/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/products/executive-reborn/preview/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/executive-reborn/ja/preview/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/executive-reborn/ko/preview/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/executive-reborn/zh-tw/preview/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/executive-reborn/preview/"/>
   </url>
   <url>
     <loc>https://fawnfell.com/products/executive-reborn/ja/preview/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/products/executive-reborn/preview/"/>
     <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/executive-reborn/ja/preview/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/executive-reborn/ko/preview/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/executive-reborn/zh-tw/preview/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/executive-reborn/preview/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/products/executive-reborn/ko/preview/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/products/executive-reborn/preview/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/executive-reborn/ja/preview/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/executive-reborn/ko/preview/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/executive-reborn/zh-tw/preview/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/executive-reborn/preview/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/products/executive-reborn/zh-tw/preview/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/products/executive-reborn/preview/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/products/executive-reborn/ja/preview/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/products/executive-reborn/ko/preview/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/executive-reborn/zh-tw/preview/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/executive-reborn/preview/"/>
   </url>
   <url>

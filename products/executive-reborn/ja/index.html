@@ -13,7 +13,8 @@
   <link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/executive-reborn/zh-tw/">
   <link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/executive-reborn/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/assets/style.css?v=20261124e">
+  <link rel="stylesheet" href="/assets/style.css?v=20261124f">
+  <script src="/assets/i18n-nav.js?v=20261124f"></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -115,16 +116,21 @@
       <nav aria-label="メインナビゲーション">
         <ul class="nav-links">
           <li><a href="/ja/">スタジオ</a></li>
-          <li><a href="/products/">プロダクト</a></li>
+          <li><a href="/products/ja/">プロダクト</a></li>
           <li><a href="/products/executive-reborn/ja/" aria-current="page">Executive Reborn</a></li>
           <li><a href="/products/executive-reborn/support/">サポート</a></li>
         </ul>
       </nav>
-      <div class="lang-switch" aria-label="言語切替">
-        <a href="/products/executive-reborn/">EN</a>
-        <a href="/products/executive-reborn/ja/" aria-current="page">日本語</a>
-        <a href="/products/executive-reborn/ko/">한국어</a>
-        <a href="/products/executive-reborn/zh-tw/">繁體中文</a>
+      <div class="lang-picker">
+        <button type="button" class="lang-btn" popovertarget="lang-menu" aria-label="言語切替">
+          <span aria-hidden="true">🌐</span><span>日本語</span><span aria-hidden="true">▾</span>
+        </button>
+        <div id="lang-menu" class="lang-menu" popover="auto" aria-label="言語切替">
+          <a href="/products/executive-reborn/" hreflang="en" data-set-lang="en">English</a>
+          <a href="/products/executive-reborn/ja/" hreflang="ja" data-set-lang="ja" aria-current="page">日本語</a>
+          <a href="/products/executive-reborn/ko/" hreflang="ko" data-set-lang="ko">한국어</a>
+          <a href="/products/executive-reborn/zh-tw/" hreflang="zh-Hant" data-set-lang="zh-Hant">繁體中文</a>
+        </div>
       </div>
     </div>
   </header>
@@ -153,7 +159,7 @@
       <nav class="breadcrumb" aria-label="パンくずリスト">
         <ol>
           <li><a href="/ja/">スタジオ</a></li>
-          <li><a href="/products/">プロダクト</a></li>
+          <li><a href="/products/ja/">プロダクト</a></li>
           <li aria-current="page">Executive Reborn</li>
         </ol>
       </nav>
@@ -548,7 +554,7 @@
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <span>© 2026 Fawnfell</span>
-      <span><a href="/products/">プロダクト一覧</a> · <a href="/products/executive-reborn/ja/preview/">第1〜3話試読</a> · <a href="/products/executive-reborn/support/">サポート</a> · <a href="/products/executive-reborn/privacy/">プライバシー</a> · <a href="/products/executive-reborn/licenses/">語彙ライセンス</a> · <a href="mailto:fawnfell@gmail.com">fawnfell@gmail.com</a></span>
+      <span><a href="/products/ja/">プロダクト一覧</a> · <a href="/products/executive-reborn/ja/preview/">第1〜3話試読</a> · <a href="/products/executive-reborn/support/">サポート</a> · <a href="/products/executive-reborn/privacy/">プライバシー</a> · <a href="/products/executive-reborn/licenses/">語彙ライセンス</a> · <a href="mailto:fawnfell@gmail.com">fawnfell@gmail.com</a></span>
     </div>
     <div class="wrap" style="margin-top:0.65rem;font-size:0.78rem;color:var(--muted);">
       TOEIC®はエデュケーショナル・テスティング・サービス（ETS）の登録商標です。Executive Reborn および Fawnfell は ETS と一切関係がなく、ETS による推奨・後援を受けたものではありません。

@@ -13,7 +13,8 @@
   <link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/executive-reborn/zh-tw/">
   <link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/executive-reborn/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/assets/style.css?v=20261124e">
+  <link rel="stylesheet" href="/assets/style.css?v=20261124f">
+  <script src="/assets/i18n-nav.js?v=20261124f"></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -127,11 +128,16 @@
           <li><a href="/products/executive-reborn/support/">Support</a></li>
         </ul>
       </nav>
-      <div class="lang-switch" aria-label="Language">
-        <a href="/products/executive-reborn/" aria-current="page">EN</a>
-        <a href="/products/executive-reborn/ja/">日本語</a>
-        <a href="/products/executive-reborn/ko/">한국어</a>
-        <a href="/products/executive-reborn/zh-tw/">繁體中文</a>
+      <div class="lang-picker">
+        <button type="button" class="lang-btn" popovertarget="lang-menu" aria-label="Language">
+          <span aria-hidden="true">🌐</span><span>EN</span><span aria-hidden="true">▾</span>
+        </button>
+        <div id="lang-menu" class="lang-menu" popover="auto" aria-label="Language">
+          <a href="/products/executive-reborn/" hreflang="en" data-set-lang="en" aria-current="page">English</a>
+          <a href="/products/executive-reborn/ja/" hreflang="ja" data-set-lang="ja">日本語</a>
+          <a href="/products/executive-reborn/ko/" hreflang="ko" data-set-lang="ko">한국어</a>
+          <a href="/products/executive-reborn/zh-tw/" hreflang="zh-Hant" data-set-lang="zh-Hant">繁體中文</a>
+        </div>
       </div>
     </div>
   </header>

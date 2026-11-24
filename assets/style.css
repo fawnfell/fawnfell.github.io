@@ -178,6 +178,89 @@ summary:focus-visible {
   font-weight: 600;
 }
 
+.lang-picker {
+  position: relative;
+}
+
+.lang-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-block-size: 36px;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface-alt);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  anchor-name: --lang-btn;
+}
+
+.lang-btn:hover {
+  border-color: var(--primary);
+}
+
+.lang-menu[popover] {
+  position: fixed;
+  inset: auto;
+  inset-block-start: 4.5rem;
+  inset-inline-end: 1rem;
+  margin: 0;
+  min-inline-size: 9.5rem;
+  padding: 0.35rem;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: 0 12px 28px light-dark(rgba(18, 28, 22, 0.14), rgba(0, 0, 0, 0.55));
+}
+
+@supports (position-area: block-end) {
+  .lang-menu[popover] {
+    position-anchor: --lang-btn;
+    position-area: block-end span-inline-start;
+    position-try-fallbacks: flip-block, flip-inline;
+    inset-inline-end: auto;
+    margin-block-start: 0.45rem;
+    height: auto;
+  }
+}
+
+.lang-menu[popover]:is(:popover-open, .\:popover-open) {
+  display: grid;
+  gap: 0.2rem;
+}
+
+.lang-menu a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.45rem 0.75rem;
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--ink);
+  font-size: 0.88rem;
+}
+
+.lang-menu a:hover {
+  background: var(--surface-alt);
+}
+
+.lang-menu a[aria-current="page"] {
+  background: var(--surface-alt);
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.lang-menu a[aria-current="page"]::after {
+  content: "✓";
+  font-size: 0.82rem;
+}
+
 main {
   padding-block: 2.2rem 3.6rem;
 }

@@ -13,7 +13,8 @@
   <link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/products/executive-reborn/zh-tw/">
   <link rel="alternate" hreflang="x-default" href="https://fawnfell.com/products/executive-reborn/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/assets/style.css?v=20261124e">
+  <link rel="stylesheet" href="/assets/style.css?v=20261124f">
+  <script src="/assets/i18n-nav.js?v=20261124f"></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -75,16 +76,21 @@
       <nav aria-label="주 메뉴">
         <ul class="nav-links">
           <li><a href="/ko/">스튜디오</a></li>
-          <li><a href="/products/">제품 목록</a></li>
+          <li><a href="/products/ko/">제품 목록</a></li>
           <li><a href="/products/executive-reborn/ko/" aria-current="page">Executive Reborn</a></li>
           <li><a href="/products/executive-reborn/support/">고객 지원</a></li>
         </ul>
       </nav>
-      <div class="lang-switch" aria-label="언어 선택">
-        <a href="/products/executive-reborn/">EN</a>
-        <a href="/products/executive-reborn/ja/">日本語</a>
-        <a href="/products/executive-reborn/ko/" aria-current="page">한국어</a>
-        <a href="/products/executive-reborn/zh-tw/">繁體中文</a>
+      <div class="lang-picker">
+        <button type="button" class="lang-btn" popovertarget="lang-menu" aria-label="언어 선택">
+          <span aria-hidden="true">🌐</span><span>한국어</span><span aria-hidden="true">▾</span>
+        </button>
+        <div id="lang-menu" class="lang-menu" popover="auto" aria-label="언어 선택">
+          <a href="/products/executive-reborn/" hreflang="en" data-set-lang="en">English</a>
+          <a href="/products/executive-reborn/ja/" hreflang="ja" data-set-lang="ja">日本語</a>
+          <a href="/products/executive-reborn/ko/" hreflang="ko" data-set-lang="ko" aria-current="page">한국어</a>
+          <a href="/products/executive-reborn/zh-tw/" hreflang="zh-Hant" data-set-lang="zh-Hant">繁體中文</a>
+        </div>
       </div>
     </div>
   </header>
@@ -99,7 +105,8 @@
             <h1>Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어</h1>
             <p class="lead"><strong>Executive Reborn</strong>은 본편 42화 + 번외편 16화(총 58화)의 직장 드라마와 FSRS 간격 반복 학습, 1,397개 비즈니스 표현 및 11,250개 오프라인 음성을 결합한 비즈니스 영어 학습 앱입니다.</p>
             <div class="cta-row">
-              <a class="btn btn-banner-primary" href="#pricing">요금제 보기</a>
+              <a class="btn btn-banner-primary" href="/products/executive-reborn/ko/preview/">무료 미리보기 (1–3화)</a>
+              <a class="btn btn-banner-ghost" href="#pricing">요금제 보기</a>
               <a class="btn btn-banner-ghost" href="/products/executive-reborn/support/">지원 및 구매 복원</a>
               <a class="btn btn-banner-ghost" href="/products/executive-reborn/privacy/">개인정보처리방침</a>
             </div>
@@ -112,7 +119,7 @@
       <nav class="breadcrumb" aria-label="탐색 경로">
         <ol>
           <li><a href="/ko/">스튜디오</a></li>
-          <li><a href="/products/">제품 목록</a></li>
+          <li><a href="/products/ko/">제품 목록</a></li>
           <li aria-current="page">Executive Reborn</li>
         </ol>
       </nav>
@@ -183,7 +190,7 @@
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <span>© 2026 Fawnfell</span>
-      <span><a href="/products/">제품 목록</a> · <a href="/products/executive-reborn/support/">지원</a> · <a href="/products/executive-reborn/privacy/">개인정보처리방침</a> · <a href="/products/executive-reborn/licenses/">어휘 라이선스</a> · <a href="mailto:fawnfell@gmail.com">fawnfell@gmail.com</a></span>
+      <span><a href="/products/ko/">제품 목록</a> · <a href="/products/executive-reborn/support/">지원</a> · <a href="/products/executive-reborn/privacy/">개인정보처리방침</a> · <a href="/products/executive-reborn/licenses/">어휘 라이선스</a> · <a href="mailto:fawnfell@gmail.com">fawnfell@gmail.com</a></span>
     </div>
     <div class="wrap" style="margin-top:0.65rem;font-size:0.78rem;color:var(--muted);">
       TOEIC®은 ETS(Educational Testing Service)의 등록 상표입니다. Executive Reborn 및 Fawnfell은 ETS와 제휴하거나 ETS의 후원·인증을 받지 않은 독립 앱입니다.
