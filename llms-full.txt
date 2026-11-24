@@ -8,7 +8,7 @@
 
 --- FILE: index.html (https://fawnfell.com/index.html) ---
 
-# Fawnfell—Calm, Durable Software & Story Worlds
+# Fawnfell — Calm, Durable Software & Story Worlds
 
 Fawnfell — Independent Software & Interactive Studio
 
@@ -33,9 +33,7 @@ English
 
 Independent Software Studio
 
-Fawnfell
- — 
-Calm, Durable Software & Story Worlds
+Fawnfell — Calm, Durable Software & Story Worlds
 
 Fawnfell
  is an independent software studio crafting offline-first learning applications, atmospheric narrative games, and open-core developer workflow tools. We design compact, self-contained products without bloat, dark patterns, or unnecessary noise.
@@ -65,7 +63,7 @@ Explore on GitHub
 
 --- FILE: ja/index.html (https://fawnfell.com/ja/index.html) ---
 
-# Fawnfell—静かで長く使えるアプリと物語を
+# Fawnfell — 静かで長く使えるアプリと物語を
 
 Fawnfell — 独立ソフトウェアスタジオ
 
@@ -90,9 +88,7 @@ English
 
 独立ソフトウェアスタジオ · Fawnfell
 
-Fawnfell
- — 
-静かで長く使えるアプリと物語を
+Fawnfell — 静かで長く使えるアプリと物語を
 
 Fawnfell（フォーンフェル）
 は、オフライン完結型の語学アプリ、物語体験のあるゲーム、そして開発者向けワークフローツールを制作する独立スタジオです。各プロダクトの詳細・料金・サポートはプロダクト一覧からお選びいただけます。
@@ -122,7 +118,7 @@ GitHub を見る
 
 --- FILE: ko/index.html (https://fawnfell.com/ko/index.html) ---
 
-# Fawnfell—오래 곁에 두는 소프트웨어와 이야기
+# Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
 
 Fawnfell — 인디 소프트웨어 스튜디오
 
@@ -147,9 +143,7 @@ English
 
 인디 소프트웨어 스튜디오 · Fawnfell
 
-Fawnfell
- — 
-오래 곁에 두는 소프트웨어와 이야기
+Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
 
 Fawnfell
 은 오프라인 중심 학습 앱, 내러티브 게임, 그리고 오픈소스 개발 워크플로 도구를 제작하는 독립 소프트웨어 스튜디오입니다. 제품 디렉터리에서 각 앱과 도구를 살펴보실 수 있습니다.
@@ -179,7 +173,7 @@ GitHub 보기
 
 --- FILE: products/executive-reborn/index.html (https://fawnfell.com/products/executive-reborn/index.html) ---
 
-# Executive Reborn—Learn Real Workplace English Through Story
+# Executive Reborn — Learn Real Workplace English Through Story
 
 Executive Reborn — Business English RPG & FSRS App | Fawnfell
 
@@ -202,12 +196,9 @@ English
 
 繁體中文
 
-iOS
- · Offline Business English RPG + FSRS
+iOS · Offline Business English RPG + FSRS
 
-Executive Reborn
- — 
-Learn Real Workplace English Through Story
+Executive Reborn — Learn Real Workplace English Through Story
 
 Executive Reborn
  is an offline-first business English learning app by Fawnfell. Built for busy professionals who dislike dry textbooks, it combines 58 interactive corporate story episodes, 1,397 workplace phrases, and an FSRS spaced-repetition engine with 11,250 AAC voice clips.
@@ -279,6 +270,18 @@ How Review Works
 “All words studied in Executive Reborn remain permanently available in the FSRS review queue even if a monthly subscription expires.”
 
 — Fawnfell Product Charter · Powered by open-source FSRS & NGSL/TSL corpora
+
+Core Learning Model: Multi-Angle Vocabulary Acquisition (Not a Mock-Exam Bank)
+
+Unlike typical English apps that split vocabulary, listening, and reading into three unrelated modules, 
+Executive Reborn
+ was designed from the start around 
+Same-Episode Cross-Modal Recycling
+ (known in second-language acquisition as 
+Narrow Listening & Reading
+). Every episode binds the exact same 
+21–29 TSL/NGSL target phrases
+ across three steps: (1) latency-based FSRS-6 warm-up activates meaning, (2) minutes later you hear those same words spoken in the episode's boardroom audio, and (3) immediately afterward you spot them highlighted inside the episode's core memo and linked WORK Desk emails.
 
 Focused TOEIC® Prep Scope: Part 3 Dialogues & Part 7 Business Reading (What Is—and Isn’t—Included)
 
@@ -396,6 +399,11 @@ Calendar-independent progress
 No streak reset penalty
 
 Assumes continued due reviews
+
+Simulation Metric Note:
+
+“Audio + Article Encounters / Word”
+ (3.3–6.6×) counts natural contextual pickups of each word inside the same episode's boardroom listening script and linked WORK Desk reading memos—stacking on top of the ~11–12 active FSRS spaced-repetition reviews (dual-track consolidation: algorithmic recall + Narrow Listening & Reading immersion).
 
 Why Learners Stick With It: After-Hours Mystery, Study-Only Archive & Real Study Logs
 
@@ -743,7 +751,7 @@ It uses automatic reaction-time grading with FSRS-6 (90% target retention) inste
 
 How many times does a learner encounter each word across the 42 episodes? (Simulation)
 
-In a virtual-learner simulation at the recommended 1 episode per 2 days pace (not a human clinical trial), completing 42 episodes takes 84 days (~21.6 min/day for vocabulary and reading), with an average of 11.9 FSRS reviews per word and 4.3 encounters across audio scripts and 150 workplace articles (6.6 if articles are read twice).
+In a virtual-learner simulation at the recommended 1 episode per 2 days pace (not a human clinical trial), completing 42 episodes takes 84 days (~21.6 min/day for vocabulary and reading), with an average of 11.9 active FSRS flashcard reviews per word plus 4.3 separate contextual pickups inside the episode audio and linked workplace articles (6.6 if articles are read twice)—combining spaced-repetition recall with same-lesson Narrow Listening & Reading.
 
 Which TOEIC® parts does Executive Reborn train—and what does it exclude?
 
@@ -756,7 +764,7 @@ Yes. All tiers (including Free Preview, Monthly Pro, and Standard Lifetime) auto
 
 --- FILE: products/executive-reborn/ja/index.html (https://fawnfell.com/products/executive-reborn/ja/index.html) ---
 
-# Executive Reborn—ドラマ×FSRSで続くビジネス英語
+# Executive Reborn — ドラマ×FSRSで続くビジネス英語
 
 Executive Reborn — ビジネス英語RPG＋FSRS復習アプリ | Fawnfell
 
@@ -779,12 +787,9 @@ English
 
 繁體中文
 
-iOS
- · オフライン完結型ビジネス英語アプリ
+iOS · オフライン完結型ビジネス英語アプリ
 
-Executive Reborn
- — 
-ドラマ×FSRSで続くビジネス英語
+Executive Reborn — ドラマ×FSRSで続くビジネス英語
 
 Executive Reborn
 は、分厚い参考書が続かない社会人のために Fawnfell が開発したオフライン対応のビジネス英語RPG＋FSRS単語帳アプリです。本編42話＋番外編16話、1,397表現、11,250本の音声クリップを収録しています。
@@ -824,6 +829,16 @@ Executive Reborn
 
 08 · WORK デスク
 リスニング進捗と7種のビジネス資料受信トレイ
+
+暗記・リスニング・読解を「同じ1話」で連動させる理由（テスト問題集ではなく多角的な語彙定着）
+
+一般的な総合英語アプリの多くは、単語帳・リスニング・長文読解が互いに別々の語彙を扱うため記憶が定着しにくい構造です。
+Executive Reborn
+ はもともと「語彙の多角的な定着」を軸に設計されており、第二言語習得理論の
+ナロー・リスニング＆リーディング（Narrow Listening & Reading）
+に基づき、1話ごとに同じ 
+21〜29個の目標フレーズ
+を①反応時間 FSRS 予習 → ②同話の会議音声 → ③同話の社内メール＆関連記事（ハイライト付き）で連続して拾い上げる「同課・横断サイクル」を採用しています。
 
 自己申告ボタンのない反応時間 FSRS-6 とは？
 
@@ -924,6 +939,9 @@ C1 / C2 · 30%欠席・14日中断
 テキスト内遭遇回数は維持
 
 完了後リスト継続が前提
+
+シミュレーション指標の補足：
+上表の「劇中・記事内の遭遇/語（3.3〜6.6回）」は、同一エピソードの会話音声とワークデスク関連記事の中で文脈から自然に再発見する回数を集計したもので、左列の FSRS 単語テスト復習（約11〜12回）とは別枠で上乗せされる二層構造（アルゴリズム復習＋同課文脈インプット）です。
 
 「本ページに記載された学習時間・復習回数・遭遇頻度はすべて FSRS-6 仮想学習者モデルによるシミュレーション値であり、実ユーザーの学習効果や TOEIC スコア向上を保証するものではありません。ただし、一度学習した単語の FSRS 復習キューは解約後も永久に無料開放されます。」
 
@@ -1289,7 +1307,7 @@ FSRS-6 の復習評価は自己申告ボタンですか？
 
 推奨ペースで42話を終えると単語に何回出会えますか？（仮想学習者シミュレーション）
 
-2日に1話の推奨ペースを用いた仮想学習者シミュレーションでは、全42話の完了に約84日、1日の単語＋読解時間は約21.6分です。1語あたりFSRSで平均約11.9回復習し、音声と150本の記事内で平均4.3回出会います（実測データではなくシミュレーション結果です）。
+2日に1話の推奨ペースを用いた仮想学習者シミュレーションでは、全42話の完了に約84日、1日の単語＋読解時間は約21.6分です。1語あたり平均約11.9回の FSRS 単語復習に加え、同一エピソード内の会議音声・関連記事で文脈から自然に4.3回（記事2周時は6.6回）拾い上げる「同課・横断インプット（Narrow Listening & Reading）」の二本立てで定着を図ります（実測データではなくシミュレーション結果です）。
 
 TOEIC® のどのパートに対応していますか？（含まれる学習・含まれない学習）
 
@@ -1331,24 +1349,24 @@ Executive Reborn カリキュラム体験：本編第1〜3話＋Reading全文
 
 Executive Reborn 本編第1〜3話の無料試読ページ。取締役会や全社集会のリスニングスクリプト（英日対訳）、社内文書リーディング教材、72語のビジネス表現を確認できます。（27 会話セリフ / 13 読解テキスト / 72 語彙）
 
-1話ごとの学習ループ構造はどうなっていますか？
+1話の中で単語・リスニング・読解はどう連動しますか？
 
-Executive Reborn の全42話はすべて共通の4段階ループで構成されており、同じターゲット語彙を単語テスト・会話音声・実務メール読解の3文脈で繰り返し定着させる設計です。
+単語帳・音声・長文がバラバラの一般的な英語アプリとは異なり、Executive Reborn は同一エピソード内で同じ目標語（21〜29語）を使い回す「同課・横断インプット（Narrow Listening & Reading）」設計です。FSRS予習で触れた単語を数分後に会議音声で耳から聞き、続いて同じ話の社内文書内でハイライト付きで再び拾い上げることで定着を加速させます。
 
 Step 1
 反応時間 FSRS 予習
 
-会話と文書に出る重要単語をクイズ形式で予習。自己採点なしで反応速度から次回復習間隔を決めます。
+その回に登場する21〜29語の重要単語をまず活性化。自己採点ボタンなしで反応速度から復習間隔を決めます。
 
 Step 2
-ストーリー＆通勤リスニング
+同じ単語を会議音声で聴く
 
-字幕ありストーリー、またはテキスト無しの音声先行モードで職場会話の流れを掴みます。
+数分後、同じエピソードの会議スクリプト＆通勤音声で、いま予習した単語が実際の会話でどう使われるかを聴き取ります。
 
 Step 3
-実務ドキュメント Reading
+同テーマの社内文書で再び拾う
 
-各話のコア文書に加え、受信トレイ・ブリーフィング・契約・人事など150本の関連記事から抜粋して精読します。
+コア文書とワークデスク関連記事を精読。さきほど聴いたばかりの本話ターゲット語がハイライト付きで再登場します。
 
 エピソード・料金プランを選ぶ
 
@@ -1367,6 +1385,9 @@ EP01 · 無料体験ユニット
 EP01 · 合併後の取締役会
 
 初めて役員会議室に座る主人公は、一夜漬けのM&A用語をきちんと説明し、CEOハリントンとCFOビクトリアの矢継ぎ早の質問の中で、初めて本物のコミュニケーションを成し遂げなければならない。
+
+同課・横断ハイライト表示中（EP01 の目標 22 語をスクリプト・読解内で計 64 回ピックアップ）：
+淡いアンバー色のハイライトが、Section 1 の音声で聴き Section 2・3 の実務文書で再び出会う本話の目標語（活用形含む）です。
 
 1. リスニング会話スクリプト（8 文）
 
@@ -1619,6 +1640,9 @@ EP02 · 無料体験ユニット
 EP02 · 全員大会でのマイクトラブル
 
 マイクの故障、隙を狙う競合、緊急電話の三重の圧力の中で、主人公は最も簡潔な言葉で場を鎮め、合併後初の戦略発表を成し遂げなければならない。
+
+同課・横断ハイライト表示中（EP02 の目標 21 語をスクリプト・読解内で計 71 回ピックアップ）：
+淡いアンバー色のハイライトが、Section 1 の音声で聴き Section 2・3 の実務文書で再び出会う本話の目標語（活用形含む）です。
 
 1. リスニング会話スクリプト（11 文）
 
@@ -1882,6 +1906,9 @@ EP03 · 無料体験ユニット
 EP03 · 経費精算の罠
 
 外部監査の追及が迫る中、主人公は乱れた経費伝票の中から論理の穴を見つけ出し、同時にマーケティング部が公金を横領していないことをCEOに証明しなければならない。
+
+同課・横断ハイライト表示中（EP03 の目標 29 語をスクリプト・読解内で計 92 回ピックアップ）：
+淡いアンバー色のハイライトが、Section 1 の音声で聴き Section 2・3 の実務文書で再び出会う本話の目標語（活用形含む）です。
 
 1. リスニング会話スクリプト（8 文）
 
@@ -2283,7 +2310,7 @@ Executive Reborn 詳細ページを見る
 
 --- FILE: products/executive-reborn/ko/index.html (https://fawnfell.com/products/executive-reborn/ko/index.html) ---
 
-# Executive Reborn—스토리에 몰입하며 익히는 실전 비즈니스 영어
+# Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
 
 Executive Reborn — 비즈니스 영어 스토리 RPG | Fawnfell
 
@@ -2306,12 +2333,9 @@ English
 
 繁體中文
 
-iOS
- · 오프라인 비즈니스 영어 스토리 RPG
+iOS · 오프라인 비즈니스 영어 스토리 RPG
 
-Executive Reborn
- — 
-스토리에 몰입하며 익히는 실전 비즈니스 영어
+Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
 
 Executive Reborn
 은 본편 42화 + 번외편 16화(총 58화)의 직장 드라마와 FSRS 간격 반복 학습, 1,397개 비즈니스 표현 및 11,250개 오프라인 음성을 결합한 비즈니스 영어 학습 앱입니다.
@@ -2373,6 +2397,23 @@ SSR 일러스트를 포함한 79장의 아카이브 카드는 현금 판매나 �
 
 피드형 학습 저널
 학습으로 해금한 도감 카드를 붙여 나만의 기록 보관
+
+단어·듣기·읽기를 ‘같은 에피소드’로 묶어 반복하는 이유 (모의고사 앱이 아닌 다각적 어휘 습득)
+
+시중의 많은 영어 앱은 단어장·리스닝·독해가 서로 다른 예문을 다루지만, 
+Executive Reborn
+은 처음부터 
+어휘의 다각적 체화(Narrow Listening & Reading)
+를 위해 설계되었습니다. 매 에피소드마다 
+동일한 21–29개 TSL/NGSL 핵심 어휘
+를 ① 반응 속도 기반 FSRS-6 예습 → ② 같은 화의 회의 음성 청취 → ③ 같은 화의 핵심 사내 문서 및 워크 데스크 연계 지문(하이라이트 제공)에서 잇달아 다시 만나도록 구성했습니다.
+
+시뮬레이션 이중 노출 지표:
+ 권장 속도(2일 1화·하루 약 21.6분, 가상 학습자 모델 기준)에서 단어 1개당 평균 
+11.9회의 FSRS 능동 복습
+과 별도로, 동일 회차의 오디오·사내 문서 문맥 속에서 평균 
+4.3회(2회독 시 6.6회)
+ 자연스럽게 재조우합니다(실제 임상 수치가 아닌 시뮬레이션 기준).
 
 요금제 비교
 
@@ -2512,24 +2553,24 @@ Executive Reborn 커리큘럼 미리보기: 본편 1–3화 & 리딩 전문
 
 Executive Reborn 본편 1–3화 무료 체험 페이지입니다. 이사회·전사 회의 리스닝 스크립트(영한 대역), 사내 문서 리딩 지문 13편, 핵심 비즈니스 어휘 72개를 미리 확인하세요.（27 대화 문장 / 13 리딩 지문 / 72 핵심 어휘）
 
-각 에피소드는 듣기·읽기·어휘가 어떻게 연결되나요?
+한 에피소드 안에서 어휘·듣기·읽기가 어떻게 연동되나요?
 
-Executive Reborn의 본편 42화는 모두 동일한 4단계 실무 학습 루프로 구성되어, 같은 핵심 어휘를 단어 퀴즈·회의 음성·실무 이메일 독해에서 자연스럽게 반복 체화합니다.
+단어장·듣기·독해가 따로 노는 일반 영어 앱과 달리, Executive Reborn은 한 에피소드의 핵심 어휘(21–29개)를 동일 회차의 모든 모달리티로 묶어 반복 노출(Narrow Listening & Reading)합니다. FSRS로 예습한 단어를 몇 분 뒤 같은 화의 회의 음성으로 듣고, 곧바로 연계 사내 문서에서 하이라이트로 다시 만나 자연스럽게 각인시킵니다.
 
 Step 1
 반응 속도 FSRS 예습
 
-대화와 문서에 나올 핵심 어휘를 퀴즈로 예습합니다. 수동 평가 버튼 없이 반응 속도로 다음 복습 간격을 자동 계산합니다.
+해당 회차에 등장할 21–29개 핵심 어휘의 뜻을 먼저 활성화합니다. 수동 평가 버튼 없이 반응 속도로 자동 스케줄링됩니다.
 
 Step 2
-스토리 & 출퇴근 리스닝
+같은 단어를 회의 음성으로 듣기
 
-자막과 함께 보는 스토리 모드 또는 화면 없이 듣는 오디오 우선 모드로 회의 영어의 흐름을 익힙니다.
+방금 예습한 어휘가 실제 회의 대화와 출퇴근 오디오에서 어떤 맥락과 억양으로 쓰이는지 귀로 확인합니다.
 
 Step 3
-실무 문서 WORK Reading
+연계 사내 문서에서 다시 만나기
 
-에피소드 핵심 문서와 함께 받은 편지함·브리핑·계약·인사 등 150편의 사내 문서로 장문 독해를 훈련합니다.
+핵심 문서와 워크 데스크 실무 지문을 읽으며, 방금 들었던 그 단어가 하이라이트와 함께 자연스럽게 재등장하는 경험을 합니다.
 
 에피소드 및 요금제 선택
 
@@ -2548,6 +2589,9 @@ EP01 · 무료 체험 유닛
 EP01 · 인수합병 이후의 이사회
 
 처음으로 임원 회의실에 앉은 주인공은 벼락치기로 외운 인수합병 용어를 제대로 설명해야 한다. 해링턴 CEO와 빅토리아 CFO의 연이은 추궁 속에서 첫 진짜 소통을 완수해야 한다.
+
+동일 회차 교차 노출 하이라이트 적용 중 (EP01 목표 어휘 22개 → 대본·독해 내 총 64회 재등장):
+ 은은한 호박색 하이라이트는 1부 대사에서 듣고 2·3부 실무 문서에서 다시 마주치는 이번 화 핵심 단어(변화형 포함)입니다.
 
 1. 비즈니스 리스닝 스크립트（8 문장）
 
@@ -2800,6 +2844,9 @@ EP02 · 무료 체험 유닛
 EP02 · 전사 회의에서의 마이크 사고
 
 마이크 고장, 틈을 노리는 경쟁사, 긴급 전화라는 삼중 압박 속에서 주인공은 최대한 간결한 말로 현장을 진정시키고, 합병 후 첫 전략 브리핑을 완수해야 한다.
+
+동일 회차 교차 노출 하이라이트 적용 중 (EP02 목표 어휘 21개 → 대본·독해 내 총 71회 재등장):
+ 은은한 호박색 하이라이트는 1부 대사에서 듣고 2·3부 실무 문서에서 다시 마주치는 이번 화 핵심 단어(변화형 포함)입니다.
 
 1. 비즈니스 리스닝 스크립트（11 문장）
 
@@ -3063,6 +3110,9 @@ EP03 · 무료 체험 유닛
 EP03 · 비용 청구 함정
 
 외부 감사의 거센 압박 속에서 주인공은 뒤죽박죽된 비용 청구 서류에서 논리적 허점을 찾아내고, 동시에 CEO에게 마케팅 부서가 공금을 횡령하지 않았음을 입증해야 한다.
+
+동일 회차 교차 노출 하이라이트 적용 중 (EP03 목표 어휘 29개 → 대본·독해 내 총 92회 재등장):
+ 은은한 호박색 하이라이트는 1부 대사에서 듣고 2·3부 실무 문서에서 다시 마주치는 이번 화 핵심 단어(변화형 포함)입니다.
 
 1. 비즈니스 리스닝 스크립트（8 문장）
 
@@ -3681,24 +3731,24 @@ Executive Reborn Curriculum Architecture & Free Sample (EP01–EP03)
 
 Read the complete free preview of Executive Reborn Episodes 1–3: boardroom listening scripts, 10 workplace reading memos, 72 curated TSL/NGSL phrases, and pricing.（27 dialogue lines / 13 reading texts / 72 target words）
 
-How Is Each Episode Structured Across Listening, Reading & Vocabulary?
+How Does Each Episode Bind Vocabulary, Listening & Reading Together?
 
-Every episode across all 42 main chapters follows a uniform four-step workplace loop so target TSL/NGSL terms reappear naturally across spoken audio, story scripts, and inbox reading memos.
+Unlike generic English apps with three disconnected modules, Executive Reborn runs a Narrow Listening & Reading loop (same-episode cross-modal recycling): every episode locks the exact same 21–29 TSL/NGSL target phrases across FSRS warm-up, boardroom audio, and linked reading memos so words you hear minutes ago reappear highlighted on sight.
 
 Step 1
 Reaction-Time FSRS Warm-Up
 
-Pre-study the episode's 21–29 target phrases with latency-based FSRS-6 scheduling (no manual rating buttons).
+Activate this episode's 21–29 target phrases first with latency-based FSRS-6 scheduling—no manual self-rating buttons.
 
 Step 2
-Boardroom Dialogue & Audio
+Hear Those Exact Words in Audio
 
-Listen to native boardroom exchanges either with bilingual script support or audio-first commute playback.
+Listen to the episode's boardroom exchange (bilingual script or audio-first commute playback) and hear those same target words in action.
 
 Step 3
-Multi-Feed Workplace Reading
+Pick Them Up Again in Linked Memos
 
-Read the core episode memo plus linked inbox, briefing, marketing, HR, and operations documents with live term highlights.
+Read the episode's core memo plus linked inbox, briefing, marketing, HR, and operations documents where those target words reappear with live highlights.
 
 Browse Sample Episodes & Pricing
 
@@ -3717,6 +3767,9 @@ EP01 · Free Curriculum Unit
 EP01 · The Post-Merger Boardroom
 
 Workplace English story unit covering The Post-Merger Boardroom (executive_lounge).
+
+Cross-Modal Highlights Active (64 pickups of EP01's 22 words):
+ Soft amber highlights mark this episode's own target words (including inflections) as you hear them in Section 1 and pick them up again across Sections 2 & 3.
 
 1. Workplace Listening Script（8 lines）
 
@@ -3943,6 +3996,9 @@ EP02 · Free Curriculum Unit
 EP02 · The Town Hall Mic Drop
 
 Workplace English story unit covering The Town Hall Mic Drop (town_hall).
+
+Cross-Modal Highlights Active (71 pickups of EP02's 21 words):
+ Soft amber highlights mark this episode's own target words (including inflections) as you hear them in Section 1 and pick them up again across Sections 2 & 3.
 
 1. Workplace Listening Script（11 lines）
 
@@ -4172,6 +4228,9 @@ EP03 · Free Curriculum Unit
 EP03 · The Reimbursement Trap
 
 Workplace English story unit covering The Reimbursement Trap (Boardroom / Finance Office).
+
+Cross-Modal Highlights Active (92 pickups of EP03's 29 words):
+ Soft amber highlights mark this episode's own target words (including inflections) as you hear them in Section 1 and pick them up again across Sections 2 & 3.
 
 1. Workplace Listening Script（8 lines）
 
@@ -4722,7 +4781,7 @@ fawnfell@gmail.com
 
 --- FILE: products/executive-reborn/zh-tw/index.html (https://fawnfell.com/products/executive-reborn/zh-tw/index.html) ---
 
-# Executive Reborn—邊追職場懸疑劇邊練商務英語
+# Executive Reborn — 邊追職場懸疑劇邊練商務英語
 
 Executive Reborn — 商務英語劇情 RPG 應用 | Fawnfell
 
@@ -4745,12 +4804,9 @@ English
 
 繁體中文
 
-iOS
- · 離線商務英語劇情 RPG + FSRS
+iOS · 離線商務英語劇情 RPG + FSRS
 
-Executive Reborn
- — 
-邊追職場懸疑劇邊練商務英語
+Executive Reborn — 邊追職場懸疑劇邊練商務英語
 
 Executive Reborn
  由 Fawnfell 打造，將 42 集主線與 16 集番外（共 58 集）職場劇情、1,397 條商務片語及 FSRS 間隔重複引擎整合為純離線通勤應用，並內建 11,250 條 AAC 語音。
@@ -4813,6 +4869,23 @@ Executive Reborn
 
 IG 風私人學習手札
 貼上背單字解鎖的圖鑑卡，純本地記錄心得
+
+為什麼堅持「背單字 × 聽力 × 閱讀」同課連動？（不是刷題庫，而是多角度內化詞彙）
+
+市面多數綜合英語 App 的背單字、練聽力與做閱讀彼此脫節，背完就忘。
+《Executive Reborn》
+從設計初衷就是一款「多角度熟悉目標單字」的詞彙習得應用，遵循二語習得的
+窄化輸入（Narrow Listening & Reading）
+原理：每集固定鎖定同一批 
+21–29 個 TSL/NGSL 核心片語
+，先以反應時間 FSRS-6 預習詞義，幾分鐘後在同集會議語音裡聽見它，緊接著又在同集核心文件與工作檯文章裡帶著柔和高光再次拾取它。
+
+虛擬學習者模擬雙軌數據註解：
+以建議節奏（兩天一集、每日約 21.6 分鐘）推算，每個單字除了 
+平均 11.9 次 FSRS 主動複習
+外，還會在同一集的聽力逐字稿與關聯職場文章中自然偶遇 
+4.3 次（閱讀重溫兩遍達 6.6 次）
+——由演算法複習與同集語境浸泡雙軌疊加鞏固（非真人臨床實測或分數保證）。
 
 方案比較
 
@@ -4952,24 +5025,24 @@ Executive Reborn 課程架構與免費試讀（第 1–3 集全文）
 
 免安裝線上試讀《Executive Reborn》正篇第 1–3 集：含董事會與全員大會聽力逐字稿（英繁雙語）、13 篇職場閱讀文件與 72 條商務核心詞彙。（27 句對話台詞 / 13 篇閱讀文章 / 72 條核心詞彙）
 
-每一集如何串聯聽力、閱讀與單字記憶？
+單集如何做到「背單字 × 聽力 × 閱讀」同課連動？
 
-《Executive Reborn》全部 42 集正篇皆採用一致的四步職場循環設計，讓同批目標詞彙在單字測驗、會議語音與實務郵件閱讀中反覆重現、自然內化。
+不同於市面上背單字、練聽力、做閱讀各自孤立的綜合英語 App，《Executive Reborn》採用二語習得中的「窄化輸入（Narrow Listening & Reading）」原理：每集鎖定同一批 21–29 個目標詞彙，先做 FSRS 反應預習，幾分鐘後在同一集的會議語音裡聽見它，緊接著又在同一集的職場郵件與多篇關聯文章中帶著柔光高光再次拾取它。
 
 Step 1
-反應時間 FSRS 預習
+反應時間 FSRS 詞義預熱
 
-先預習本集 21–29 個目標片語，免去手動評分按鈕，系統依據答題正確率與反應耗時自動排程。
+先透過 FSRS-6 預習本集將出現的 21–29 個目標片語，免去手動評分疲勞，依反應速度自動排程。
 
 Step 2
-劇情對話與通勤聽力
+同集會議語音裡「聽見它」
 
-可搭配雙語逐字稿推進劇情，或切換純音訊模式在通勤途中專注磨耳朵。
+緊接著在同集董事會對話或通勤音訊中，聽見剛才預熱過的單字在真實職場爭執與交涉中的用法。
 
 Step 3
-多體裁職場長文閱讀
+同集職場長文裡「再次拾取」
 
-除了每集核心文件，還可搭配收件匣、簡報、合約與人事等 150 篇職場文章進行高頻詞彙精讀。
+閱讀本集核心文件與工作檯多篇關聯郵件，剛聽過的詞彙隨即以柔和高光重現，當天就體會「一眼認出」的熟習感。
 
 選擇試讀集數或方案價格
 
@@ -4988,6 +5061,9 @@ EP01 · 免費試讀單元
 EP01 · 併購後的董事會
 
 第一次坐進高管會議室，主角必須把臨時抱佛腳的併購術語說清楚，在哈林頓CEO和維多利亞CFO的連環追問中完成第一次真正的溝通。
+
+已標記本集跨模態復現詞彙（EP01 鎖定 22 詞，在聽力逐字稿與閱讀文章共重現 64 次）：
+下方柔和琥珀色高光標出的，正是「剛聽完又在文章裡認出來」的本集核心單字（含詞形變化）。
 
 1. 職場聽力逐字稿（8 句）
 
@@ -5240,6 +5316,9 @@ EP02 · 免費試讀單元
 EP02 · 全員大會上的麥克風事故
 
 在麥克風故障、競爭對手伺機而動和緊急電話的三重夾擊下，主角必須用最精簡的語言穩住全場，完成併購後的首次戰略宣講。
+
+已標記本集跨模態復現詞彙（EP02 鎖定 21 詞，在聽力逐字稿與閱讀文章共重現 71 次）：
+下方柔和琥珀色高光標出的，正是「剛聽完又在文章裡認出來」的本集核心單字（含詞形變化）。
 
 1. 職場聽力逐字稿（11 句）
 
@@ -5503,6 +5582,9 @@ EP03 · 免費試讀單元
 EP03 · 報銷陷阱
 
 面對外部審計的步步緊逼，主角必須在混亂的報銷單據中找出邏輯漏洞，同時向CEO證明行銷部未侵吞公款。
+
+已標記本集跨模態復現詞彙（EP03 鎖定 29 詞，在聽力逐字稿與閱讀文章共重現 92 次）：
+下方柔和琥珀色高光標出的，正是「剛聽完又在文章裡認出來」的本集核心單字（含詞形變化）。
 
 1. 職場聽力逐字稿（8 句）
 
@@ -6216,7 +6298,7 @@ Project Delivery Skill
 
 --- FILE: zh-tw/index.html (https://fawnfell.com/zh-tw/index.html) ---
 
-# Fawnfell—專注耐用的應用軟體與敘事作品
+# Fawnfell — 專注耐用的應用軟體與敘事作品
 
 Fawnfell — 獨立軟體工作室
 
@@ -6241,9 +6323,7 @@ English
 
 獨立軟體工作室 · Fawnfell
 
-Fawnfell
- — 
-專注耐用的應用軟體與敘事作品
+Fawnfell — 專注耐用的應用軟體與敘事作品
 
 Fawnfell
  是一間獨立軟體工作室，打造離線優先的語言學習應用、敘事遊戲與開源工程管理工具。您可以進入產品目錄選擇具體產品與方案。

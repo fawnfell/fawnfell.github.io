@@ -635,6 +635,25 @@ h3 {
   font-style: normal;
 }
 
+mark.term-hl {
+  background: light-dark(rgba(181, 107, 36, 0.11), rgba(227, 163, 87, 0.16));
+  color: inherit;
+  padding: 0.03em 0.2em;
+  border-radius: 4px;
+  border-block-end: 1.5px solid light-dark(rgba(181, 107, 36, 0.46), rgba(227, 163, 87, 0.55));
+  font-weight: 500;
+}
+
+.hl-note {
+  margin: 0.25rem 0 1rem;
+  padding: 0.65rem 0.95rem;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface-alt);
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
 .table-wrapper {
   overflow: auto;
   max-inline-size: 100%;
