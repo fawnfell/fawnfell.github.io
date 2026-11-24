@@ -1160,7 +1160,7 @@ Subject: URGENT: Q3 Merger Integration & Compliance Review
 Dear Colleagues,
 Following yesterday’s boardroom discussion, it is imperative that we align our integration strategy for the Sterling Properties merger. As many of you are aware, this takeover involves complex regulatory hurdles.
 First, we must oversee the human resources transition carefully. We do not intend to downsize immediately; however, we need to absorb redundant roles into our existing structure. The founder of Sterling has agreed to stay on as an advisor for six months to ensure continuity.
-Second, please note that all realtor commissions associated with the new headquarter locations must be audited by Friday. Disagreement over budget allocations has caused delays in the past. We need every attendee at the Monday meeting to review the attached financials intently.
+Second, please note that all realtor commissions associated with the new headquarters locations must be audited by Friday. Disagreement over budget allocations has caused delays in the past. We need every attendee at the Monday meeting to review the attached financials intently.
 This merger is a prominent opportunity for our company to become more influential in the commercial real estate sector. However, we cannot afford operational errors. Please treat this matter with the seriousness it deserves.
 Best regards,
 Emily
@@ -1196,7 +1196,7 @@ Industry Report: Major Takeover in the Real Estate Sector
 不動産業界の大規模買収案件に関するニュース概要。
 
 The recent takeover of Sterling Properties by a multinational corporation has sparked widespread discussion across the industry. The founder of Sterling, a prominent businessman known for his innovative strategies, announced that the company will be absorbed into the larger entity. This decision aims to streamline operations and reduce redundant costs significantly.
-According to insiders, the new headquarter will remain in the city center, but several regional offices may face downsizing. Analysts predict that this influential move will reshape the local market landscape considerably. While some stakeholders welcome the financial stability, others worry about potential job losses and cultural shifts within the organization.
+According to insiders, the new headquarters will remain in the city center, but several regional offices may face downsizing. Analysts predict that this influential move will reshape the local market landscape considerably. While some stakeholders welcome the financial stability, others worry about potential job losses and cultural shifts within the organization.
 The acquiring firm plans to integrate Sterling's portfolio gradually over the next two years. This strategic approach should minimize disruption for current clients and employees alike. Industry experts suggest that such consolidations are becoming increasingly common in today's competitive environment.
 
 Marketing Strategy for the Post-Merger Brand Integration 
@@ -1345,7 +1345,7 @@ Every attendee in this room expects transparency...
 headquarter
 noun
 本社、本部（通常は複数形）
-corporate headquarters, headquarter location
+corporate headquarters, headquarters location
 Please explain how this takeover benefits the bottom line, rather than just expanding our headquarters footprint.
 
 presenter
@@ -2327,7 +2327,7 @@ Subject: URGENT: Q3 Merger Integration & Compliance Review
 Dear Colleagues,
 Following yesterday’s boardroom discussion, it is imperative that we align our integration strategy for the Sterling Properties merger. As many of you are aware, this takeover involves complex regulatory hurdles.
 First, we must oversee the human resources transition carefully. We do not intend to downsize immediately; however, we need to absorb redundant roles into our existing structure. The founder of Sterling has agreed to stay on as an advisor for six months to ensure continuity.
-Second, please note that all realtor commissions associated with the new headquarter locations must be audited by Friday. Disagreement over budget allocations has caused delays in the past. We need every attendee at the Monday meeting to review the attached financials intently.
+Second, please note that all realtor commissions associated with the new headquarters locations must be audited by Friday. Disagreement over budget allocations has caused delays in the past. We need every attendee at the Monday meeting to review the attached financials intently.
 This merger is a prominent opportunity for our company to become more influential in the commercial real estate sector. However, we cannot afford operational errors. Please treat this matter with the seriousness it deserves.
 Best regards,
 Emily
@@ -2347,7 +2347,7 @@ Industry Report: Major Takeover in the Real Estate Sector
 Briefing · Part 7 · B1-B2 · 142 words
 
 The recent takeover of Sterling Properties by a multinational corporation has sparked widespread discussion across the industry. The founder of Sterling, a prominent businessman known for his innovative strategies, announced that the company will be absorbed into the larger entity. This decision aims to streamline operations and reduce redundant costs significantly.
-According to insiders, the new headquarter will remain in the city center, but several regional offices may face downsizing. Analysts predict that this influential move will reshape the local market landscape considerably. While some stakeholders welcome the financial stability, others worry about potential job losses and cultural shifts within the organization.
+According to insiders, the new headquarters will remain in the city center, but several regional offices may face downsizing. Analysts predict that this influential move will reshape the local market landscape considerably. While some stakeholders welcome the financial stability, others worry about potential job losses and cultural shifts within the organization.
 The acquiring firm plans to integrate Sterling's portfolio gradually over the next two years. This strategic approach should minimize disruption for current clients and employees alike. Industry experts suggest that such consolidations are becoming increasingly common in today's competitive environment.
 
 Marketing Strategy for the Post-Merger Brand Integration 
@@ -2494,7 +2494,7 @@ Every attendee in this room expects transparency...
 headquarter
 noun
 the main office of an organization
-corporate headquarters, headquarter location
+corporate headquarters, headquarters location
 Please explain how this takeover benefits the bottom line, rather than just expanding our headquarters footprint.
 
 presenter
