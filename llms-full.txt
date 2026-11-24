@@ -1073,14 +1073,6 @@ Executive Reborn カリキュラム体験：本編第1〜3話＋Reading全文
 
 Executive Reborn 本編第1〜3話の無料試読ページ。取締役会や全社集会のリスニングスクリプト（英日対訳）、社内文書リーディング教材、72語のビジネス表現を確認できます。（27 会話セリフ / 13 読解テキスト / 72 語彙）
 
-EP01 · 合併後の取締役会
-
-EP02 · 全員大会マイクトラブル
-
-EP03 · 経費精算の罠
-
-料金プランに戻る
-
 1話ごとの学習ループ構造はどうなっていますか？
 
 Executive Reborn の全42話はすべて共通の4段階ループで構成されており、同じターゲット語彙を単語テスト・会話音声・実務メール読解の3文脈で繰り返し定着させる設計です。
@@ -1099,6 +1091,16 @@ Step 3
 実務ドキュメント Reading
 
 各話のコア文書に加え、受信トレイ・ブリーフィング・契約・人事など150本の関連記事から抜粋して精読します。
+
+エピソード・料金プランを選ぶ
+
+EP01 · 合併後の取締役会
+
+EP02 · 全員大会でのマイクトラブル
+
+EP03 · 経費精算の罠
+
+料金プラン
 
 EP01 · 無料体験ユニット
 
@@ -1455,21 +1457,21 @@ The Executive Team
 3. ワークデスク関連ドキュメント（WORK Reading 収録テキスト）（3 本）
 
 Preparation for the Post-Merger Town Hall Assembly 
-受信トレイ · 7 · B1 · 175 words
+受信トレイ · Part 7 · B1 · 175 words
 
 Alexがチームに送った、合併後の全社員集会の準備に関するメール。
 
 As we prepare for the upcoming assembly in the main auditorium, I want to ensure every detail is handled efficiently. The recent merger has created some uncertainty, and rumors about our future direction are circulating among staff members. It is vital that we present a unified front to calm these anxieties. Please delegate specific tasks to your subordinates immediately so we can address any concerns proactively. Sarah, as the event coordinator, please verify that the microphone system is fully operational before the doors open. We cannot afford any technical glitches during this strategic announcement regarding our new market position. Our goal is to absorb the new employees smoothly and demonstrate our commitment to transparency. Let us work together diligently to make this important event a complete success for everyone involved. Furthermore, please distribute the updated agenda to all department heads by noon today. We need to streamline the Q&A session to ensure we stay within the allotted time frame. Your prompt attention to these critical matters is greatly appreciated by the entire management team.
 
 Harrington Group's Strategic Growth Under New Leadership 
-ブリーフィング · 7 · B2 · 177 words
+ブリーフィング · Part 7 · B2 · 177 words
 
 Alexのリーダーシップのもとでのハリントン・グループの戦略的成長に関する概要。
 
 Harrington Group has shown steady growth since the recent takeover, largely due to the visionary leadership of its founder, Alex. As a seasoned entrepreneur, Alex knows how to steer a company through turbulent market conditions. The firm has focused on building strong collaboration between departments, which has proven to be integral to their success. Analysts note that Harrington has steadily increased its market share by elevating customer service standards. The management team has wisely invested in sustainable technologies, resulting in tremendous cost savings over the past quarter. This approach not only improves profitability but also enhances the company's reputation in the global market. Experts predict that this strategic focus will continue to drive expansion in emerging sectors throughout the next fiscal year. Furthermore, the integration of new talent has been seamless, allowing the organization to absorb diverse skill sets without disrupting existing workflows. Stakeholders are particularly impressed by how quickly the executive team adapted to changing consumer demands. This agility suggests that Harrington is well-positioned to maintain its competitive edge against rival firms in the coming months.
 
 Incident Report: Audio System Failure During Town Hall 
-運営 · 7 · B2 · 182 words
+運営 · Part 7 · B2 · 182 words
 
 全社員集会でのマイク故障に関する事故報告書。
 
@@ -1677,7 +1679,7 @@ The remainder of the proceeds from our quarterly fundraise will be used to subsi
 3. ワークデスク関連ドキュメント（WORK Reading 収録テキスト）（4 本）
 
 Urgent: Audit Preparation and Expense Reports 
-受信トレイ · 7 · B1-B2 · 167 words
+受信トレイ · Part 7 · B1-B2 · 167 words
 
 Alexが財務責任者から受け取った、外部監査への対応として経費精算書類の整理を求める緊急メール。
 
@@ -1693,7 +1695,7 @@ Sarah Jenkins
 CFO
 
 Strategic Asset Liquidation Report 
-ブリーフィング · 7 · B1-B2 · 163 words
+ブリーフィング · Part 7 · B1-B2 · 163 words
 
 会社が遊休資産の競売によって資金を調達することに関する業界概要。
 
@@ -1703,7 +1705,7 @@ After a detailed calculation involving depreciation and market trends, the finan
 Furthermore, the legal team will review all contracts to ensure compliance with local regulations. Stakeholders are encouraged to attend the briefing session next week for further details on the allocation of proceeds and future investment plans.
 
 Competitor Pricing Strategy Analysis 
-マーケット · 7 · B1-B2 · 151 words
+マーケット · Part 7 · B1-B2 · 151 words
 
 競合他社が経費の削減と補助の戦略によって低価格を維持している方法の分析。
 
@@ -1713,7 +1715,7 @@ Using a detailed spreadsheet, we can subtract their known operational costs from
 We should monitor their quarterly reports closely and prepare a counter-strategy. Additionally, we must consider the impact of supply chain disruptions on their inventory levels. A thorough review of their recent transactions reveals potential weaknesses in their vendor relationships that we can exploit.
 
 Service Agreement Terms and Conditions 
-契約書 · 7 · B1-B2 · 150 words
+契約書 · Part 7 · B1-B2 · 150 words
 
 サービス契約における費用の決済、監査権、資金配分に関する条項の説明。
 
@@ -1909,6 +1911,58 @@ adverb
 正確に
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
+
+料金プラン
+
+Plans & Pricing — 料金プラン一覧
+
+無料体験（本編第1〜3話・番外編第1〜2話）からそのまま継続でき、一度学習した単語の FSRS 復習は月額プラン終了後も永久無料です。
+
+Executive Reborn プラン比較表
+
+プラン
+
+日本円 (JPY)
+
+米ドル (USD)
+
+収録内容・特典
+
+無料体験
+
+¥0
+
+$0
+
+本編 第1〜3話 ＋ 番外編 第1〜2話 ＋ 学習済み単語のFSRS復習（永久無料）＋ 季節・祝日カレンダー自動背景（12種）
+
+ライト月額プラン
+
+¥780 / 月
+
+$4.99 / 月
+
+全58話アンロック ＋ 季節・祝日カレンダー自動背景（12種）
+
+スタンダード買い切り
+
+¥2,800
+
+$17.99
+
+1回の購入で全58話と今後の無料アップデートを永久解放 ＋ 季節・祝日カレンダー自動背景（12種）
+
+デラックス版
+
+¥3,800
+
+$24.99
+
+スタンダード内容 ＋ 時のクローゼット（11衣装・13窓景色をいつでも固定）＋ 限定「台風一過の二重虹」＆ヘッドホン衣装2種 ＋ 代替アイコン（差額アップグレード可）
+
+Executive Reborn 詳細ページを見る
+
+窓景色・Marshal衣装一覧
 
 
 --- FILE: products/executive-reborn/ko/index.html (https://fawnfell.com/products/executive-reborn/ko/index.html) ---
@@ -2194,14 +2248,6 @@ Executive Reborn Curriculum Architecture & Free Sample (EP01–EP03)
 
 Read the complete free preview of Executive Reborn Episodes 1–3: boardroom listening scripts, 10+ workplace reading memos, and 72 curated TSL/NGSL phrases.（27 dialogue lines / 13 reading texts / 72 target words）
 
-EP01 · The Post-Merger Boardroom
-
-EP02 · Town Hall Mic Drop
-
-EP03 · Reimbursement Trap
-
-Plans & Pricing
-
 How Is Each Episode Structured Across Listening, Reading & Vocabulary?
 
 Every episode across all 42 main chapters follows a uniform four-step workplace loop so target TSL/NGSL terms reappear naturally across spoken audio, story scripts, and inbox reading memos.
@@ -2220,6 +2266,16 @@ Step 3
 Multi-Feed Workplace Reading
 
 Read the core episode memo plus linked inbox, briefing, marketing, HR, and operations documents with live term highlights.
+
+Browse Sample Episodes & Pricing
+
+EP01 · The Post-Merger Boardroom
+
+EP02 · The Town Hall Mic Drop
+
+EP03 · The Reimbursement Trap
+
+Plans & Pricing
 
 EP01 · Free Curriculum Unit
 
@@ -2279,7 +2335,7 @@ Emily
 3. Linked WORK Desk Reading Articles（3 articles）
 
 Upcoming Board Meeting Regarding the Harrington Merger 
-收件箱 · Part 7 · B1-B2 · 148 words
+Inbox · Part 7 · B1-B2 · 148 words
 
 Dear Team,
 Please be advised that a critical board meeting will take place in the main boardroom this Friday at 10:00 AM. The primary agenda is to discuss the ongoing merger with Harrington Group. As an attendee, your presence is imperative because we must finalize several key strategic decisions before the end of the month.
@@ -2288,14 +2344,14 @@ Additionally, please consult with your departmental advisor regarding any budget
 Thank you for your continued dedication and professionalism.
 
 Industry Report: Major Takeover in the Real Estate Sector 
-简报 · Part 7 · B1-B2 · 142 words
+Briefing · Part 7 · B1-B2 · 142 words
 
 The recent takeover of Sterling Properties by a multinational corporation has sparked widespread discussion across the industry. The founder of Sterling, a prominent businessman known for his innovative strategies, announced that the company will be absorbed into the larger entity. This decision aims to streamline operations and reduce redundant costs significantly.
 According to insiders, the new headquarter will remain in the city center, but several regional offices may face downsizing. Analysts predict that this influential move will reshape the local market landscape considerably. While some stakeholders welcome the financial stability, others worry about potential job losses and cultural shifts within the organization.
 The acquiring firm plans to integrate Sterling's portfolio gradually over the next two years. This strategic approach should minimize disruption for current clients and employees alike. Industry experts suggest that such consolidations are becoming increasingly common in today's competitive environment.
 
 Marketing Strategy for the Post-Merger Brand Integration 
-市场 · Part 7 · B1-B2 · 147 words
+Marketing · Part 7 · B1-B2 · 147 words
 
 Following our successful merger with Global Realty, we must develop a cohesive marketing strategy to present a unified brand image. It is crucial that we merge our digital platforms and customer databases seamlessly to enhance user experience across all channels. Our target audience includes both traditional realtors and modern property investors who value efficiency and transparency.
 During the upcoming product launch event, the main presenter will outline our new service offerings to an audience listening intently. We anticipate some disagreement among stakeholders regarding the allocation of promotional budgets, but data-driven decisions should guide our final choices. Every attendee at the conference will receive a comprehensive overview of our expanded capabilities.
@@ -2522,17 +2578,17 @@ The Executive Team
 3. Linked WORK Desk Reading Articles（3 articles）
 
 Preparation for the Post-Merger Town Hall Assembly 
-收件箱 · 7 · B1 · 175 words
+Inbox · Part 7 · B1 · 175 words
 
 As we prepare for the upcoming assembly in the main auditorium, I want to ensure every detail is handled efficiently. The recent merger has created some uncertainty, and rumors about our future direction are circulating among staff members. It is vital that we present a unified front to calm these anxieties. Please delegate specific tasks to your subordinates immediately so we can address any concerns proactively. Sarah, as the event coordinator, please verify that the microphone system is fully operational before the doors open. We cannot afford any technical glitches during this strategic announcement regarding our new market position. Our goal is to absorb the new employees smoothly and demonstrate our commitment to transparency. Let us work together diligently to make this important event a complete success for everyone involved. Furthermore, please distribute the updated agenda to all department heads by noon today. We need to streamline the Q&A session to ensure we stay within the allotted time frame. Your prompt attention to these critical matters is greatly appreciated by the entire management team.
 
 Harrington Group's Strategic Growth Under New Leadership 
-简报 · 7 · B2 · 177 words
+Briefing · Part 7 · B2 · 177 words
 
 Harrington Group has shown steady growth since the recent takeover, largely due to the visionary leadership of its founder, Alex. As a seasoned entrepreneur, Alex knows how to steer a company through turbulent market conditions. The firm has focused on building strong collaboration between departments, which has proven to be integral to their success. Analysts note that Harrington has steadily increased its market share by elevating customer service standards. The management team has wisely invested in sustainable technologies, resulting in tremendous cost savings over the past quarter. This approach not only improves profitability but also enhances the company's reputation in the global market. Experts predict that this strategic focus will continue to drive expansion in emerging sectors throughout the next fiscal year. Furthermore, the integration of new talent has been seamless, allowing the organization to absorb diverse skill sets without disrupting existing workflows. Stakeholders are particularly impressed by how quickly the executive team adapted to changing consumer demands. This agility suggests that Harrington is well-positioned to maintain its competitive edge against rival firms in the coming months.
 
 Incident Report: Audio System Failure During Town Hall 
-运营 · 7 · B2 · 182 words
+Operations · Part 7 · B2 · 182 words
 
 This official report details the significant technical difficulties that were encountered during yesterday's town hall meeting. The primary microphone failed unexpectedly, causing significant disruption to the scheduled presentation and delaying the agenda. This incident highlights an inefficient process for equipment testing prior to major events. We must reconsider our current vendor contracts and streamline the setup procedure to prevent future occurrences. Additionally, the lack of a backup translator for international guests created confusion during the Q&A segment. While the speaker did not retreat from the stage, the delay undermined the professional image we strive to elevate. It is integral that we delegate responsibility for technical checks to a dedicated team member in the future. Immediate action is required to address these operational gaps and ensure reliability for upcoming assemblies. Furthermore, staff members reported frustration due to the extended pause, which allowed rumors about instability to spread rapidly. To mitigate this risk, we propose implementing a rigorous pre-event checklist that includes redundant audio systems and verified translation services. This proactive measure will help us maintain control over the narrative during critical announcements.
 
@@ -2727,7 +2783,7 @@ The remainder of the proceeds from our quarterly fundraise will be used to subsi
 3. Linked WORK Desk Reading Articles（4 articles）
 
 Urgent: Audit Preparation and Expense Reports 
-收件箱 · 7 · B1-B2 · 167 words
+Inbox · Part 7 · B1-B2 · 167 words
 
 Subject: Urgent: Audit Preparation and Expense Reports
 Dear Alex,
@@ -2741,7 +2797,7 @@ Sarah Jenkins
 CFO
 
 Strategic Asset Liquidation Report 
-简报 · 7 · B1-B2 · 163 words
+Briefing · Part 7 · B1-B2 · 163 words
 
 Industry Brief: Strategic Asset Liquidation
 Harrington Group recently announced plans to hold a public auction for its surplus machinery and office equipment. The primary goal is to maximize revenue from these non-core assets before the fiscal year ends. A senior banker from our partner institution advised that the timing of any cash withdrawal is critical for maintaining healthy liquidity ratios.
@@ -2749,7 +2805,7 @@ After a detailed calculation involving depreciation and market trends, the finan
 Furthermore, the legal team will review all contracts to ensure compliance with local regulations. Stakeholders are encouraged to attend the briefing session next week for further details on the allocation of proceeds and future investment plans.
 
 Competitor Pricing Strategy Analysis 
-市场 · 7 · B1-B2 · 151 words
+Marketing · Part 7 · B1-B2 · 151 words
 
 Market Watch: Competitor Pricing Strategies
 Our main competitor has adopted a highly economical business model to capture market share in the retail sector. They have significantly reduced their overhead by moving to smaller office spaces and automating customer service channels. However, internal reports suggest their current cash flow is insufficient for long-term sustainability and rapid expansion.
@@ -2757,7 +2813,7 @@ Using a detailed spreadsheet, we can subtract their known operational costs from
 We should monitor their quarterly reports closely and prepare a counter-strategy. Additionally, we must consider the impact of supply chain disruptions on their inventory levels. A thorough review of their recent transactions reveals potential weaknesses in their vendor relationships that we can exploit.
 
 Service Agreement Terms and Conditions 
-合同 · 7 · B1-B2 · 150 words
+Contracts · Part 7 · B1-B2 · 150 words
 
 Contract Clause 4.2: Financial Settlement and Audit Rights
 The Client agrees to allocate funds for the project within ten days of signing the agreement. Any remainder of the budget after successful completion will be returned to the Client promptly. The Contractor must economize on resources to maximize efficiency and deliver high-quality results.
@@ -2951,6 +3007,78 @@ adverb
 correctly, precisely
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
+
+Pricing & Editions
+
+Plans & Pricing Comparison
+
+Start free with full offline audio on the opening chapters (EP01–EP03 & SP01–SP02), then pick a low-friction monthly pass or a single one-time lifetime buyout. Learned words stay permanently unlocked in your FSRS queue.
+
+Executive Reborn Tiers & Regional Pricing (USD / JPY / KRW / TWD)
+
+Tier
+
+USD
+
+JPY
+
+KRW
+
+TWD
+
+Included Access
+
+Free Preview
+
+$0
+
+¥0
+
+₩0
+
+NT$0
+
+EP01–EP03 + SP01–SP02 + permanent FSRS review + auto seasonal/holiday calendar themes (12 scenes)
+
+Monthly Pro
+
+$4.99/mo
+
+¥780/mo
+
+₩7,500/mo
+
+NT$160/mo
+
+All 42 main + 16 side episodes + auto seasonal/holiday calendar themes (12 scenes)
+
+Standard Lifetime
+
+$17.99
+
+¥2,800
+
+₩27,000
+
+NT$590
+
+Permanent unlock of all 58 episodes & future updates + auto seasonal/holiday calendar themes (12 scenes)
+
+Deluxe Edition
+
+$24.99
+
+¥3,800
+
+₩36,000
+
+NT$790
+
+Standard Lifetime + Time Wardrobe (pin all 11 outfits & 13 window scenes year-round) + exclusive Typhoon Double Rainbow & 2 headphone styles + 2 alternate app icons (upgradeable from Standard)
+
+View Full Executive Reborn Page
+
+Window Scenes & Outfits
 
 
 --- FILE: products/executive-reborn/privacy/index.html (https://fawnfell.com/products/executive-reborn/privacy/index.html) ---
@@ -3182,9 +3310,11 @@ Catalog
 
 Fawnfell Products
 
-Select a product below to view detailed specifications, regional pricing, documentation, or open-source repositories.
+Select a product below to preview upcoming apps and games, read free curriculum samples, or browse open-source tools.
 
-Available & Open Source
+Coming Soon
+
+Coming Soon
 
 iOS / App
 
@@ -3196,7 +3326,29 @@ Executive Reborn
 
 Open Executive Reborn
 
+Free Preview (EP1–3)
+
 日本語
+
+In Development
+
+Interactive Fiction
+
+Project Gaslamp
+
+A multi-ending interactive mystery narrative currently in script polish and visual production.
+
+In Development
+
+Nature & Cozy
+
+Botanical & Birding Journals
+
+Quiet field-guide games inspired by 19th-century natural history plates and seasonal observation.
+
+In Development
+
+Open Source
 
 Open Source
 
@@ -3207,24 +3359,6 @@ Project Delivery Skill
 First-principles AI engineering project delivery protocols paired with a fail-closed Pydantic calculator CLI for CPM, PERT, EVM, and contracts.
 
 Open Repository
-
-In Development
-
-Interactive Fiction
-
-Project Gaslamp
-
-A multi-ending interactive mystery narrative currently in script polish and visual production.
-
-Upcoming
-
-Nature & Cozy
-
-Botanical & Birding Journals
-
-Quiet field-guide games inspired by 19th-century natural history plates and seasonal observation.
-
-Upcoming
 
 
 --- FILE: zh-tw/index.html (https://fawnfell.com/zh-tw/index.html) ---

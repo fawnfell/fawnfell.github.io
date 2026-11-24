@@ -716,3 +716,67 @@ details p {
 details > .table-wrapper {
   margin-block: 0.85rem 0.25rem;
 }
+
+/* Episode & pricing switcher tabs on curriculum preview pages */
+.episode-tabs {
+  margin-block-start: 2rem;
+}
+
+.ep-tablist {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0.35rem;
+  overflow-x: auto;
+  scroll-snap-type: inline proximity;
+  border-block-end: 1px solid var(--border);
+  scrollbar-width: thin;
+}
+
+.ep-tab {
+  position: relative;
+  flex: none;
+  scroll-snap-align: start;
+  appearance: none;
+  background: transparent;
+  border: 0;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 0.7rem 1rem 0.85rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 160ms ease;
+}
+
+.ep-tab:hover {
+  color: var(--ink);
+}
+
+.ep-tab[aria-selected="true"] {
+  color: var(--primary);
+}
+
+.ep-tab[aria-selected="true"]::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0;
+  border-block-end: 3px solid var(--primary);
+}
+
+/* Padding lives on inner wrapper so hidden="until-found" never leaves an empty strip */
+.ep-panel-inner {
+  padding-block-start: 1.5rem;
+}
+
+.ep-panel-inner h3 {
+  margin: 0.15rem 0 0.6rem;
+  font-size: 1.32rem;
+  line-height: 1.35;
+}
+
+.ep-panel-inner h4 {
+  margin: 1.45rem 0 0.55rem;
+  font-size: 1.06rem;
+  line-height: 1.4;
+}

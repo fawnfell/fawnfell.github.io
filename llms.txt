@@ -18,5 +18,5 @@
 - [Executive Reborn — Privacy Policy](https://fawnfell.com/products/executive-reborn/privacy/index.html): Bilingual English and Japanese privacy policy for Executive Reborn by Fawnfell. Local-first learning progress, Apple App Store / RevenueCat receipt handling, and zero ad tracking.
 - [Executive Reborn — Support & Help](https://fawnfell.com/products/executive-reborn/support/index.html): Official support page for Executive Reborn by Fawnfell. How to restore purchases, manage subscriptions, switch languages, and contact support at fawnfell@gmail.com.
 - [Executive Reborn — 邊追職場懸疑劇邊練商務英語](https://fawnfell.com/products/executive-reborn/zh-tw/index.html): Fawnfell 出品的《Executive Reborn》收錄 42 集主線與 16 集番外（共 58 集）、1,397 條商務片語與 FSRS 間隔重複引擎，支援純離線通勤學習。
-- [Fawnfell Products](https://fawnfell.com/products/index.html): Explore all products from Fawnfell: Executive Reborn (iOS business English RPG + FSRS app), Project Delivery Skill (open-source AI PM CLI), and upcoming works.
+- [Fawnfell Products](https://fawnfell.com/products/index.html): Explore all products from Fawnfell: Executive Reborn (iOS business English RPG + FSRS app, coming soon), upcoming interactive fiction and nature games, and open-source developer tools.
 - [Fawnfell — 專注耐用的應用軟體與敘事作品](https://fawnfell.com/zh-tw/index.html): Fawnfell 是專注打造離線優先語言學習應用、敘事遊戲與第一性原理開發者工具的獨立軟體工作室。
