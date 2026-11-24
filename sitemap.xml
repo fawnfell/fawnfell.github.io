@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fawnfell.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/zh-tw/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fawnfell.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/executive-reborn/support/</loc>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/executive-reborn/privacy/</loc>
+  </url>
+</urlset>

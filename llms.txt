@@ -1,0 +1,12 @@
+# Fawnfell & Executive Reborn
+
+> Independent software studio building Executive Reborn (58-episode offline business English RPG + FSRS app with 1,397 phrases and 11,250 AAC clips across EN/JA/KO/ZH-Hant), narrative games, and developer workflow tools.
+
+## Core Pages & Documentation
+
+- [Executive Reborn — Privacy Policy](https://fawnfell.com/executive-reborn/privacy/index.html): Bilingual English and Japanese privacy policy for Executive Reborn by Fawnfell. Local-first learning progress, Apple App Store / RevenueCat receipt handling, and zero ad tracking.
+- [Executive Reborn — Support & Help](https://fawnfell.com/executive-reborn/support/index.html): Official support page for Executive Reborn by Fawnfell. How to restore purchases, manage subscriptions, switch languages, and contact support at fawnfell@gmail.com.
+- [Fawnfell — Practical Language Apps, Narrative Worlds & Focused Tools](https://fawnfell.com/index.html): Fawnfell is an independent software studio building Executive Reborn (58-episode business English RPG + FSRS app for iOS), narrative games, and developer workflow tools.
+- [Fawnfell — 物語で身につくビジネス英語『Executive Reborn』](https://fawnfell.com/ja/index.html): Fawnfell（フォーンフェル）は独立ソフトウェアスタジオです。iOS向けビジネス英語RPG＋FSRS復習アプリ『Executive Reborn』（全58話・1,397語・完全オフライン対応）を開発しています。
+- [Fawnfell — 스토리에 몰입하는 비즈니스 영어 『Executive Reborn』](https://fawnfell.com/ko/index.html): Fawnfell은 직장인을 위한 오프라인 비즈니스 영어 스토리 RPG 및 FSRS 암기 앱 Executive Reborn(총 58화·1,397 표현)을 개발하는 인디 소프트웨어 스튜디오입니다.
+- [Fawnfell — 邊追職場懸疑劇邊練商務英語《Executive Reborn》](https://fawnfell.com/zh-tw/index.html): Fawnfell 是獨立軟體工作室，打造面向職場人的離線商務英語劇情 RPG 與 FSRS 記憶卡片應用 Executive Reborn（收錄 58 集劇情、1,397 條商務片語）。
