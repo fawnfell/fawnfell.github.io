@@ -1,9 +1,337 @@
-# Fawnfell & Executive Reborn — Full LLM Context (/llms-full.txt)
+# Fawnfell Studio & Products — Full LLM Context (/llms-full.txt)
 
 
 
-> Independent software studio building Executive Reborn (58-episode offline business English RPG + FSRS app with 1,397 phrases and 11,250 AAC clips across EN/JA/KO/ZH-Hant), narrative games, and developer workflow tools.
+> Fawnfell is an independent software studio building offline-first learning apps (Executive Reborn), atmospheric narrative games, and open-core project delivery tools (fawnfell/project-delivery).
 
+
+
+--- FILE: executive-reborn/index.html (https://fawnfell.com/executive-reborn/index.html) ---
+
+# Executive Reborn — Learn Real Workplace English Through Story
+
+Executive Reborn — Business English RPG & FSRS App | Fawnfell
+
+Skip to content
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+iOS · Offline Business English RPG + FSRS
+
+Executive Reborn — Learn Real Workplace English Through Story
+
+Executive Reborn
+ is an offline-first business English learning app by Fawnfell. Built for busy professionals who dislike dry textbooks, it combines 58 interactive corporate story episodes, 1,397 workplace phrases, and an FSRS spaced-repetition engine with 11,250 AAC voice clips.
+
+Compare Plans
+
+Support & Restore
+
+Privacy Policy
+
+How Executive Reborn Combines Listening, Reading & Memory
+
+Every study loop pairs your Shiba companion Marshal with concise workplace dramas covering boardrooms, vendor audits, contracts, and crisis calls across roughly 230 MB of offline audio and art.
+
+Story
+
+58 Interactive Episodes
+
+42 main episodes (EP01–EP42) plus 16 side-story visual novel chapters with branching dialogue and native line-by-line audio.
+
+See Free Preview
+
+Vocabulary
+
+1,397 Curated Phrases
+
+Grounded in the NGSL (2,809 words) and TSL (1,250 words) frequency lists, paired with 11,250 AAC word and gloss clips.
+
+Open Wordlist Licenses
+
+Memory
+
+FSRS Spaced Repetition
+
+Powered by the open-source Free Spaced Repetition Scheduler (FSRS), keeping every learned word permanently unlocked.
+
+How Review Works
+
+“All words studied in Executive Reborn remain permanently available in the FSRS review queue even if a monthly subscription expires.”
+
+— Fawnfell Product Charter · Powered by open-source FSRS & NGSL/TSL corpora
+
+Plans & Pricing Comparison
+
+Start free with full offline audio on the opening chapters, then pick a low-friction monthly pass or a single one-time lifetime buyout.
+
+Executive Reborn Tiers & Regional Pricing (USD / JPY / KRW / TWD)
+
+Tier
+
+USD
+
+JPY
+
+KRW
+
+TWD
+
+Included Access
+
+Free Preview
+
+$0
+
+¥0
+
+₩0
+
+NT$0
+
+EP01–EP03 + SP01–SP02 + permanent FSRS review of learned words
+
+Monthly Pro
+
+$4.99/mo
+
+¥780/mo
+
+₩7,500/mo
+
+NT$160/mo
+
+All 42 main + 16 side episodes + calendar seasonal themes
+
+Standard Lifetime
+
+$17.99
+
+¥2,800
+
+₩27,000
+
+NT$590
+
+Permanent unlock of all 58 episodes & future content updates
+
+Deluxe Edition
+
+$24.99
+
+¥3,800
+
+₩36,000
+
+NT$790
+
+Standard Lifetime + Time Wardrobe (11 Marshal outfits, 13 window scenes), SSR art preview, 3 app icons
+
+Frequently Asked Questions
+
+What is Executive Reborn by Fawnfell?
+
+Executive Reborn is an offline-first business English RPG and FSRS flashcard app built by Fawnfell. It includes 42 main episodes, 16 side-story episodes, 1,397 business phrases, and full audio across Japanese, Korean, Traditional Chinese, and English.
+
+How much does Executive Reborn cost and is there a lifetime option?
+
+The first 3 main episodes and first 2 side stories are free. You can unlock all 58 episodes via a $4.99/month subscription, a $17.99 Standard Lifetime buyout, or a $24.99 Deluxe Edition with Time Wardrobe unlocks and alternate app icons.
+
+What happens to learned vocabulary if a monthly subscription expires?
+
+Any word you have already learned remains permanently unlocked in your FSRS review queue. Fawnfell guarantees zero lockouts on your personal spaced-repetition study history.
+
+Does Executive Reborn work offline on commutes?
+
+Yes. All 58 story episodes, 1,397 phrases, and 11,250 AAC word audio clips are bundled locally so commuters can study and listen with lock-screen controls without cellular data.
+
+
+--- FILE: executive-reborn/ja/index.html (https://fawnfell.com/executive-reborn/ja/index.html) ---
+
+# Executive Reborn — 企業ドラマとFSRSで続くビジネス英語
+
+Executive Reborn — ビジネス英語RPG＋FSRS復習アプリ | Fawnfell
+
+本文へ移動
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+iOS · オフライン完結型ビジネス英語アプリ
+
+Executive Reborn — 企業ドラマとFSRSで続くビジネス英語
+
+Executive Reborn
+は、分厚い参考書が続かない社会人のために Fawnfell が開発したオフライン対応のビジネス英語RPG＋FSRS単語帳アプリです。本編42話＋番外編16話、1,397表現、11,250本の音声クリップを収録しています。
+
+料金プランを見る
+
+サポート・購入復元
+
+プライバシーポリシー
+
+料金プラン一覧
+
+Executive Reborn プラン比較表
+
+プラン
+
+日本円 (JPY)
+
+米ドル (USD)
+
+収録内容・特典
+
+無料体験
+
+¥0
+
+$0
+
+本編 第1〜3話 ＋ 番外編 第1〜2話 ＋ 学習済み単語のFSRS復習（永久無料）
+
+ライト月額プラン
+
+¥780 / 月
+
+$4.99 / 月
+
+全58話アンロック ＋ 季節・祝日の自動背景切り替え
+
+スタンダード買い切り
+
+¥2,800
+
+$17.99
+
+1回の購入で全58話と今後の無料アップデートを永久解放
+
+デラックス版
+
+¥3,800
+
+$24.99
+
+スタンダード内容 ＋ 時のクローゼット（衣装11種・窓景色13種固定）＋ SSR原画鑑賞 ＋ 代替アイコン
+
+よくある質問
+
+Executive Reborn とはどんなアプリですか？
+
+Fawnfell が開発する社会人向けビジネス英語RPG＋FSRS単語帳アプリです。本編42話と番外編16話、1,397語のビジネスフレーズをオフライン音声付きで収録しています。
+
+料金体系と買い切りプランはありますか？
+
+本編第3話・番外編第2話まで無料です。全58話の解放は月額¥780、スタンダード買い切り¥2,800、着せ替え特典付きデラックス版¥3,800から選べます。
+
+月額プランを解約しても学習済み単語は復習できますか？
+
+はい。一度学習した単語のFSRS復習キューは永久に無料開放されるため、解約後も復習がロックされることはありません。
+
+
+--- FILE: executive-reborn/ko/index.html (https://fawnfell.com/executive-reborn/ko/index.html) ---
+
+# Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
+
+Executive Reborn — 비즈니스 영어 스토리 RPG | Fawnfell
+
+본문으로 건너뛰기
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+iOS · 오프라인 비즈니스 영어 스토리 RPG
+
+Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
+
+Executive Reborn
+은 본편 42화 + 번외편 16화(총 58화)의 직장 드라마와 FSRS 간격 반복 학습, 1,397개 비즈니스 표현 및 11,250개 오프라인 음성을 결합한 비즈니스 영어 학습 앱입니다.
+
+요금제 보기
+
+지원 및 구매 복원
+
+개인정보처리방침
+
+요금제 비교
+
+Executive Reborn 플랜 안내
+
+플랜
+
+원화 (KRW)
+
+달러 (USD)
+
+주요 혜택
+
+무료 체험
+
+₩0
+
+$0
+
+본편 1–3화 + 번외편 1–2화 + 학습한 단어 FSRS 복습 영구 무료
+
+라이트 월간 구독
+
+₩7,500 / 월
+
+$4.99 / 월
+
+전체 58화 잠금 해제 + 계절·기념일 창밖 테마 자동 전환
+
+스탠다드 일시불
+
+₩27,000
+
+$17.99
+
+1회 결제로 전체 58화 및 향후 무료 업데이트 영구 소장
+
+디럭스 에디션
+
+₩36,000
+
+$24.99
+
+스탠다드 전체 + 타임 옷장(의상 11종·풍경 13종 상시 고정) + SSR 원화 감상 + 대체 앱 아이콘
+
+자주 묻는 질문
+
+Executive Reborn은 어떤 앱인가요?
+
+Fawnfell이 개발한 직장인 대상 오프라인 비즈니스 영어 스토리 RPG 및 FSRS 단어 학습 앱입니다. 총 58화와 1,397개 비즈니스 표현을 수록했습니다.
+
+일시불(영구 소장) 구매가 가능한가요?
+
+본편 3화와 번외편 2화는 무료이며, 월간 구독(₩7,500), 스탠다드 일시불(₩27,000), 디럭스 에디션(₩36,000) 중 선택할 수 있습니다.
+
+이미 학습한 단어는 구독이 끝나도 복습할 수 있나요?
+
+네. 이미 학습한 단어의 FSRS 복습 큐는 구독 상태와 무관하게 영구 무료로 유지됩니다.
 
 
 --- FILE: executive-reborn/licenses/index.html (https://fawnfell.com/executive-reborn/licenses/index.html) ---
@@ -304,11 +632,13 @@ fawnfell@gmail.com
  までお送りください。
 
 
---- FILE: index.html (https://fawnfell.com/index.html) ---
+--- FILE: executive-reborn/zh-tw/index.html (https://fawnfell.com/executive-reborn/zh-tw/index.html) ---
 
-# Fawnfell — Practical Language Apps, Narrative Worlds & Focused Tools
+# Executive Reborn — 邊追職場懸疑劇邊練商務英語
 
-Fawnfell — Executive Reborn & Independent Software Studio
+Executive Reborn — 商務英語劇情 RPG 應用 | Fawnfell
+
+跳至主要內容
 
 Fawnfell
 
@@ -320,377 +650,20 @@ EN
 
 繁體中文
 
-Independent Software & Interactive Studio
+iOS · 離線商務英語劇情 RPG + FSRS
 
-Fawnfell — Practical Language Apps, Narrative Worlds & Focused Tools
-
-Fawnfell
- is an independent software studio crafting offline-first learning apps, cozy narrative games, and calm developer workflow tools. Our flagship iOS release, 
-Executive Reborn
-, pairs 58 interactive workplace story episodes with an FSRS spaced-repetition memory engine for busy professionals.
-
-Compare Plans
-
-App Support
-
-fawnfell@gmail.com
-
-Executive Reborn: Built for Real Workplace Fluency Without Textbook Burnout
+Executive Reborn — 邊追職場懸疑劇邊練商務英語
 
 Executive Reborn
- replaces dry rote drills with a high-stakes corporate comedy-mystery alongside Marshal, your sharp-witted Shiba companion. Every session connects listening, Cornell-style reading notes, and FSRS flashcard intervals inside an offline app weighing roughly 230 MB.
-
-58 Interactive Episodes
-
-42 main episodes (EP01–EP42) plus 16 side-story visual novel chapters with branching choices and line-by-line native voice playback.
-
-1,397 Curated Phrases
-
-Backed by the New General Service List (NGSL) and TOEIC Service List (TSL), paired with 11,250 AAC word and gloss audio clips.
-
-FSRS Memory Engine
-
-Uses the open-source Free Spaced Repetition Scheduler (FSRS) to schedule reviews at optimal recall intervals—and never locks words you already learned.
-
-“All words studied in Executive Reborn remain permanently available in the FSRS review queue even if a monthly subscription expires.”
-
-— Fawnfell Product Charter · Powered by open-source FSRS & NGSL/TSL corpora
-
-Plans & Pricing Comparison
-
-Start free with full offline audio on the opening chapters, then pick a low-friction monthly pass or a single one-time lifetime buyout with no hidden renewal traps.
-
-Executive Reborn Tiers & Regional Pricing (USD / JPY / KRW / TWD)
-
-Tier
-
-USD
-
-JPY
-
-KRW
-
-TWD
-
-Included Access
-
-Free Preview
-
-$0
-
-¥0
-
-₩0
-
-NT$0
-
-EP01–EP03 + SP01–SP02 + permanent FSRS review of learned words
-
-Monthly Pro
-
-$4.99/mo
-
-¥780/mo
-
-₩7,500/mo
-
-NT$160/mo
-
-All 42 main + 16 side episodes + calendar seasonal themes
-
-Standard Lifetime
-
-$17.99
-
-¥2,800
-
-₩27,000
-
-NT$590
-
-Permanent unlock of all 58 episodes & future content updates
-
-Deluxe Edition
-
-$24.99
-
-¥3,800
-
-₩36,000
-
-NT$790
-
-Standard Lifetime + Time Wardrobe (11 Marshal outfits, 13 window scenes), SSR art preview, 3 app icons
-
-What Fawnfell Builds Across Our Studio
-
-Fawnfell designs calm, self-contained software across two complementary pillars: interactive consumer products and disciplined project-delivery tools.
-
-Language & Learning Apps
-
-Offline-first, FSRS-driven study companions like 
-Executive Reborn
- designed for Japanese, Korean, Traditional Chinese, and global learners.
-
-Cozy & Narrative Games
-
-Hand-crafted story worlds and specimen journals including 
-Project Gaslamp
- (102k-word mystery), botanical/birding journals, and detective tales.
-
-Developer & PM Tools
-
-Upcoming open-core project delivery workflows and multi-project prioritization utilities for solo builders and small software teams.
-
-Frequently Asked Questions
-
-What is Executive Reborn by Fawnfell?
-
-Executive Reborn is an offline-first business English RPG and FSRS flashcard app built by Fawnfell. It includes 42 main episodes, 16 side-story episodes, 1,397 business phrases, and full audio for working professionals across Japanese, Korean, Traditional Chinese, and English.
-
-How much does Executive Reborn cost and is there a lifetime option?
-
-The first 3 main episodes and first 2 side stories are free. You can unlock all 58 episodes via a $4.99/month subscription, a $17.99 Standard Lifetime buyout, or a $24.99 Deluxe Edition with Time Wardrobe unlocks and alternate app icons.
-
-What happens to learned vocabulary if a monthly subscription expires?
-
-Any word you have already learned remains permanently unlocked in your FSRS review queue. Fawnfell guarantees zero lockouts on your personal spaced-repetition study history.
-
-Does Executive Reborn work offline on commutes?
-
-Yes. All 58 story episodes, 1,397 phrases, and 11,250 AAC word audio clips are bundled locally so commuters can study and listen with lock-screen controls without cellular data.
-
-How do I contact Fawnfell for support or press?
-
-Email 
-fawnfell@gmail.com
- or visit our 
-Executive Reborn Support
- page.
-
-
---- FILE: ja/index.html (https://fawnfell.com/ja/index.html) ---
-
-# Fawnfell — 物語で身につくビジネス英語『Executive Reborn』
-
-Fawnfell — ビジネス英語アプリ Executive Reborn 公式サイト
-
-Fawnfell
-
-EN
-
-日本語
-
-한국어
-
-繁體中文
-
-独立ソフトウェアスタジオ · Fawnfell
-
-Fawnfell — 物語で身につくビジネス英語『Executive Reborn』
-
-Fawnfell（フォーンフェル）
-は、語学学習アプリや物語ゲーム、開発者向けツールを制作する独立スタジオです。主力アプリ
-『Executive Reborn』
-は、本編42話＋番外編16話の実務ストーリーと FSRS 間隔反復記憶システムを組み合わせた、オフライン完結型のビジネス英語アプリです。
-
-料金プランを見る
-
-サポート・購入復元
-
-分厚い参考書が続かない社会人のための設計
-
-相棒の柴犬 Marshal とともに企業サスペンス劇を進めながら、リスニング・読解・1,397フレーズの語彙復習を毎日の通勤時間に1本化できます。
-
-全58話のビジネス劇
-
-本編42話（EP01–EP42）と番外編SP 16話を収録。会議・監査・交渉など実務シーンの英語を文脈ごと習得できます。
-
-11,250本のオフライン音声
-
-英単語・日本語解説・コロケーション音声を端末内に同梱。ロック画面操作に対応し、通信量を消費しません。
-
-学習済み単語の復習は永久無料
-
-オープンソースの FSRS アルゴリズムを採用。一度覚えた単語の復習キューは、課金状態に関わらずずっと利用できます。
-
-料金プラン一覧（日本円・他通貨対応）
-
-Executive Reborn プラン比較表
-
-プラン
-
-日本円 (JPY)
-
-米ドル (USD)
-
-収録内容・特典
-
-無料体験
-
-¥0
-
-$0
-
-本編 第1〜3話 ＋ 番外編 第1〜2話 ＋ 学習済み単語のFSRS復習（永久無料）
-
-ライト月額プラン
-
-¥780 / 月
-
-$4.99 / 月
-
-全58話アンロック ＋ 季節・祝日の自動背景切り替え
-
-スタンダード買い切り
-
-¥2,800
-
-$17.99
-
-1回の購入で全58話と今後の無料アップデートを永久解放
-
-デラックス版
-
-¥3,800
-
-$24.99
-
-スタンダード内容 ＋ 時のクローゼット（衣装11種・窓景色13種固定）＋ SSR原画鑑賞 ＋ 代替アイコン
-
-よくある質問
-
-Executive Reborn とはどんなアプリですか？
-
-Fawnfell が開発する社会人向けビジネス英語RPG＋FSRS単語帳アプリです。本編42話と番外編16話、1,397語のビジネスフレーズをオフライン音声付きで収録しています。
-
-料金体系と買い切りプランはありますか？
-
-本編第3話・番外編第2話まで無料です。全58話の解放は月額¥780、スタンダード買い切り¥2,800、着せ替え特典付きデラックス版¥3,800から選べます。
-
-月額プランを解約しても学習済み単語は復習できますか？
-
-はい。一度学習した単語のFSRS復習キューは永久に無料開放されるため、解約後も復習がロックされることはありません。
-
-
---- FILE: ko/index.html (https://fawnfell.com/ko/index.html) ---
-
-# Fawnfell — 스토리에 몰입하는 비즈니스 영어 『Executive Reborn』
-
-Fawnfell — 비즈니스 영어 앱 Executive Reborn 공식 사이트
-
-Fawnfell
-
-EN
-
-日本語
-
-한국어
-
-繁體中文
-
-인디 소프트웨어 스튜디오 · Fawnfell
-
-Fawnfell — 스토리에 몰입하는 비즈니스 영어 『Executive Reborn』
-
-Fawnfell
-은 오프라인 학습 앱, 내러티브 게임, 집중형 개발자 도구를 만드는 독립 스튜디오입니다. 대표작 
-Executive Reborn
-은 본편 42화 + 번외편 16화의 직장 드라마와 FSRS 간격 반복 학습을 결합해 바쁜 직장인을 위해 설계되었습니다.
-
-요금제 보기
-
-지원 및 구매 복원
-
-요금제 비교 (KRW / USD)
-
-Executive Reborn 플랜 안내
-
-플랜
-
-원화 (KRW)
-
-달러 (USD)
-
-주요 혜택
-
-무료 체험
-
-₩0
-
-$0
-
-본편 1–3화 + 번외편 1–2화 + 학습한 단어 FSRS 복습 영구 무료
-
-라이트 월간 구독
-
-₩7,500 / 월
-
-$4.99 / 월
-
-전체 58화 잠금 해제 + 계절·기념일 창밖 테마 자동 전환
-
-스탠다드 일시불
-
-₩27,000
-
-$17.99
-
-1회 결제로 전체 58화 및 향후 무료 업데이트 영구 소장
-
-디럭스 에디션
-
-₩36,000
-
-$24.99
-
-스탠다드 전체 + 타임 옷장(의상 11종·풍경 13종 상시 고정) + SSR 원화 감상 + 대체 앱 아이콘
-
-자주 묻는 질문
-
-Executive Reborn은 어떤 앱인가요?
-
-Fawnfell이 개발한 직장인 대상 오프라인 비즈니스 영어 스토리 RPG 및 FSRS 단어 학습 앱입니다. 총 58화와 1,397개 비즈니스 표현을 수록했습니다.
-
-일시불(영구 소장) 구매가 가능한가요?
-
-본편 3화와 번외편 2화는 무료이며, 월간 구독(₩7,500), 스탠다드 일시불(₩27,000), 디럭스 에디션(₩36,000) 중 선택할 수 있습니다.
-
-이미 학습한 단어는 구독이 끝나도 복습할 수 있나요?
-
-네. 이미 학습한 단어의 FSRS 복습 큐는 구독 상태와 무관하게 영구 무료로 유지됩니다.
-
-
---- FILE: zh-tw/index.html (https://fawnfell.com/zh-tw/index.html) ---
-
-# Fawnfell — 邊追職場懸疑劇邊練商務英語《Executive Reborn》
-
-Fawnfell — 商務英語學習 App Executive Reborn 官方網站
-
-Fawnfell
-
-EN
-
-日本語
-
-한국어
-
-繁體中文
-
-獨立軟體工作室 · Fawnfell
-
-Fawnfell — 邊追職場懸疑劇邊練商務英語《Executive Reborn》
-
-Fawnfell
- 專注打造離線優先的語言學習應用、敘事遊戲與高效率工具。主力作品
-《Executive Reborn》
-將 58 集高張力職場劇情與 FSRS 間隔重複記憶演算法合而為一，讓通勤時間成為真正的英語實戰場。
+ 由 Fawnfell 打造，將 42 集主線與 16 集番外（共 58 集）職場劇情、1,397 條商務片語及 FSRS 間隔重複引擎整合為純離線通勤應用，並內建 11,250 條 AAC 語音。
 
 查看方案價格
 
 支援與恢復購買
 
-方案比較（新台幣 / 美元）
+隱私權政策
+
+方案比較
 
 Executive Reborn 定價與權益矩陣
 
@@ -747,4 +720,255 @@ Executive Reborn 適合什麼樣的學習者？
 月費到期後，已經背過的單字會被鎖住嗎？
 
 不會。所有已學習過的單字都會永久保留在 FSRS 複習佇列中，絕不鎖死您累積的學習進度。
+
+
+--- FILE: index.html (https://fawnfell.com/index.html) ---
+
+# Fawnfell — Calm, Durable Software & Story Worlds
+
+Fawnfell — Independent Software & Interactive Studio
+
+Skip to content
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+Independent Software Studio
+
+Fawnfell — Calm, Durable Software & Story Worlds
+
+Fawnfell
+ is an independent software studio crafting offline-first learning applications, atmospheric narrative games, and open-core developer workflow tools. We design compact, self-contained products without bloat, dark patterns, or unnecessary noise.
+
+Browse Products
+
+fawnfell@gmail.com
+
+What We Build
+
+Apps & Games
+
+Language & Narrative Works
+
+Story-driven learning apps and hand-crafted visual novels built to run offline on mobile and desktop.
+
+View Products
+
+Open Source
+
+Developer & Delivery Tools
+
+Deterministic engineering calculators and AI agent workflows rooted in first-principles project delivery.
+
+Explore on GitHub
+
+
+--- FILE: ja/index.html (https://fawnfell.com/ja/index.html) ---
+
+# Fawnfell — 静かで長く使えるアプリと物語を
+
+Fawnfell — 独立ソフトウェアスタジオ
+
+本文へ移動
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+独立ソフトウェアスタジオ · Fawnfell
+
+Fawnfell — 静かで長く使えるアプリと物語を
+
+Fawnfell（フォーンフェル）
+は、オフライン完結型の語学アプリ、物語体験のあるゲーム、そして開発者向けワークフローツールを制作する独立スタジオです。各プロダクトの詳細・料金・サポートはプロダクト一覧からお選びいただけます。
+
+プロダクト一覧を見る
+
+Executive Reborn へ
+
+制作領域
+
+Apps & Games
+
+語学学習アプリ・物語ゲーム
+
+社会人向けビジネス英語RPG『Executive Reborn』をはじめ、オフラインでじっくり楽しめる作品を開発しています。
+
+プロダクトを選ぶ
+
+Open Source
+
+開発者向けオープンソースツール
+
+第一原理のプロジェクト進行・定量リスク計算を行うオープンソースツール群を GitHub で公開しています。
+
+GitHub を見る
+
+
+--- FILE: ko/index.html (https://fawnfell.com/ko/index.html) ---
+
+# Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
+
+Fawnfell — 인디 소프트웨어 스튜디오
+
+본문으로 건너뛰기
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+인디 소프트웨어 스튜디오 · Fawnfell
+
+Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
+
+Fawnfell
+은 오프라인 중심 학습 앱, 내러티브 게임, 그리고 오픈소스 개발 워크플로 도구를 제작하는 독립 소프트웨어 스튜디오입니다. 제품 디렉터리에서 각 앱과 도구를 살펴보실 수 있습니다.
+
+제품 둘러보기
+
+Executive Reborn 바로가기
+
+스튜디오 영역
+
+Apps & Games
+
+어학 학습 앱 & 내러티브 게임
+
+비즈니스 영어 스토리 RPG 『Executive Reborn』을 비롯한 오프라인 친화형 학습·스토리 작품을 만듭니다.
+
+제품 선택하기
+
+Open Source
+
+개발자·PM 오픈소스 도구
+
+제1원리 기반 일정·리스크 정량 계산 도구를 GitHub 오픈소스로 공개하고 있습니다.
+
+GitHub 보기
+
+
+--- FILE: products/index.html (https://fawnfell.com/products/index.html) ---
+
+# Fawnfell Products
+
+Products | Fawnfell
+
+Skip to content
+
+Fawnfell
+
+Catalog
+
+Fawnfell Products
+
+Select a product below to view detailed specifications, regional pricing, documentation, or open-source repositories.
+
+Available & Open Source
+
+iOS / App
+
+EN · JA · KO · ZH-Hant
+
+Executive Reborn
+
+58-episode offline business English narrative RPG with 1,397 workplace phrases, FSRS spaced repetition, and 11,250 AAC voice clips.
+
+Open Executive Reborn
+
+日本語
+
+Open Source
+
+MIT + CC BY 4.0
+
+Project Delivery Skill
+
+First-principles AI engineering project delivery protocols paired with a fail-closed Pydantic calculator CLI for CPM, PERT, EVM, and contracts.
+
+Open Repository
+
+In Development
+
+Interactive Fiction
+
+Project Gaslamp
+
+A multi-ending interactive mystery narrative currently in script polish and visual production.
+
+Upcoming
+
+Nature & Cozy
+
+Botanical & Birding Journals
+
+Quiet field-guide games inspired by 19th-century natural history plates and seasonal observation.
+
+Upcoming
+
+
+--- FILE: zh-tw/index.html (https://fawnfell.com/zh-tw/index.html) ---
+
+# Fawnfell — 專注耐用的應用軟體與敘事作品
+
+Fawnfell — 獨立軟體工作室
+
+跳至主要內容
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+獨立軟體工作室 · Fawnfell
+
+Fawnfell — 專注耐用的應用軟體與敘事作品
+
+Fawnfell
+ 是一間獨立軟體工作室，打造離線優先的語言學習應用、敘事遊戲與開源工程管理工具。您可以進入產品目錄選擇具體產品與方案。
+
+瀏覽全部產品
+
+前往 Executive Reborn
+
+開發方向
+
+Apps & Games
+
+語言學習與敘事遊戲
+
+涵蓋《Executive Reborn》等離線沉浸式商務英語應用，以及陸續打磨中的敘事與自然手札作品。
+
+選擇產品
+
+Open Source
+
+開發者與專案交付工具
+
+將第一性原理的排期計算與風險邊界驗證開源至 GitHub，服務獨立開發者與精實團隊。
+
+前往 GitHub
 
