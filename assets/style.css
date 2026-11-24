@@ -471,6 +471,19 @@ main.banner-page {
   .banner-inner {
     padding-block: 14.8rem 2.8rem;
   }
+
+  .banner-deckle h1 .title-sep {
+    display: none;
+  }
+
+  .banner-deckle h1 .title-sub {
+    display: block;
+    margin-block-start: 0.3rem;
+    font-size: 0.76em;
+    font-weight: 600;
+    line-height: 1.32;
+    opacity: 0.94;
+  }
 }
 
 .hero {
@@ -489,6 +502,10 @@ main.banner-page {
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--accent);
+}
+
+.keep-case {
+  text-transform: none;
 }
 
 h1 {
@@ -662,12 +679,18 @@ tbody tr:last-child td {
 
 @container (width < 560px) {
   table,
+  caption,
   thead,
   tbody,
   tr,
   th,
   td {
     display: block;
+  }
+  caption {
+    inline-size: 100%;
+    text-align: left;
+    padding-block-end: 0.65rem;
   }
   thead {
     display: none;

@@ -4,13 +4,13 @@
 
 ## Core Pages & Documentation
 
-- [Fawnfell — Calm, Durable Software & Story Worlds](https://fawnfell.com/index.html): Fawnfell is an independent software studio creating offline-first language apps, cozy narrative games, and first-principles developer tools.
-- [Fawnfell — 静かで長く使えるアプリと物語を](https://fawnfell.com/ja/index.html): Fawnfell（フォーンフェル）は、オフライン重視の語学学習アプリ、物語ゲーム、開発者向けオープンソースツールを制作する独立ソフトウェアスタジオです。
-- [Fawnfell — 오래 곁에 두는 소프트웨어와 이야기](https://fawnfell.com/ko/index.html): Fawnfell은 오프라인 우선 어학 학습 앱, 내러티브 게임, 오픈소스 개발자 도구를 만드는 독립 소프트웨어 스튜디오입니다.
-- [Executive Reborn — Learn Real Workplace English Through Story](https://fawnfell.com/products/executive-reborn/index.html): Executive Reborn by Fawnfell is an offline-first business English RPG and FSRS flashcard app with 58 story episodes, 1,397 workplace phrases, and 11,250 AAC voice clips.
-- [Executive Reborn — ドラマ×FSRSで続くビジネス英語](https://fawnfell.com/products/executive-reborn/ja/index.html): Fawnfell の『Executive Reborn』は本編42話＋番外編16話（計58話）、1,397のビジネス表現、11,250本のオフライン音声を備えたビジネス英語学習アプリです。
+- [Fawnfell—Calm, Durable Software & Story Worlds](https://fawnfell.com/index.html): Fawnfell is an independent software studio creating offline-first language apps, cozy narrative games, and first-principles developer tools.
+- [Fawnfell—静かで長く使えるアプリと物語を](https://fawnfell.com/ja/index.html): Fawnfell（フォーンフェル）は、オフライン重視の語学学習アプリ、物語ゲーム、開発者向けオープンソースツールを制作する独立ソフトウェアスタジオです。
+- [Fawnfell—오래 곁에 두는 소프트웨어와 이야기](https://fawnfell.com/ko/index.html): Fawnfell은 오프라인 우선 어학 학습 앱, 내러티브 게임, 오픈소스 개발자 도구를 만드는 독립 소프트웨어 스튜디오입니다.
+- [Executive Reborn—Learn Real Workplace English Through Story](https://fawnfell.com/products/executive-reborn/index.html): Executive Reborn by Fawnfell is an offline-first business English RPG and FSRS flashcard app with 58 story episodes, 1,397 workplace phrases, and 11,250 AAC voice clips.
+- [Executive Reborn—ドラマ×FSRSで続くビジネス英語](https://fawnfell.com/products/executive-reborn/ja/index.html): Fawnfell の『Executive Reborn』は本編42話＋番外編16話（計58話）、1,397のビジネス表現、11,250本のオフライン音声を備えたビジネス英語学習アプリです。
 - [Executive Reborn カリキュラム体験：本編第1〜3話＋Reading全文](https://fawnfell.com/products/executive-reborn/ja/preview/index.html): Executive Reborn 本編第1〜3話の無料試読ページ。取締役会や全社集会のリスニングスクリプト（英日対訳）、社内文書リーディング教材、72語のビジネス表現を確認できます。
-- [Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어](https://fawnfell.com/products/executive-reborn/ko/index.html): Fawnfell의 Executive Reborn은 본편 42화 + 번외편 16화(총 58화), 1,397개 비즈니스 표현과 FSRS 반복 학습을 담은 오프라인 비즈니스 영어 앱입니다.
+- [Executive Reborn—스토리에 몰입하며 익히는 실전 비즈니스 영어](https://fawnfell.com/products/executive-reborn/ko/index.html): Fawnfell의 Executive Reborn은 본편 42화 + 번외편 16화(총 58화), 1,397개 비즈니스 표현과 FSRS 반복 학습을 담은 오프라인 비즈니스 영어 앱입니다.
 - [Executive Reborn 커리큘럼 미리보기: 본편 1–3화 & 리딩 전문](https://fawnfell.com/products/executive-reborn/ko/preview/index.html): Executive Reborn 본편 1–3화 무료 체험 페이지입니다. 이사회·전사 회의 리스닝 스크립트(영한 대역), 사내 문서 리딩 지문 13편, 핵심 비즈니스 어휘 72개를 미리 확인하세요.
 - [Executive Reborn — Open Wordlist Licenses & Attribution](https://fawnfell.com/products/executive-reborn/licenses/index.html): Open CC BY-SA 4.0 attribution, modification notes, and downloadable headword lists for TOEIC Service List (TSL 1.2) and New General Service List (NGSL 1.2) used in Executive Reborn.
 - [New General Service List (NGSL) 1.2 — 署名与相同方式共享](https://fawnfell.com/products/executive-reborn/licenses/LICENSE-NGSL.md): 来源**：New General Service List v1.2，作者 Dr. Charles Browne、Dr. Brent Culligan、Joseph Phillips（2013）
@@ -18,10 +18,10 @@
 - [Executive Reborn Curriculum Architecture & Free Sample (EP01–EP03)](https://fawnfell.com/products/executive-reborn/preview/index.html): Read the complete free preview of Executive Reborn Episodes 1–3: boardroom listening scripts, 10 workplace reading memos, 72 curated TSL/NGSL phrases, and pricing.
 - [Executive Reborn — Privacy Policy](https://fawnfell.com/products/executive-reborn/privacy/index.html): Bilingual English and Japanese privacy policy for Executive Reborn by Fawnfell. Local-first learning progress, Apple App Store / RevenueCat receipt handling, and zero ad tracking.
 - [Executive Reborn — Support & Help](https://fawnfell.com/products/executive-reborn/support/index.html): Official support page for Executive Reborn by Fawnfell. How to restore purchases, manage subscriptions, switch languages, and contact support at fawnfell@gmail.com.
-- [Executive Reborn — 邊追職場懸疑劇邊練商務英語](https://fawnfell.com/products/executive-reborn/zh-tw/index.html): Fawnfell 出品的《Executive Reborn》收錄 42 集主線與 16 集番外（共 58 集）、1,397 條商務片語與 FSRS 間隔重複引擎，支援純離線通勤學習。
+- [Executive Reborn—邊追職場懸疑劇邊練商務英語](https://fawnfell.com/products/executive-reborn/zh-tw/index.html): Fawnfell 出品的《Executive Reborn》收錄 42 集主線與 16 集番外（共 58 集）、1,397 條商務片語與 FSRS 間隔重複引擎，支援純離線通勤學習。
 - [Executive Reborn 課程架構與免費試讀（第 1–3 集全文）](https://fawnfell.com/products/executive-reborn/zh-tw/preview/index.html): 免安裝線上試讀《Executive Reborn》正篇第 1–3 集：含董事會與全員大會聽力逐字稿（英繁雙語）、13 篇職場閱讀文件與 72 條商務核心詞彙。
 - [Fawnfell Products](https://fawnfell.com/products/index.html): Explore all products from Fawnfell: Executive Reborn (iOS business English RPG + FSRS app, coming soon), upcoming interactive fiction and nature games, and open-source developer tools.
 - [Fawnfell プロダクト](https://fawnfell.com/products/ja/index.html): Fawnfell のプロダクト一覧：公開準備中のビジネス英語RPG『Executive Reborn』、制作中の物語・自然観察ゲーム、オープンソース開発者ツールをご紹介します。
 - [Fawnfell 제품 목록](https://fawnfell.com/products/ko/index.html): Fawnfell 제품 카탈로그: 출시 예정 비즈니스 영어 RPG 『Executive Reborn』, 개발 중인 내러티브·자연 게임, 오픈소스 개발자 도구를 살펴보세요.
 - [Fawnfell 產品一覽](https://fawnfell.com/products/zh-tw/index.html): 瀏覽 Fawnfell 全部作品：即將推出的商務英語劇情 RPG《Executive Reborn》、開發中的互動敘事與自然觀察遊戲，以及開源工程工具。
-- [Fawnfell — 專注耐用的應用軟體與敘事作品](https://fawnfell.com/zh-tw/index.html): Fawnfell 是專注打造離線優先語言學習應用、敘事遊戲與第一性原理開發者工具的獨立軟體工作室。
+- [Fawnfell—專注耐用的應用軟體與敘事作品](https://fawnfell.com/zh-tw/index.html): Fawnfell 是專注打造離線優先語言學習應用、敘事遊戲與第一性原理開發者工具的獨立軟體工作室。

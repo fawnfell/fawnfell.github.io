@@ -8,7 +8,7 @@
 
 --- FILE: index.html (https://fawnfell.com/index.html) ---
 
-# Fawnfell — Calm, Durable Software & Story Worlds
+# Fawnfell—Calm, Durable Software & Story Worlds
 
 Fawnfell — Independent Software & Interactive Studio
 
@@ -33,7 +33,9 @@ English
 
 Independent Software Studio
 
-Fawnfell — Calm, Durable Software & Story Worlds
+Fawnfell
+ — 
+Calm, Durable Software & Story Worlds
 
 Fawnfell
  is an independent software studio crafting offline-first learning applications, atmospheric narrative games, and open-core developer workflow tools. We design compact, self-contained products without bloat, dark patterns, or unnecessary noise.
@@ -63,7 +65,7 @@ Explore on GitHub
 
 --- FILE: ja/index.html (https://fawnfell.com/ja/index.html) ---
 
-# Fawnfell — 静かで長く使えるアプリと物語を
+# Fawnfell—静かで長く使えるアプリと物語を
 
 Fawnfell — 独立ソフトウェアスタジオ
 
@@ -88,7 +90,9 @@ English
 
 独立ソフトウェアスタジオ · Fawnfell
 
-Fawnfell — 静かで長く使えるアプリと物語を
+Fawnfell
+ — 
+静かで長く使えるアプリと物語を
 
 Fawnfell（フォーンフェル）
 は、オフライン完結型の語学アプリ、物語体験のあるゲーム、そして開発者向けワークフローツールを制作する独立スタジオです。各プロダクトの詳細・料金・サポートはプロダクト一覧からお選びいただけます。
@@ -118,7 +122,7 @@ GitHub を見る
 
 --- FILE: ko/index.html (https://fawnfell.com/ko/index.html) ---
 
-# Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
+# Fawnfell—오래 곁에 두는 소프트웨어와 이야기
 
 Fawnfell — 인디 소프트웨어 스튜디오
 
@@ -143,7 +147,9 @@ English
 
 인디 소프트웨어 스튜디오 · Fawnfell
 
-Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
+Fawnfell
+ — 
+오래 곁에 두는 소프트웨어와 이야기
 
 Fawnfell
 은 오프라인 중심 학습 앱, 내러티브 게임, 그리고 오픈소스 개발 워크플로 도구를 제작하는 독립 소프트웨어 스튜디오입니다. 제품 디렉터리에서 각 앱과 도구를 살펴보실 수 있습니다.
@@ -173,7 +179,7 @@ GitHub 보기
 
 --- FILE: products/executive-reborn/index.html (https://fawnfell.com/products/executive-reborn/index.html) ---
 
-# Executive Reborn — Learn Real Workplace English Through Story
+# Executive Reborn—Learn Real Workplace English Through Story
 
 Executive Reborn — Business English RPG & FSRS App | Fawnfell
 
@@ -196,9 +202,12 @@ English
 
 繁體中文
 
-iOS · Offline Business English RPG + FSRS
+iOS
+ · Offline Business English RPG + FSRS
 
-Executive Reborn — Learn Real Workplace English Through Story
+Executive Reborn
+ — 
+Learn Real Workplace English Through Story
 
 Executive Reborn
  is an offline-first business English learning app by Fawnfell. Built for busy professionals who dislike dry textbooks, it combines 58 interactive corporate story episodes, 1,397 workplace phrases, and an FSRS spaced-repetition engine with 11,250 AAC voice clips.
@@ -747,7 +756,7 @@ Yes. All tiers (including Free Preview, Monthly Pro, and Standard Lifetime) auto
 
 --- FILE: products/executive-reborn/ja/index.html (https://fawnfell.com/products/executive-reborn/ja/index.html) ---
 
-# Executive Reborn — ドラマ×FSRSで続くビジネス英語
+# Executive Reborn—ドラマ×FSRSで続くビジネス英語
 
 Executive Reborn — ビジネス英語RPG＋FSRS復習アプリ | Fawnfell
 
@@ -770,9 +779,12 @@ English
 
 繁體中文
 
-iOS · オフライン完結型ビジネス英語アプリ
+iOS
+ · オフライン完結型ビジネス英語アプリ
 
-Executive Reborn — ドラマ×FSRSで続くビジネス英語
+Executive Reborn
+ — 
+ドラマ×FSRSで続くビジネス英語
 
 Executive Reborn
 は、分厚い参考書が続かない社会人のために Fawnfell が開発したオフライン対応のビジネス英語RPG＋FSRS単語帳アプリです。本編42話＋番外編16話、1,397表現、11,250本の音声クリップを収録しています。
@@ -2271,7 +2283,7 @@ Executive Reborn 詳細ページを見る
 
 --- FILE: products/executive-reborn/ko/index.html (https://fawnfell.com/products/executive-reborn/ko/index.html) ---
 
-# Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
+# Executive Reborn—스토리에 몰입하며 익히는 실전 비즈니스 영어
 
 Executive Reborn — 비즈니스 영어 스토리 RPG | Fawnfell
 
@@ -2294,9 +2306,12 @@ English
 
 繁體中文
 
-iOS · 오프라인 비즈니스 영어 스토리 RPG
+iOS
+ · 오프라인 비즈니스 영어 스토리 RPG
 
-Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
+Executive Reborn
+ — 
+스토리에 몰입하며 익히는 실전 비즈니스 영어
 
 Executive Reborn
 은 본편 42화 + 번외편 16화(총 58화)의 직장 드라마와 FSRS 간격 반복 학습, 1,397개 비즈니스 표현 및 11,250개 오프라인 음성을 결합한 비즈니스 영어 학습 앱입니다.
@@ -4707,7 +4722,7 @@ fawnfell@gmail.com
 
 --- FILE: products/executive-reborn/zh-tw/index.html (https://fawnfell.com/products/executive-reborn/zh-tw/index.html) ---
 
-# Executive Reborn — 邊追職場懸疑劇邊練商務英語
+# Executive Reborn—邊追職場懸疑劇邊練商務英語
 
 Executive Reborn — 商務英語劇情 RPG 應用 | Fawnfell
 
@@ -4730,9 +4745,12 @@ English
 
 繁體中文
 
-iOS · 離線商務英語劇情 RPG + FSRS
+iOS
+ · 離線商務英語劇情 RPG + FSRS
 
-Executive Reborn — 邊追職場懸疑劇邊練商務英語
+Executive Reborn
+ — 
+邊追職場懸疑劇邊練商務英語
 
 Executive Reborn
  由 Fawnfell 打造，將 42 集主線與 16 集番外（共 58 集）職場劇情、1,397 條商務片語及 FSRS 間隔重複引擎整合為純離線通勤應用，並內建 11,250 條 AAC 語音。
@@ -6198,7 +6216,7 @@ Project Delivery Skill
 
 --- FILE: zh-tw/index.html (https://fawnfell.com/zh-tw/index.html) ---
 
-# Fawnfell — 專注耐用的應用軟體與敘事作品
+# Fawnfell—專注耐用的應用軟體與敘事作品
 
 Fawnfell — 獨立軟體工作室
 
@@ -6223,7 +6241,9 @@ English
 
 獨立軟體工作室 · Fawnfell
 
-Fawnfell — 專注耐用的應用軟體與敘事作品
+Fawnfell
+ — 
+專注耐用的應用軟體與敘事作品
 
 Fawnfell
  是一間獨立軟體工作室，打造離線優先的語言學習應用、敘事遊戲與開源工程管理工具。您可以進入產品目錄選擇具體產品與方案。
