@@ -57,7 +57,7 @@
   const savedLang = normLang(safeGet(localStorage, STORAGE_KEY));
   const altMap = getAltMap();
 
-  if (!isBot && Object.keys(altMap).length > 1) {
+  if (!isBot && pageLang === 'en' && Object.keys(altMap).length > 1) {
     let targetLang = savedLang;
     if (!targetLang && !safeGet(sessionStorage, SESSION_AUTO_KEY)) {
       targetLang = detectSystemLang();

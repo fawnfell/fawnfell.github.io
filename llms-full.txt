@@ -376,6 +376,41 @@ No streak reset penalty
 
 Assumes continued due reviews
 
+Why Learners Stick With It: After-Hours Mystery, Study-Only Archive & Real Study Logs
+
+Most flashcard apps fail not from bad scheduling, but from emotional fatigue. 
+Executive Reborn
+ pairs daytime workplace English with a 16-chapter after-hours visual novel mystery, 79 study-unlocked Archive art cards (zero paid gacha), and a private Growth Log anchored in real vocabulary progress.
+
+“The last thing I remember is half a rice ball. The last train had already left. Three rejection emails sat in my phone… At the street corner, I broke a rice ball in half and handed it to a stray dog wearing an old tag with a date engraved on it. When I opened my eyes, pine shadows were swaying across paper screens over warm floorboards.”
+
+— Opening of After-Hours Prologue (SP00 · Half a Rice Ball) · 
+Read SP00–SP01 Opening Free
+
+After-Hours Story
+
+16-Chapter Mystery (SP00–SP15)
+
+Every 3 main business episodes unlock one night after 7:00 p.m. on the executive floor—connecting daytime boardroom survival with a forgotten past. SP00–SP02 are free.
+
+Read SP00–SP01 Opening
+
+Zero Paid Gacha
+
+79 Study-Only Archive Cards
+
+All 79 collectible illustrations (N / R / SR / SSR) unlock strictly by studying words and completing episodes. Even Deluxe Edition never sells Archive cards for cash.
+
+See Tier Rules
+
+Real Anchoring
+
+Growth Curve & Study Records
+
+Charts your cumulative mastered words, timestamps your first 100 and 500 mastered words, tracks streaks without punishing missed days, and pins up to 4 unlocked cards to personal local notes.
+
+100% Local Privacy
+
 Plans & Pricing Comparison
 
 Start free with full offline audio on the opening chapters, then pick a low-friction monthly pass or a single one-time lifetime buyout.
@@ -638,7 +673,7 @@ Yes. All tiers (including Free Preview, Monthly Pro, and Standard Lifetime) auto
 
 --- FILE: products/executive-reborn/ja/index.html (https://fawnfell.com/products/executive-reborn/ja/index.html) ---
 
-# Executive Reborn — 企業ドラマとFSRSで続くビジネス英語
+# Executive Reborn — ドラマ×FSRSで続くビジネス英語
 
 Executive Reborn — ビジネス英語RPG＋FSRS復習アプリ | Fawnfell
 
@@ -660,7 +695,7 @@ English
 
 iOS · オフライン完結型ビジネス英語アプリ
 
-Executive Reborn — 企業ドラマとFSRSで続くビジネス英語
+Executive Reborn — ドラマ×FSRSで続くビジネス英語
 
 Executive Reborn
 は、分厚い参考書が続かない社会人のために Fawnfell が開発したオフライン対応のビジネス英語RPG＋FSRS単語帳アプリです。本編42話＋番外編16話、1,397表現、11,250本の音声クリップを収録しています。
@@ -846,6 +881,47 @@ CC BY-SA 4.0 ライセンスページ
 ※ 
 独立性に関する注記
 ：TOEIC®はエデュケーショナル・テスティング・サービス（ETS）の登録商標です。Executive Reborn および Fawnfell は ETS と一切関係がなく、ETS による推奨・後援を受けたものではありません。
+
+続けられる仕組み：仕事終わりの番外編・無課金図鑑・リアルな学習記録
+
+語学アプリで一番難しいのは「明日も開く理由」です。
+Executive Reborn
+は、昼間のビジネス英語レッスン3話ごとに解放される
+全16話の放課後ミステリー
+、単語学習のみで解放される
+79枚の図鑑カード（課金ガチャなし）
+、そして自分の成長を定着させる
+学習レコード
+で継続を支えます。
+
+「最後に覚えているのは、半分のおにぎりのことだ。終電はとっくに行った。スマホには三通目の不採用通知……街角でおにぎりを半分に割り、日付が刻まれた古い札をつけた野良犬に差し出した。目を開けると、障子紙に中庭の松の影が揺れていた。」
+
+— 番外編プロローグ『半分のおにぎり』(SP00) 冒頭より · 
+SP00–SP01 冒頭を無料試読する
+
+放課後ストーリー
+
+記憶喪失ミステリー全16話
+
+本編3話ごとに夜7時以降の物語が1話解放。昼は会議英語で乗り切り、夜は失った記憶の断片を拾い集めます（SP00〜SP02無料）。
+
+番外編の冒頭を読む
+
+課金ガチャなし
+
+79枚の学習解放アーカイブ図鑑
+
+SSR原画を含む全79枚の図鑑カードは、課金では一切購入できません。単語習得とストーリー進行という純粋な積み上げだけで解放されます。
+
+プラン別ルールを見る
+
+継続の記録
+
+成長曲線＆学習レコード帳
+
+累計習得カーブや初100語・500語達成日の記録に加え、獲得したカード（最大4枚）を添えて自分だけの学習メモを端末内に残せます。
+
+完全ローカル保存
 
 料金プラン一覧
 
@@ -1127,6 +1203,8 @@ EP01 · 合併後の取締役会
 EP02 · 全員大会でのマイクトラブル
 
 EP03 · 経費精算の罠
+
+番外編・放課後 (SP00–SP01)
 
 料金プラン
 
@@ -1940,6 +2018,62 @@ adverb
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
 
+全16話 放課後ミステリー · SP00–SP02 無料開放
+
+番外編（仕事終わりの時間）冒頭試読＆継続の工夫
+
+本編3話を進めるごとに1話解放される全16話の番外編ビジュアルノベル。昼は一夜漬けのビジネス英語で役員会議を切り抜け、夜7時以降は記憶喪失の謎を追う二層構成です。
+
+SP00 · 半分のおにぎり（プロローグ冒頭）
+
+最後に覚えているのは、半分のおにぎりのことだ。
+
+目を開けると、障子紙に中庭の松の影が揺れていた。
+
+床暖房で、板の間がほんのり熱い。部屋の隅には大きな古い犬用ベッドがあって、水の器は満たされている。
+
+僕は横になったまま、動けなかった。
+
+終電はとっくに行った。スマホには三通目の不採用通知：「ご応募ありがとうございました。」
+
+街角で、おにぎりを半分に割って、汚れきって毛色もわからない犬に差し出した。首には古びた札があって、日付が刻まれていた。
+
+——それが、僕の「昨日」のすべてだ。
+
+その後ろに、もうひとつ。絵の中にないものがある：横から差してきた一筋の光と、短いブレーキの音。誰かがテレビをミュートにしたみたいに。
+
+SP01 · 最初の夜・俯瞰（第一夜冒頭）
+
+役員フロアのバーカウンターで、バリスタが挽きたてのコーヒーを差し出した。磁器のカップの縁が熱い。
+
+咖啡师:
+ いつものでよろしいですか、ディレクター？
+
+Alex:
+ ……いつもの。
+
+三日ぶりに、初めてコーヒーの味がわかった。ミルク多めで、ほんの少し塩が入っている。誰が考えた飲み方か知らないが、不思議と合う。
+
+夜七時、フロアの全員が帰った。廊下の突き当たりに、ミニマルなギャラリーがある。打ちっぱなしのコンクリートの壁、長い大理石のベンチ、その上には、赤・黄・青の四角。
+
+守卫:
+ ディレクター。前回、この絵は指二本分低いとおっしゃいました。調整しておきました。
+
+Alex:
+ 僕が、言いました？
+
+Archive · 79 Cards
+79枚の図鑑カード（課金ガチャなし・単語学習のみで解放）
+
+SSR原画を含む全79枚のアーカイブカードは、課金や確率ガチャでは手に入りません。日々の単語習得とストーリー進行によってのみ解放される、学習努力の純粋な証です。
+
+Growth Log
+リアルな成長曲線＆学習レコード
+
+初習得100語／500語の達成日タイムスタンプ、累計習得曲線、連続学習日数に加え、解放済みカードを最大4枚まで添えて日々の気づきを端末内に記録できます（ランキング競争なし）。
+
+Executive Reborn 紹介ページへ
+
 料金プラン
 
 Plans & Pricing — 料金プラン一覧
@@ -2029,6 +2163,42 @@ Executive Reborn
 지원 및 구매 복원
 
 개인정보처리방침
+
+작심삼일을 막는 3가지 설계: 퇴근 후 번외편 · 무과금 도감 · 실제 학습 기록
+
+Executive Reborn
+은 낮의 치열한 비즈니스 영어 3화를 마칠 때마다 밤의 이야기를 여는 
+16부작 퇴근 후 미스터리
+, 과금 뽑기 없이 단어를 외워야만 해금되는 
+79종 도감 카드
+, 그리고 실제 성장을 기록하는 
+학습 저널
+을 함께 담았습니다.
+
+“내가 기억하는 마지막 일은, 주먹밥 반쪽이다. 막차는 이미 끊겼고 휴대폰에는 세 번째 불합격 통지… 길모퉁이에서 주먹밥을 반으로 쪼개 날짜가 새겨진 낡은 인식표를 단 개에게 내밀었다. 눈을 뜨자 창호지 위로 소나무 그림자가 흔들리고 있었다.”
+
+— 번외편 프롤로그 〈반쪽짜리 주먹밥〉(SP00) 오프닝 · 
+SP00–SP01 오프닝 무료 읽기
+
+퇴근 후 스토리
+
+기억상실 미스터리 16화
+
+본편 3화마다 저녁 7시 이후의 비밀 이야기가 1편씩 열립니다. 낮에는 회의 영어로 버티고, 밤에는 잊힌 과거를 추적합니다(SP00–SP02 무료).
+
+오프닝 미리보기
+
+유료 뽑기 제로
+
+단어 암기로만 여는 79종 도감
+
+SSR 일러스트를 포함한 79장의 아카이브 카드는 현금 판매나 확률 뽑기가 없습니다. 오직 단어 암기와 챕터 클리어로만 수집할 수 있습니다.
+
+실제 성장 기록
+
+성장 곡선 & 개인 학습 저널
+
+첫 100·500단어 달성 시점과 누적 성장 곡선을 기록하고, 해금한 카드(최대 4장)를 붙여 나만의 회고 기록을 기기에 로컬 저장합니다.
 
 요금제 비교
 
@@ -2143,6 +2313,8 @@ EP01 · 인수합병 이후의 이사회
 EP02 · 전사 회의에서의 마이크 사고
 
 EP03 · 비용 청구 함정
+
+번외편·퇴근 후 (SP00–SP01)
 
 요금제 비교
 
@@ -2956,6 +3128,62 @@ adverb
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
 
+총 16화 퇴근 후 미스터리 · SP00–SP02 무료
+
+번외편(퇴근 후 스토리) 오프닝 미리보기 & 학습 지속 설계
+
+본편 비즈니스 영어 3화를 완료할 때마다 1편씩 열리는 16부작 퇴근 후 비주얼 노벨입니다. 낮에는 회의 영어로 버티고, 밤에는 기억상실의 진실을 추적하는 반전 서사가 이어집니다.
+
+SP00 · 반쪽짜리 주먹밥 (프롤로그 오프닝)
+
+내가 기억하는 마지막 일은, 주먹밥 반쪽이다.
+
+눈을 뜨자, 창호지 위로 마당의 소나무 그림자가 흔들리고 있었다.
+
+온돌이 마루를 뜨끈하게 데우고 있다. 방 한구석에는 크고 낡은 개집이 있고, 물그릇은 가득 차 있다.
+
+나는 누운 채로 움직이지 못했다.
+
+막차는 이미 끊겼다. 휴대폰에는 세 번째 불합격 통지: 「귀하의 관심에 감사드립니다.」
+
+길모퉁이에서 주먹밥을 반으로 쪼개, 털 색을 알아볼 수 없을 만큼 더러운 개에게 내밀었다. 목에는 낡은 인식표가 걸려 있었고, 날짜가 새겨져 있었다.
+
+——그게 내가 기억하는 '어제'의 전부다.
+
+그 뒤에 장면 속에 없는 게 하나 더 있다: 옆에서 날아든 한 줄기 빛과, 아주 짧은 브레이크 소리. 누군가 TV를 음소거해 버린 것처럼.
+
+SP01 · 첫날 밤·내려다보다 (첫날 밤 오프닝)
+
+임원층 바에서 바리스타가 갓 간 커피를 내 앞에 밀어 주었다. 도자기 잔 가장자리가 뜨겁다.
+
+咖啡师:
+ 평소처럼 드릴까요, 디렉터님?
+
+Alex:
+ ……평소처럼.
+
+사흘 만에 처음으로 커피 맛이 느껴졌다. 우유가 많고, 소금이 아주 조금 들어 있다. 누가 만든 방식인지 몰라도, 이상하게 맞는다.
+
+저녁 일곱 시, 층 전체가 퇴근했다. 복도 끝에 극도로 단순한 갤러리가 있다. 노출 콘크리트 벽, 길쭉한 대리석 벤치, 그 위에는 빨강, 노랑, 파랑의 사각형.
+
+守卫:
+ 디렉터님. 지난번에 이 그림이 손가락 두 개만큼 낮다고 하셔서, 조정해 두었습니다.
+
+Alex:
+ 제가 그랬나요?
+
+Archive · 79 Cards
+79종 도감 카드 (유료 뽑기 제로 · 단어 암기로만 해금)
+
+SSR 아트워크를 포함한 79장의 아카이브 카드는 유료 뽑기로 판매하지 않습니다. 오직 단어 암기와 에피소드 완주를 통해서만 해금되는 정직한 성취 보상입니다.
+
+Growth Log
+실제 성장 곡선 & 학습 기록 저널
+
+누적 암기 단어 곡선, 첫 100·500단어 달성 타임스탬프, 연속 학습 일수와 함께 해금한 도감 카드(최대 4장)를 붙여 나만의 학습 기록을 로컬에 남길 수 있습니다.
+
+Executive Reborn 소개 페이지로
+
 요금제 안내
 
 요금제 비교 (Plans & Pricing)
@@ -3248,6 +3476,8 @@ EP01 · The Post-Merger Boardroom
 EP02 · The Town Hall Mic Drop
 
 EP03 · The Reimbursement Trap
+
+After-Hours Story (SP00–SP01)
 
 Plans & Pricing
 
@@ -3982,6 +4212,55 @@ correctly, precisely
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
 
+16-Chapter After-Hours Mystery · SP00–SP02 Free
+
+After-Hours Side Story Opening & Study-Persistence Design
+
+Every 3 main business English lessons unlock a new chapter of the 16-episode after-hours visual novel—an amnesia mystery linking your daytime boardroom survival with a forgotten past. Zero pay-to-win gacha, backed by real study logs.
+
+SP00 · Half a Rice Ball (Prologue)
+
+The last thing I remember is half a rice ball.
+
+When I opened my eyes, pine shadows from the courtyard were swaying across paper screens. Underfloor heating warmed the timber planks; in the corner sat a large, well-worn dog bed with a full water bowl. I lay still, afraid to move.
+
+Flashback:
+ The last train had already left. Three rejection emails sat in my phone: “Thank you for your interest.” At the street corner, I broke a rice ball in half and held it out to a stray dog too dirty to tell its coat, wearing an old tag with a date engraved on it.
+
+—That was all I remembered of “yesterday.” Behind it, something missing from the frame: a flash of headlights from the side, and a brief screech of brakes. Like someone pressed mute on a television.
+
+SP01 · First Night: Overlook (After-Hours Sample)
+
+At the executive-floor espresso bar, the barista slid a freshly brewed cup toward me. The porcelain rim was hot.
+
+Barista:
+ “The usual, Director?”
+
+Alex:
+ “…The usual.”
+
+For the first time in three days, I actually tasted the coffee—extra milk, with the faintest pinch of salt. Who came up with that recipe? Yet it worked.
+
+At 7:00 p.m., the whole floor went home. At the end of the corridor sat a minimalist gallery: exposed concrete, a long marble bench, and above it, blocks of red, yellow, and blue.
+
+Guard:
+ “Director. Last time you said this piece was hung two fingers too low. We adjusted it.”
+
+Alex:
+ “I said that?”
+
+Archive · 79 Cards
+79 Archive Cards (Study-Only, Zero Gacha)
+
+All 79 collectible Archive illustrations (N / R / SR / SSR)—including architectural SSR scenes—unlock strictly by learning target words and clearing chapters. Even Deluxe Edition never sells Archive cards for money.
+
+Growth Log
+Real Growth Curve & Study Records
+
+Your local Growth Log charts cumulative mastered words, timestamps your first 100-word and 500-word milestones, tracks study streaks, and lets you pin up to 4 unlocked Archive cards to personal reflection entries—without noisy social leaderboards.
+
+View Full Feature Breakdown
+
 Pricing & Editions
 
 Plans & Pricing Comparison
@@ -4241,6 +4520,43 @@ Executive Reborn
 
 隱私權政策
 
+讓學習真正持續下來的設計：下課後番外懸疑・零課金圖鑑・真實學習手札
+
+大多數背單字 App 讓人放棄，不是演算法不好，而是缺乏「明天還想打開」的動力。
+Executive Reborn
+ 結合每 3 集正篇解鎖 1 集的
+16 集下班後失憶懸疑支線
+、純靠背單字解鎖的
+79 張圖鑑卡（零付費抽卡）
+，以及用真實數據錨定努力的
+個人成長手札
+。
+
+「我記得的最後一件事，是半個飯糰。末班車早走了，手機裡躺著第三封拒信……我在街角把一個飯糰掰成兩半，遞給一條戴著舊日期牌子的流浪狗。再睜眼，窗紙上晃著庭院的松影，地暖把木地板烘得發燙。」
+
+— 番外序幕《半個飯糰》(SP00) 開篇節選 · 
+免費試讀 SP00–SP01 開篇
+
+下班後支線
+
+16 集失憶反轉懸疑劇
+
+每完成 3 集日間商務主線即可解鎖 1 集晚上七點後的秘密劇情，白天在董事會闖關、夜晚拼回遺忘的真相（SP00–SP02 免費）。
+
+試讀 SP00–SP01 開篇
+
+零課金抽卡
+
+79 張純學習解鎖圖鑑卡
+
+包含 SSR 原畫在內的 79 張檔案圖鑑皆不設抽卡付費，連豪華典藏版也不提前販售圖鑑，只回饋真實背過的每個單字。
+
+真實學習錨點
+
+成長曲線與個人學習紀錄
+
+記錄首次突破 100／500 單字的里程碑日期與累計曲線，並可用已解鎖圖鑑卡（每則最多 4 張）寫下純本地保存的學習手札。
+
 方案比較
 
 Executive Reborn 定價與權益矩陣
@@ -4354,6 +4670,8 @@ EP01 · 併購後的董事會
 EP02 · 全員大會上的麥克風事故
 
 EP03 · 報銷陷阱
+
+番外篇・下課後 (SP00–SP01)
 
 方案與定價
 
@@ -5166,6 +5484,62 @@ adverb
 準確地
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
+
+全 16 集下課後懸疑支線 · SP00–SP02 免費體驗
+
+番外篇（下班後劇情）開篇試讀與堅持學習設計
+
+每完成 3 集日間商務主線即可解鎖 1 集下班後支線（共 16 集）。白天靠背下的職場英語頂住董事會，晚上七點下班後拼湊失憶與過往的真相。
+
+SP00 · 半個飯糰（序幕開篇）
+
+我記得的最後一件事，是半個飯糰。
+
+再睜眼，窗紙上晃著庭院的松影。
+
+地暖把木地板烘得發燙。牆角有一隻很大的舊狗窩，水碗是滿的。
+
+我躺著，沒敢動。
+
+末班車早走了。手機裡躺著第三封拒信：「感謝您的關注。」
+
+我在街角把一個飯糰掰成兩半，遞給一條髒得看不出毛色的狗。它脖子上有一枚舊牌子，刻著一個日期。
+
+——這就是我對“昨天”的全部記憶。
+
+後面還有一樣東西，不在畫面裡：一束從側面來的光，和一聲很短的剎車。像誰把電視按了靜音。
+
+SP01 · 第一夜·俯瞰（第一夜開篇）
+
+行政層的吧檯，咖啡師把一杯現磨的咖啡推到我面前，瓷杯沿是燙的。
+
+咖啡师:
+ 老樣子，總監？
+
+Alex:
+ ……老樣子。
+
+三天來，我第一次嚐出了咖啡的味道。奶多一點，裡面還有一點點鹽。是誰發明的喝法，居然對。
+
+晚上七點，整層樓的人都下班了。走廊盡頭，有一間極簡的畫廊：清水混凝土牆，一條長長的大理石長凳，長凳上方，紅黃藍的方塊。
+
+守卫:
+ 總監。您上次說，這幅掛低了兩指。我們調過了。
+
+Alex:
+ 我說過？
+
+Archive · 79 Cards
+79 張圖鑑卡（零氪金抽卡・純靠背單字解鎖）
+
+包含 SSR 原畫在內的全部 79 張圖鑑檔案卡都不走付費抽卡，連豪華典藏版也不提前販售圖鑑——唯有實際累積詞彙與推進集數才能解鎖。
+
+Growth Log
+真實成長曲線與個人學習手札
+
+App 內建個人成長曲線，真實記錄首次突破 100 / 500 單字的日期里程碑與連續學習天數，並可用已解鎖圖鑑卡（每則最多 4 張）寫下自己的學習手札，無焦慮排行攀比。
+
+查看完整產品介紹
 
 方案與定價
 
