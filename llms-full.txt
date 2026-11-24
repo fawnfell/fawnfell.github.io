@@ -6,6 +6,179 @@
 
 
 
+--- FILE: executive-reborn/licenses/index.html (https://fawnfell.com/executive-reborn/licenses/index.html) ---
+
+# Executive Reborn — Open Wordlist Licenses & Attribution
+
+Executive Reborn Open Wordlist Licenses (CC BY-SA 4.0) | Fawnfell
+
+Fawnfell
+
+Open Attribution · CC BY-SA 4.0
+
+Executive Reborn — Open Wordlist Licenses & Attribution
+
+Executive Reborn uses the headwords and frequency rankings from 
+TSL 1.2
+ and 
+NGSL 1.2
+ under the 
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+ license. In accordance with ShareAlike obligations, the derived headword lists and license notices are published openly below without DRM or additional restrictions.
+
+Downloadable Wordlists & License Notices (CC BY-SA 4.0)
+
+Public CC BY-SA 4.0 Wordlist Files
+
+File
+
+Coverage
+
+License
+
+Access
+
+wordlist-tsl.txt
+
+1,250 TOEIC Service List (TSL v1.2) headwords
+
+CC BY-SA 4.0
+
+View / Download (.txt)
+
+wordlist-ngsl.txt
+
+2,809 New General Service List (NGSL v1.2) headwords
+
+CC BY-SA 4.0
+
+View / Download (.txt)
+
+LICENSE-TSL.md
+
+TSL 1.2 attribution & modification summary
+
+CC BY-SA 4.0
+
+Read (.md)
+
+LICENSE-NGSL.md
+
+NGSL 1.2 attribution & band-split summary
+
+CC BY-SA 4.0
+
+Read (.md)
+
+Attribution Statements
+
+TSL v1.2
+
+Vocabulary based on the TOEIC Service List (TSL) v1.2, developed by Dr. Charles Browne and Dr. Brent Culligan (
+newgeneralservicelist.org
+), used under CC BY-SA 4.0. Changes: word list kept at 1,250 headwords; original definitions and story examples written separately for this app; Chinese, Japanese, and Korean glosses added.
+
+NGSL v1.2
+
+Vocabulary based on the New General Service List (NGSL) v1.2, developed by Dr. Charles Browne, Dr. Brent Culligan, and Joseph Phillips (
+newgeneralservicelist.org
+), used under CC BY-SA 4.0. Changes: split into four study bands by SFI rank; parts of speech, definitions, and examples written separately for this app.
+
+Scope Boundary
+
+CC BY-SA 4.0 applies only to the derived wordlists and rankings listed above. Original episodes, story scripts, definitions, translations, audio recordings, artwork, and app code remain © 2026 Fawnfell. Use does not imply endorsement by the original list authors.
+
+
+--- FILE: executive-reborn/licenses/LICENSE-NGSL.md (https://fawnfell.com/executive-reborn/licenses/LICENSE-NGSL.md) ---
+
+# New General Service List (NGSL) 1.2 — 署名与相同方式共享
+
+**来源**：New General Service List v1.2，作者 Dr. Charles Browne、Dr. Brent Culligan、Joseph Phillips（2013）
+**获取地址**：http://www.newgeneralservicelist.org/
+**许可**：Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）
+**许可全文**：https://creativecommons.org/licenses/by-sa/4.0/
+
+## 本项目使用了什么
+
+- NGSL 1.2 的 **2,809 个词头及其 SFI 排名与频次数据**，按官方排名切分为四个学习档（band）。
+
+## 本项目没有使用什么
+
+- NGSL 官方未随词表发布释义文件；本项目**没有**从任何第三方"NGSL 日文版/中文版"词表抓取内容。
+- 未使用 NGSL 的例句（官方列表不含例句）。
+
+## 我们做了哪些修改
+
+- 按官方 SFI Rank 切分为 `1-500` / `501-1000` / `1001-1800` / `1801-2809` 四档，与分班测试一致。
+- 词性、英文释义、中文/日文/韩文释义、例句由本项目管线生成（Gemini flash-lite 直出 + 抽检）。
+- 前 287 个功能词（the / be / and 等）保留在数据中但标记 `fw: true`，不进入学习队列。
+
+## 相同方式共享（ShareAlike）
+
+依据 CC BY-SA 4.0 第 3(b) 条，**由 NGSL 词表衍生的词表部分**以 CC BY-SA 4.0 提供：
+
+- 纯词表：`licenses/wordlist-ngsl.txt`
+- 词卡数据中的词头集合：`app/assets/content/decks/ngsl.json` 的 `word` 字段
+
+## 不在此许可范围内的内容
+
+词性判断、四语释义、例句、音频、App 代码为独立作品，不适用 CC BY-SA，权利由本项目作者保留。
+
+## 建议的署名文本（App 内使用）
+
+> Vocabulary based on the New General Service List (NGSL) v1.2, developed by Dr. Charles
+> Browne, Dr. Brent Culligan and Joseph Phillips, used under the Creative Commons
+> Attribution-ShareAlike 4.0 International License. Changes: split into four study bands
+> by SFI rank; parts of speech, definitions and examples written for this app.
+
+
+--- FILE: executive-reborn/licenses/LICENSE-TSL.md (https://fawnfell.com/executive-reborn/licenses/LICENSE-TSL.md) ---
+
+# TOEIC Service List (TSL) 1.2 — 署名与相同方式共享
+
+**来源**：TOEIC Service List v1.2，作者 Dr. Charles Browne、Dr. Brent Culligan
+**获取地址**：http://www.newgeneralservicelist.org/
+**许可**：Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）
+**许可全文**：https://creativecommons.org/licenses/by-sa/4.0/
+
+## 本项目使用了什么
+
+- TSL 的 **1,250 个词头（headwords）及其排名/频次排序**。
+
+## 本项目没有使用什么
+
+- TSL 官方的英文释义（`TSL_12_definitions.xlsx`）**未随 App 分发，也未作为生成新释义的模型输入**。
+- TSL 的例句、语料原文均未使用。
+
+## 我们做了哪些修改
+
+- 从中选取 1,250 个词头作为课程词表（与 TSL 1.2 的规模一致）。
+- 英文释义由本项目管线重新撰写（本地 `qwen3.6:27b-bf16`，仅输入单词、词性、课程例句与搭配，不输入 TSL 释义）。
+- 中文释义由同一管线生成；日文、韩文由 Gemini 生成后经抽检校订。
+- 例句取自本项目原创的 42 集剧情。
+
+## 相同方式共享（ShareAlike）
+
+依据 CC BY-SA 4.0 第 3(b) 条，**由 TSL 词表衍生的词表部分**以 CC BY-SA 4.0 提供：
+
+- 纯词表：`licenses/wordlist-tsl.txt`
+- 词典数据中的词头集合：`app/assets/dictionary/dictionary.json` 的键集合
+
+上述词表可以自由复制、修改、再分发，条件是保留本署名并以相同许可共享。
+
+## 不在此许可范围内的内容
+
+本项目的英文释义、例句、42 集剧情、角色设定、配音、美术、App 代码均为独立作品，
+**不因使用 TSL 词表而适用 CC BY-SA**，其权利由本项目作者保留。
+
+## 建议的署名文本（App 内使用）
+
+> Vocabulary based on the TOEIC Service List (TSL) v1.2, developed by Dr. Charles Browne
+> and Dr. Brent Culligan, used under the Creative Commons Attribution-ShareAlike 4.0
+> International License. Changes: word list kept at 1,250 headwords; definitions and
+> examples written for this app; Chinese, Japanese and Korean glosses added.
+
+
 --- FILE: executive-reborn/privacy/index.html (https://fawnfell.com/executive-reborn/privacy/index.html) ---
 
 # Executive Reborn — Privacy Policy

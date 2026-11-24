@@ -4,6 +4,9 @@
 
 ## Core Pages & Documentation
 
+- [Executive Reborn — Open Wordlist Licenses & Attribution](https://fawnfell.com/executive-reborn/licenses/index.html): Open CC BY-SA 4.0 attribution, modification notes, and downloadable headword lists for TOEIC Service List (TSL 1.2) and New General Service List (NGSL 1.2) used in Executive Reborn.
+- [New General Service List (NGSL) 1.2 — 署名与相同方式共享](https://fawnfell.com/executive-reborn/licenses/LICENSE-NGSL.md): 来源**：New General Service List v1.2，作者 Dr. Charles Browne、Dr. Brent Culligan、Joseph Phillips（2013）
+- [TOEIC Service List (TSL) 1.2 — 署名与相同方式共享](https://fawnfell.com/executive-reborn/licenses/LICENSE-TSL.md): 来源**：TOEIC Service List v1.2，作者 Dr. Charles Browne、Dr. Brent Culligan
 - [Executive Reborn — Privacy Policy](https://fawnfell.com/executive-reborn/privacy/index.html): Bilingual English and Japanese privacy policy for Executive Reborn by Fawnfell. Local-first learning progress, Apple App Store / RevenueCat receipt handling, and zero ad tracking.
 - [Executive Reborn — Support & Help](https://fawnfell.com/executive-reborn/support/index.html): Official support page for Executive Reborn by Fawnfell. How to restore purchases, manage subscriptions, switch languages, and contact support at fawnfell@gmail.com.
 - [Fawnfell — Practical Language Apps, Narrative Worlds & Focused Tools](https://fawnfell.com/index.html): Fawnfell is an independent software studio building Executive Reborn (58-episode business English RPG + FSRS app for iOS), narrative games, and developer workflow tools.
