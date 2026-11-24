@@ -230,6 +230,7 @@ main.banner-page {
   overflow: hidden;
   min-block-size: clamp(380px, 39vw, 560px);
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   align-items: center;
   background-color: #122019;
   color: #FAF6EC;
@@ -300,49 +301,41 @@ main.banner-page {
   color: rgba(246, 242, 232, 0.92);
 }
 
-.btn-banner-primary {
-  background: #D99B4E;
-  border-color: #D99B4E;
-  color: #162019;
-}
-
-.btn-banner-ghost {
-  border-color: rgba(246, 242, 232, 0.34);
-  color: #FAF6EC;
-  background: rgba(20, 28, 24, 0.38);
-  backdrop-filter: blur(6px);
-}
-
 @media (max-width: 720px) {
   .banner-deckle {
-    min-block-size: 440px;
-    align-items: start;
+    min-block-size: auto;
+    align-items: end;
   }
 
   .banner-deckle::before {
     background: linear-gradient(
       180deg,
-      rgba(14, 24, 19, 0.9) 0%,
-      rgba(14, 24, 19, 0.72) 55%,
-      rgba(14, 24, 19, 0.16) 100%
+      rgba(14, 24, 19, 0.04) 0px,
+      rgba(14, 24, 19, 0.12) 175px,
+      rgba(14, 24, 19, 0.92) 236px,
+      #0f1914 270px,
+      #0f1914 100%
     );
   }
 
   .banner-deckle.banner-er::before {
     background: linear-gradient(
       180deg,
-      rgba(18, 22, 28, 0.92) 0%,
-      rgba(18, 22, 28, 0.74) 55%,
-      rgba(18, 22, 28, 0.14) 100%
+      rgba(18, 22, 28, 0.02) 0px,
+      rgba(18, 22, 28, 0.14) 175px,
+      rgba(18, 22, 28, 0.94) 236px,
+      #12161c 270px,
+      #12161c 100%
     );
   }
 
   .banner-hero-bg {
-    object-position: 82% 100%;
+    block-size: 245px;
+    object-position: 86% 92%;
   }
 
   .banner-inner {
-    padding-block: 2rem 10.5rem;
+    padding-block: 14.8rem 2.8rem;
   }
 }
 
@@ -420,10 +413,23 @@ h3 {
   color: var(--on-primary);
 }
 
+.btn-banner-primary {
+  background: #D99B4E;
+  border-color: #D99B4E;
+  color: #162019;
+}
+
+.btn-banner-ghost {
+  border-color: rgba(246, 242, 232, 0.38);
+  color: #FAF6EC;
+  background: rgba(16, 24, 20, 0.56);
+  backdrop-filter: blur(6px);
+}
+
 /* Subgrid cards keep headings, descriptions, and CTAs aligned across siblings */
 .grid-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
   grid-auto-rows: auto;
   gap: 1rem;
   margin-block: 1rem 2rem;
