@@ -6,7 +6,151 @@
 
 
 
---- FILE: executive-reborn/index.html (https://fawnfell.com/executive-reborn/index.html) ---
+--- FILE: index.html (https://fawnfell.com/index.html) ---
+
+# Fawnfell — Calm, Durable Software & Story Worlds
+
+Fawnfell — Independent Software & Interactive Studio
+
+Skip to content
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+Independent Software Studio
+
+Fawnfell — Calm, Durable Software & Story Worlds
+
+Fawnfell
+ is an independent software studio crafting offline-first learning applications, atmospheric narrative games, and open-core developer workflow tools. We design compact, self-contained products without bloat, dark patterns, or unnecessary noise.
+
+Browse Products
+
+fawnfell@gmail.com
+
+What We Build
+
+Apps & Games
+
+Language & Narrative Works
+
+Story-driven learning apps and hand-crafted visual novels built to run offline on mobile and desktop.
+
+View Products
+
+Open Source
+
+Developer & Delivery Tools
+
+Deterministic engineering calculators and AI agent workflows rooted in first-principles project delivery.
+
+Explore on GitHub
+
+
+--- FILE: ja/index.html (https://fawnfell.com/ja/index.html) ---
+
+# Fawnfell — 静かで長く使えるアプリと物語を
+
+Fawnfell — 独立ソフトウェアスタジオ
+
+本文へ移動
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+独立ソフトウェアスタジオ · Fawnfell
+
+Fawnfell — 静かで長く使えるアプリと物語を
+
+Fawnfell（フォーンフェル）
+は、オフライン完結型の語学アプリ、物語体験のあるゲーム、そして開発者向けワークフローツールを制作する独立スタジオです。各プロダクトの詳細・料金・サポートはプロダクト一覧からお選びいただけます。
+
+プロダクト一覧を見る
+
+Executive Reborn へ
+
+制作領域
+
+Apps & Games
+
+語学学習アプリ・物語ゲーム
+
+社会人向けビジネス英語RPG『Executive Reborn』をはじめ、オフラインでじっくり楽しめる作品を開発しています。
+
+プロダクトを選ぶ
+
+Open Source
+
+開発者向けオープンソースツール
+
+第一原理のプロジェクト進行・定量リスク計算を行うオープンソースツール群を GitHub で公開しています。
+
+GitHub を見る
+
+
+--- FILE: ko/index.html (https://fawnfell.com/ko/index.html) ---
+
+# Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
+
+Fawnfell — 인디 소프트웨어 스튜디오
+
+본문으로 건너뛰기
+
+Fawnfell
+
+EN
+
+日本語
+
+한국어
+
+繁體中文
+
+인디 소프트웨어 스튜디오 · Fawnfell
+
+Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
+
+Fawnfell
+은 오프라인 중심 학습 앱, 내러티브 게임, 그리고 오픈소스 개발 워크플로 도구를 제작하는 독립 소프트웨어 스튜디오입니다. 제품 디렉터리에서 각 앱과 도구를 살펴보실 수 있습니다.
+
+제품 둘러보기
+
+Executive Reborn 바로가기
+
+스튜디오 영역
+
+Apps & Games
+
+어학 학습 앱 & 내러티브 게임
+
+비즈니스 영어 스토리 RPG 『Executive Reborn』을 비롯한 오프라인 친화형 학습·스토리 작품을 만듭니다.
+
+제품 선택하기
+
+Open Source
+
+개발자·PM 오픈소스 도구
+
+제1원리 기반 일정·리스크 정량 계산 도구를 GitHub 오픈소스로 공개하고 있습니다.
+
+GitHub 보기
+
+
+--- FILE: products/executive-reborn/index.html (https://fawnfell.com/products/executive-reborn/index.html) ---
 
 # Executive Reborn — Learn Real Workplace English Through Story
 
@@ -308,6 +452,25 @@ Neckband Headphones
 2 alternate iOS home-screen icons
  (3 total).
 
+Season Sample · Spring Blossoms
+Auto-appears Mar–May for all tiers
+
+Holiday Sample · Christmas Night
+Auto-appears Dec 20–25 (other holidays stay a surprise)
+
+Deluxe Exclusive · Rainbow & Headphones
+Unlocked only in Time Wardrobe
+
+Home-Screen App Icons (3 Designs — 2 Alternate Icons Unlocked with Deluxe)
+
+Default Icon (All Tiers)
+
+Deluxe · Headphones
+
+Deluxe · Holiday
+
+View Complete List: All 13 Window Scenes, 11 Marshal Outfits & Calendar Trigger Dates
+
 Complete List of 13 Window Scenes, 11 Marshal Outfits & Calendar Trigger Windows
 
 Window Scene (13)
@@ -457,7 +620,7 @@ What does the Deluxe Edition add—and do regular users still get seasonal and h
 Yes. All tiers (including Free Preview, Monthly Pro, and Standard Lifetime) automatically display 12 of the 13 window scenes and 9 matching Marshal outfits whenever your device calendar reaches those dates (4 seasons plus Valentine's Day, Rainy Hydrangea, Tanabata, Mid-Autumn, Halloween, Christmas, New Year's Eve, and New Year). Deluxe Edition adds the Time Wardrobe to pin any scene or outfit year-round, plus calendar-exclusive perks: Typhoon Double Rainbow window scene, 2 headphone styles (Over-ear & Neckband), and 2 alternate app icons.
 
 
---- FILE: executive-reborn/ja/index.html (https://fawnfell.com/executive-reborn/ja/index.html) ---
+--- FILE: products/executive-reborn/ja/index.html (https://fawnfell.com/products/executive-reborn/ja/index.html) ---
 
 # Executive Reborn — 企業ドラマとFSRSで続くビジネス英語
 
@@ -726,6 +889,25 @@ $24.99
 代替アプリアイコン2種
 （標準含め計3種）。
 
+四季の一例 · 春・桜の窓辺
+春（3〜5月）は全ユーザーに自動表示
+
+祝日の一例 · クリスマス
+12月20〜25日に自動登場（他8祝日は当日のお楽しみ）
+
+デラックス専用 · 二重虹＆ヘッドホン
+カレンダー非出現の限定背景＋限定衣装
+
+ホーム画面用アイコン全3種（デラックス版で代替アイコン2種を追加解放）
+
+標準アイコン（全プラン）
+
+デラックス · ヘッドホン款
+
+デラックス · ホリデー款
+
+全13種の窓景色・11種の Marshal 衣装と自動出現カレンダー一覧を開く
+
 全13種の窓景色・11種の Marshal 衣装と自動出現カレンダー一覧
 
 窓景色（全13種）
@@ -871,7 +1053,7 @@ TOEIC® のどのパートに対応していますか？（含まれる学習・
 はい。全13種の窓景色のうち12種（四季4種＋祝日8種）と対応する9種のMarshal衣装は、無料版を含む全プランで該当カレンダー日時に自動表示されます。デラックス版（¥3,800）の特典は、時のクローゼットで任意の季節・祝日背景と衣装を年間いつでも固定できる点に加え、限定窓景色「台風一過の二重虹」、ヘッドホン衣装2種、代替アプリアイコン2種です。
 
 
---- FILE: executive-reborn/ja/preview/index.html (https://fawnfell.com/executive-reborn/ja/preview/index.html) ---
+--- FILE: products/executive-reborn/ja/preview/index.html (https://fawnfell.com/products/executive-reborn/ja/preview/index.html) ---
 
 # Executive Reborn カリキュラム体験：本編第1〜3話＋Reading全文
 
@@ -1729,7 +1911,7 @@ record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
 
 
---- FILE: executive-reborn/ko/index.html (https://fawnfell.com/executive-reborn/ko/index.html) ---
+--- FILE: products/executive-reborn/ko/index.html (https://fawnfell.com/products/executive-reborn/ko/index.html) ---
 
 # Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
 
@@ -1819,7 +2001,7 @@ Fawnfell이 개발한 직장인 대상 오프라인 비즈니스 영어 스토�
 네. 이미 학습한 단어의 FSRS 복습 큐는 구독 상태와 무관하게 영구 무료로 유지됩니다.
 
 
---- FILE: executive-reborn/licenses/index.html (https://fawnfell.com/executive-reborn/licenses/index.html) ---
+--- FILE: products/executive-reborn/licenses/index.html (https://fawnfell.com/products/executive-reborn/licenses/index.html) ---
 
 # Executive Reborn — Open Wordlist Licenses & Attribution
 
@@ -1902,7 +2084,7 @@ Scope Boundary
 CC BY-SA 4.0 applies only to the derived wordlists and rankings listed above. Original episodes, story scripts, definitions, translations, audio recordings, artwork, and app code remain © 2026 Fawnfell. Use does not imply endorsement by the original list authors.
 
 
---- FILE: executive-reborn/licenses/LICENSE-NGSL.md (https://fawnfell.com/executive-reborn/licenses/LICENSE-NGSL.md) ---
+--- FILE: products/executive-reborn/licenses/LICENSE-NGSL.md (https://fawnfell.com/products/executive-reborn/licenses/LICENSE-NGSL.md) ---
 
 # New General Service List (NGSL) 1.2 — 署名与相同方式共享
 
@@ -1945,7 +2127,7 @@ CC BY-SA 4.0 applies only to the derived wordlists and rankings listed above. Or
 > by SFI rank; parts of speech, definitions and examples written for this app.
 
 
---- FILE: executive-reborn/licenses/LICENSE-TSL.md (https://fawnfell.com/executive-reborn/licenses/LICENSE-TSL.md) ---
+--- FILE: products/executive-reborn/licenses/LICENSE-TSL.md (https://fawnfell.com/products/executive-reborn/licenses/LICENSE-TSL.md) ---
 
 # TOEIC Service List (TSL) 1.2 — 署名与相同方式共享
 
@@ -1992,7 +2174,7 @@ CC BY-SA 4.0 applies only to the derived wordlists and rankings listed above. Or
 > examples written for this app; Chinese, Japanese and Korean glosses added.
 
 
---- FILE: executive-reborn/preview/index.html (https://fawnfell.com/executive-reborn/preview/index.html) ---
+--- FILE: products/executive-reborn/preview/index.html (https://fawnfell.com/products/executive-reborn/preview/index.html) ---
 
 # Executive Reborn Curriculum Architecture & Free Sample (EP01–EP03)
 
@@ -2771,7 +2953,7 @@ record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
 
 
---- FILE: executive-reborn/privacy/index.html (https://fawnfell.com/executive-reborn/privacy/index.html) ---
+--- FILE: products/executive-reborn/privacy/index.html (https://fawnfell.com/products/executive-reborn/privacy/index.html) ---
 
 # Executive Reborn — Privacy Policy
 
@@ -2851,7 +3033,7 @@ RevenueCat
 fawnfell@gmail.com
 
 
---- FILE: executive-reborn/support/index.html (https://fawnfell.com/executive-reborn/support/index.html) ---
+--- FILE: products/executive-reborn/support/index.html (https://fawnfell.com/products/executive-reborn/support/index.html) ---
 
 # Executive Reborn — Support & Help
 
@@ -2896,7 +3078,7 @@ fawnfell@gmail.com
  までお送りください。
 
 
---- FILE: executive-reborn/zh-tw/index.html (https://fawnfell.com/executive-reborn/zh-tw/index.html) ---
+--- FILE: products/executive-reborn/zh-tw/index.html (https://fawnfell.com/products/executive-reborn/zh-tw/index.html) ---
 
 # Executive Reborn — 邊追職場懸疑劇邊練商務英語
 
@@ -2984,150 +3166,6 @@ Executive Reborn 適合什麼樣的學習者？
 月費到期後，已經背過的單字會被鎖住嗎？
 
 不會。所有已學習過的單字都會永久保留在 FSRS 複習佇列中，絕不鎖死您累積的學習進度。
-
-
---- FILE: index.html (https://fawnfell.com/index.html) ---
-
-# Fawnfell — Calm, Durable Software & Story Worlds
-
-Fawnfell — Independent Software & Interactive Studio
-
-Skip to content
-
-Fawnfell
-
-EN
-
-日本語
-
-한국어
-
-繁體中文
-
-Independent Software Studio
-
-Fawnfell — Calm, Durable Software & Story Worlds
-
-Fawnfell
- is an independent software studio crafting offline-first learning applications, atmospheric narrative games, and open-core developer workflow tools. We design compact, self-contained products without bloat, dark patterns, or unnecessary noise.
-
-Browse Products
-
-fawnfell@gmail.com
-
-What We Build
-
-Apps & Games
-
-Language & Narrative Works
-
-Story-driven learning apps and hand-crafted visual novels built to run offline on mobile and desktop.
-
-View Products
-
-Open Source
-
-Developer & Delivery Tools
-
-Deterministic engineering calculators and AI agent workflows rooted in first-principles project delivery.
-
-Explore on GitHub
-
-
---- FILE: ja/index.html (https://fawnfell.com/ja/index.html) ---
-
-# Fawnfell — 静かで長く使えるアプリと物語を
-
-Fawnfell — 独立ソフトウェアスタジオ
-
-本文へ移動
-
-Fawnfell
-
-EN
-
-日本語
-
-한국어
-
-繁體中文
-
-独立ソフトウェアスタジオ · Fawnfell
-
-Fawnfell — 静かで長く使えるアプリと物語を
-
-Fawnfell（フォーンフェル）
-は、オフライン完結型の語学アプリ、物語体験のあるゲーム、そして開発者向けワークフローツールを制作する独立スタジオです。各プロダクトの詳細・料金・サポートはプロダクト一覧からお選びいただけます。
-
-プロダクト一覧を見る
-
-Executive Reborn へ
-
-制作領域
-
-Apps & Games
-
-語学学習アプリ・物語ゲーム
-
-社会人向けビジネス英語RPG『Executive Reborn』をはじめ、オフラインでじっくり楽しめる作品を開発しています。
-
-プロダクトを選ぶ
-
-Open Source
-
-開発者向けオープンソースツール
-
-第一原理のプロジェクト進行・定量リスク計算を行うオープンソースツール群を GitHub で公開しています。
-
-GitHub を見る
-
-
---- FILE: ko/index.html (https://fawnfell.com/ko/index.html) ---
-
-# Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
-
-Fawnfell — 인디 소프트웨어 스튜디오
-
-본문으로 건너뛰기
-
-Fawnfell
-
-EN
-
-日本語
-
-한국어
-
-繁體中文
-
-인디 소프트웨어 스튜디오 · Fawnfell
-
-Fawnfell — 오래 곁에 두는 소프트웨어와 이야기
-
-Fawnfell
-은 오프라인 중심 학습 앱, 내러티브 게임, 그리고 오픈소스 개발 워크플로 도구를 제작하는 독립 소프트웨어 스튜디오입니다. 제품 디렉터리에서 각 앱과 도구를 살펴보실 수 있습니다.
-
-제품 둘러보기
-
-Executive Reborn 바로가기
-
-스튜디오 영역
-
-Apps & Games
-
-어학 학습 앱 & 내러티브 게임
-
-비즈니스 영어 스토리 RPG 『Executive Reborn』을 비롯한 오프라인 친화형 학습·스토리 작품을 만듭니다.
-
-제품 선택하기
-
-Open Source
-
-개발자·PM 오픈소스 도구
-
-제1원리 기반 일정·리스크 정량 계산 도구를 GitHub 오픈소스로 공개하고 있습니다.
-
-GitHub 보기
 
 
 --- FILE: products/index.html (https://fawnfell.com/products/index.html) ---
