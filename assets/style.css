@@ -516,3 +516,43 @@ details p {
     scroll-snap-align: center;
   }
 }
+
+.icon-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-block: 1rem 1.4rem;
+}
+
+.icon-card {
+  margin: 0;
+  display: grid;
+  justify-items: center;
+  gap: 0.45rem;
+  text-align: center;
+}
+
+.app-icon-squircle {
+  inline-size: 88px;
+  block-size: 88px;
+  border-radius: 22.5%;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 18px light-dark(rgba(20, 24, 31, 0.12), rgba(0, 0, 0, 0.42));
+}
+
+.app-icon-squircle img {
+  display: block;
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+}
+
+.icon-card figcaption {
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+details > .table-wrapper {
+  margin-block: 0.85rem 0.25rem;
+}
