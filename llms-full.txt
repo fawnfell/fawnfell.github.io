@@ -411,6 +411,20 @@ Charts your cumulative mastered words, timestamps your first 100 and 500 mastere
 
 100% Local Privacy
 
+Inside the Retention System (9:16 In-App Screens)
+
+FSRS Word Curve
+Each review visibly lifts stability vs. unreviewed decay
+
+Growth & Milestones
+Cumulative curve + first 100 / 500 word dates
+
+12-Week Heatmap
+Daily streak & listening / reading / story totals
+
+Study Journal Feed
+Pin up to 4 study-unlocked Archive cards per reflection
+
 Plans & Pricing Comparison
 
 Start free with full offline audio on the opening chapters, then pick a low-friction monthly pass or a single one-time lifetime buyout.
@@ -922,6 +936,20 @@ SSR原画を含む全79枚の図鑑カードは、課金では一切購入でき
 累計習得カーブや初100語・500語達成日の記録に加え、獲得したカード（最大4枚）を添えて自分だけの学習メモを端末内に残せます。
 
 完全ローカル保存
+
+記憶定着・学習記録の実機画面（9:16 モバイル表示）
+
+単語別 FSRS 忘却曲線
+復習ごとに記憶強度が上がる様子を実線×破線で可視化
+
+成長曲線＆マイルストーン
+累計語数カーブと初100語・500語達成日の記録
+
+12週ヒートマップ
+連続学習日数と聴く・読む・物語別の累積時間
+
+写真日記風レコード帳
+獲得した図鑑カードを添えて自分だけの記録を保存
 
 料金プラン一覧
 
@@ -2199,6 +2227,20 @@ SSR 일러스트를 포함한 79장의 아카이브 카드는 현금 판매나 �
 성장 곡선 & 개인 학습 저널
 
 첫 100·500단어 달성 시점과 누적 성장 곡선을 기록하고, 해금한 카드(최대 4장)를 붙여 나만의 회고 기록을 기기에 로컬 저장합니다.
+
+기억 곡선 · 학습 기록 실제 화면 (9:16 모바일)
+
+단어별 FSRS 망각 곡선
+복습할 때마다 기억 안정도가 높아지는 실선·점선 비교
+
+성장 곡선 & 마일스톤
+누적 어휘 곡선과 첫 100·500단어 달성 날짜 기록
+
+12주 학습 히트맵
+연속 일수와 듣기·독해·스토리 영역별 누적 시간
+
+피드형 학습 저널
+학습으로 해금한 도감 카드를 붙여 나만의 기록 보관
 
 요금제 비교
 
@@ -4556,6 +4598,20 @@ Executive Reborn
 成長曲線與個人學習紀錄
 
 記錄首次突破 100／500 單字的里程碑日期與累計曲線，並可用已解鎖圖鑑卡（每則最多 4 張）寫下純本地保存的學習手札。
+
+記憶曲線與真實學習手札實機截圖（9:16 手機畫面）
+
+單字專屬遺忘曲線
+每次複習後記憶穩定度實際拉高（對照未複習虛線）
+
+成長曲線與里程碑
+累計單字曲線與首次 100／500 單字達標日期
+
+12 週學習熱力圖
+連續天數與聽、讀、劇情各模組累計分鐘數
+
+IG 風私人學習手札
+貼上背單字解鎖的圖鑑卡，純本地記錄心得
 
 方案比較
 
