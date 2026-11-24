@@ -99,12 +99,19 @@ How Review Works
 
 — Fawnfell Product Charter · Powered by open-source FSRS & NGSL/TSL corpora
 
-TOEIC® Prep Corpus: What Are TSL 1.2 and NGSL 1.2?
+Focused TOEIC® Prep Scope: Part 3 Dialogues & Part 7 Business Reading (What Is—and Isn’t—Included)
 
+Instead of acting as an all-parts mock-exam bank, 
 Executive Reborn
- is built for workplace English and 
-TOEIC®-style listening, Part 7-style reading memos, and business vocabulary preparation
- (without predicting or guaranteeing test scores). Its target vocabulary draws on two open academic wordlists developed by Dr. Charles Browne, Dr. Brent Culligan, and Joseph Phillips under CC BY-SA 4.0: the 
+ deliberately concentrates on the two sections professionals struggle with most in real work: 
+extended workplace conversations (40 Part 3 dialogues + 2 Part 4 talks)
+ and 
+business document comprehension (42 core readings + 150 Part 7 workplace documents across 8 genres: email, notice, memo, article, advertisement, report, web page, and letter)
+. It intentionally omits Part 1 photo prompts, Part 2 short Q&A, and Part 5/6 standalone grammar gap-fills, and does not predict or guarantee test scores.
+
+Academic Vocabulary Foundation: What Are TSL 1.2 and NGSL 1.2?
+
+Target vocabulary draws on two open academic wordlists developed by Dr. Charles Browne, Dr. Brent Culligan, and Joseph Phillips under CC BY-SA 4.0: the 
 New General Service List (NGSL 1.2)
  of 2,809 high-frequency core words (reported on 
 the authors’ official site
@@ -301,6 +308,10 @@ How many times does a learner encounter each word across the 42 episodes? (Simul
 
 In a virtual-learner simulation at the recommended 1 episode per 2 days pace (not a human clinical trial), completing 42 episodes takes 84 days (~21.6 min/day for vocabulary and reading), with an average of 11.9 FSRS reviews per word and 4.3 encounters across audio scripts and 150 workplace articles (6.6 if articles are read twice).
 
+Which TOEIC® parts does Executive Reborn train—and what does it exclude?
+
+It specifically targets extended workplace listening (40 Part 3 multi-speaker dialogues + 2 Part 4 talks) and Part 7 business reading (42 core passages + 150 workplace memos/reports across 8 genres). It intentionally excludes Part 1 photo descriptions, Part 2 short Q&A, and Part 5/6 isolated grammar drills.
+
 
 --- FILE: executive-reborn/ja/index.html (https://fawnfell.com/executive-reborn/ja/index.html) ---
 
@@ -470,11 +481,34 @@ TSL / NGSL 語彙ライセンス
  ＆ 
 Open Spaced Repetition (FSRS)
 
-TOEIC®対策としての語彙設計：TSL 1.2 と NGSL 1.2 とは？
+TOEIC®対策としての専門領域：Part 3 会話 ＋ Part 7 ビジネス長文に特化
 
-Executive Reborn は、職場英語と 
-TOEIC® L&R 試験形式の語彙・長文（Part 7 型社内文書）・リスニング対策
-を想定して設計された学習アプリです（個人のスコア予測やスコア上昇の保証は行いません）。語彙選定は、応用言語学者 Dr. Charles Browne・Dr. Brent Culligan・Joseph Phillips らが公開した学術コーパス 
+Executive Reborn は「全パート網羅の問題集」ではなく、実務で最もつまずきやすい
+長めの会話リスニング（TOEIC® Part 3 相当：全42話中40話／Part 4 相当：2話）
+と
+ビジネス文書読解（Part 7 相当：本編42記事＋ワークデスク150記事、email・notice・memo・report・advertisement 等8ジャンル）
+に絞って設計されています（個人のスコア予測やスコア上昇の保証は行いません）。
+Part 1（写真描写）・Part 2（短文応答）・Part 5/6（単独文法穴埋め）はあえて収録せず
+、実際の会議音声と長文メールを「意味で追い切る力」と TSL/NGSL 語彙定着に集中しています。
+
+リスニング対策
+Part 3（40話）＋ Part 4（2話）
+
+会議・商談・アナウンス形式の連続発話を題材に、字幕付き理解と音声先行リスニングの両モードで長会話への耐性を養います。
+
+リーディング対策
+Part 7（42＋150文書 · 8ジャンル）
+
+社内メール、規定通知、監査メモ、市場レポートなど実務文書スタイルで長文の要旨把握と重要語句の即応力を鍛えます。
+
+収録範囲の明示
+Part 1・2・5・6 単独ドリルは非搭載
+
+基礎文法解説や短文穴埋め問題集を探している方向けではありません。ストーリー×実務長文に絞り、ミスマッチを防ぎます。
+
+TSL 1.2 と NGSL 1.2 コーパスについて
+
+語彙選定は、応用言語学者 Dr. Charles Browne・Dr. Brent Culligan・Joseph Phillips らが公開した学術コーパス 
 NGSL 1.2
 （一般英文テキストの約92%をカバーする基礎2,809語）と 
 TSL 1.2
@@ -551,6 +585,10 @@ FSRS-6 の復習評価は自己申告ボタンですか？
 推奨ペースで42話を終えると単語に何回出会えますか？（仮想学習者シミュレーション）
 
 2日に1話の推奨ペースを用いた仮想学習者シミュレーションでは、全42話の完了に約84日、1日の単語＋読解時間は約21.6分です。1語あたりFSRSで平均約11.9回復習し、音声と150本の記事内で平均4.3回出会います（実測データではなくシミュレーション結果です）。
+
+TOEIC® のどのパートに対応していますか？（含まれる学習・含まれない学習）
+
+リスニングは会話長文の Part 3（40話）＋アナウンスの Part 4（2話）、リーディングは実務長文の Part 7（本編42話＋ワークデスク150記事・8ジャンル）に特化しています。Part 1・Part 2 や Part 5/6 の単独文法ドリルは収録せず、実務の会議会話と社内文書読解に集中する構成です。
 
 
 --- FILE: executive-reborn/ja/preview/index.html (https://fawnfell.com/executive-reborn/ja/preview/index.html) ---
