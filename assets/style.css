@@ -452,6 +452,10 @@ details p {
   margin-block: 1rem 2rem;
 }
 
+.shot-rail.shot-rail-3 {
+  grid-template-columns: repeat(3, minmax(0, 240px));
+}
+
 .shot-card {
   margin: 0;
   display: grid;
