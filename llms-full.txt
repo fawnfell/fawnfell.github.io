@@ -37,6 +37,34 @@ Support & Restore
 
 Privacy Policy
 
+App Screen Preview (9:16 Mobile View — 8 Screens, Japanese UI)
+
+Captured directly at 1080×1920 portrait resolution from the Japanese build, covering the 42 main episodes, workplace reading memos, reaction-time FSRS quiz, and offline commute audio player. Swipe horizontally on mobile.
+
+01 · HOME
+Seasonal window scene, Shiba companion Marshal & daily tasks
+
+02 · Main EP01 (42 Eps)
+Boardroom English-Japanese script, audio & quiz entry
+
+03 · Reading Memo
+150 workplace articles with live key-term highlighting
+
+04 · Latency FSRS-6
+No self-rating buttons: graded from speed vs personal median
+
+05 · Commute Audio
+42-episode offline track list with loop & mini-player
+
+06 · WORDS & FSRS
+TSL 1,250 & NGSL 2,809 decks with Japanese glosses
+
+07 · Side Story AVG
+16 visual-novel chapters with portraits & scene art
+
+08 · WORK Desk
+Listening nodes paired with 7 workplace document feeds
+
 How Executive Reborn Combines Listening, Reading & Memory
 
 Every study loop pairs your Shiba companion Marshal with concise workplace dramas covering boardrooms, vendor audits, contracts, and crisis calls across roughly 230 MB of offline audio and art.
@@ -68,6 +96,98 @@ How Review Works
 “All words studied in Executive Reborn remain permanently available in the FSRS review queue even if a monthly subscription expires.”
 
 — Fawnfell Product Charter · Powered by open-source FSRS & NGSL/TSL corpora
+
+How Does Reaction-Time FSRS-6 Work Without Self-Grading Buttons?
+
+Executive Reborn runs the official 
+FSRS-6
+ scheduler (
+90%
+ target retention, 10-minute and 1-day learning steps) without forcing learners to self-rate 
+Again / Hard / Good / Easy
+. Instead, it grades every card from 
+accuracy plus response latency against your own rolling median
+ (last 200 correct answers under 15 s; 2,000 ms cold-start baseline): answers ≤ 0.6× median schedule as 
+Easy
+ (capped at 
+Good
+ on first encounter), 0.6×–1.5× as 
+Good
+, > 1.5× as 
+Hard
+, and misses as 
+Again
+.
+
+How Many Times Does Each Word Appear in Curriculum Simulations?
+
+The benchmarks below come from an automated 
+virtual-learner simulation
+ across all 42 episodes, 150 workplace reading articles, and 1,250 TSL-based target words. These figures model scheduler math and corpus frequency—they are 
+not human clinical measurements
+ and do not predict or guarantee TOEIC score gains.
+
+Virtual-Learner Curriculum Simulation Benchmarks (FSRS-6 · 90% Target Retention · Not Human Trial Data)
+
+Simulated Pace Model
+
+Calendar Days (42 Eps)
+
+Daily Study Time (Vocab + Reading)
+
+FSRS Reviews / Word
+
+Audio + Article Encounters / Word
+
+Words ≥ 14d Stability at +90d
+
+A1 · 1 Episode / Day
+
+42 days
+
+35.5 min/day
+
+11.0 avg (median 8)
+
+3.3 avg (median 2)
+
+96% (1,205 / 1,250)
+
+A2 · 1 Episode / 2 Days (Recommended)
+
+84 days
+
+21.6 min/day
+
+11.9 avg (median 8)
+
+4.3 avg (6.6 on 2× reading)
+
+97% (1,216 / 1,250)
+
+A3 · 1 Episode / 3 Days
+
+126 days
+
+15.5 min/day
+
+12.1 avg (median 8)
+
+5.3 avg (median 4)
+
+96% (1,202 / 1,250)
+
+C1 / C2 · 30% Missed Days / 14d Pause
+
+119 / 98 days
+
+20.7–21.9 min/day
+
+Calendar-independent progress
+
+No streak reset penalty
+
+Assumes continued due reviews
 
 Plans & Pricing Comparison
 
@@ -153,6 +273,14 @@ Does Executive Reborn work offline on commutes?
 
 Yes. All 58 story episodes, 1,397 phrases, and 11,250 AAC word audio clips are bundled locally so commuters can study and listen with lock-screen controls without cellular data.
 
+Does Executive Reborn use self-grading flashcard buttons or automatic reaction-time FSRS?
+
+It uses automatic reaction-time grading with FSRS-6 (90% target retention) instead of manual Again/Hard/Good/Easy self-rating buttons. Correctness and response speed relative to your own rolling median latency (last 200 answers) automatically choose Easy, Good, Hard, or Again.
+
+How many times does a learner encounter each word across the 42 episodes? (Simulation)
+
+In a virtual-learner simulation at the recommended 1 episode per 2 days pace (not a human clinical trial), completing 42 episodes takes 84 days (~21.6 min/day for vocabulary and reading), with an average of 11.9 FSRS reviews per word and 4.3 encounters across audio scripts and 150 workplace articles (6.6 if articles are read twice).
+
 
 --- FILE: executive-reborn/ja/index.html (https://fawnfell.com/executive-reborn/ja/index.html) ---
 
@@ -184,6 +312,141 @@ Executive Reborn
 サポート・購入復元
 
 プライバシーポリシー
+
+アプリ画面プレビュー（9:16 モバイル表示・全8画面）
+
+日本語UI（1080×1920）の実機スクリーンショットです。本編42話の会話スクリプト、職場資料リーディング、反応時間ベースの単語クイズ、通勤リスニングまで一通り確認できます。スマホでは横にスワイプしてご覧いただけます。
+
+01 · HOME
+季節の窓景色と柴犬 Marshal、今日のタスク
+
+02 · 本編42話 EP01
+役員会議の英日対訳スクリプト＆音声・テスト
+
+03 · Reading 読解
+社内メール等150本の記事＋重要語句ハイライト
+
+04 · FSRS 自動判定
+自己採点不要。正誤と反応速度で次回間隔を自動決定
+
+05 · 通勤リスニング
+全42話トラックの1話リピート／連続再生
+
+06 · WORDS 語彙帳
+日本語解説（日）＋ TSL 1,250語・NGSL 2,809語
+
+07 · 番外編 AVG
+立ち絵＋場面背景で進む16夜のビジュアルノベル
+
+08 · WORK デスク
+リスニング進捗と7種のビジネス資料受信トレイ
+
+自己申告ボタンのない反応時間 FSRS-6 とは？
+
+Executive Reborn は公式 
+FSRS-6
+（目標記憶保持率 
+90%
+、初期学習ステップ 10分 → 1日）を採用しています。学習者に「もう一度／難しい／普通／簡単」を毎回自己申告させる代わりに、
+正誤
+と
+本人直近の正解反応時間（最大200問・15秒未満の移動中央値、初回20問までは基準 2,000 ms）
+の比率から次回出題を自動計算します。
+
+0.6× 以下
+
+Easy 自動判定（初回は Good 上限）
+
+本人の平均反応時間の 0.6 倍以内で即答できた場合のみ Easy 扱い。ただし初見語彙の偶発的な早押しを防ぐため、初日のみ Good 上限に抑えます。
+
+0.6× 〜 1.5×
+
+Good / Hard 自動振り分け
+
+個人の中央値ペースを基準にするため、読むスピードや端末操作速度の個人差が打ち消され、迷って遅れた正解（1.5倍超）は自動で Hard に回ります。
+
+誤答時
+
+Again（10分後に再出題）
+
+不正解は常に Again として短い再学習ステップに入り、記憶の定着度合いを単語ごとの独立曲線で再調整します。
+
+1日どれくらいの時間で、目標語に何回出会えますか？（仮想学習者シミュレーション）
+
+以下は 42話・150記事・1,250目標語（Browne & Culligan の 
+TSL
+ に基づく）を FSRS-6 の仮想学習者モデルで検証した
+シミュレーション値
+です（実ユーザーの臨床試験ではなく、TOEIC スコアの上昇や予測を保証するものではありません）。
+
+仮想学習者シミュレーションによる学習ペース別ベンチマーク（実測値ではありません）
+
+ペースモデル（仮想学習者）
+
+全42話完了日数
+
+1日平均（単語＋読解）
+
+FSRS 復習回数/語
+
+劇中・記事内の遭遇/語
+
+完了90日後の安定語率（安定度 ≥ 14日）
+
+A1 · 毎日1話
+
+42日
+
+35.5分/日
+
+11.0回（中央値 8）
+
+3.3回（中央値 2）
+
+96%（1,205 / 1,250）
+
+A2 · 2日に1話（推奨）
+
+84日
+
+21.6分/日
+
+11.9回（中央値 8）
+
+4.3回（記事2周で6.6回）
+
+97%（1,216 / 1,250）
+
+A3 · 3日に1話
+
+126日
+
+15.5分/日
+
+12.1回（中央値 8）
+
+5.3回（中央値 4）
+
+96%（1,202 / 1,250）
+
+C1 / C2 · 30%欠席・14日中断
+
+119日 / 98日
+
+20.7〜21.9分/日
+
+カレンダー非依存で継続可
+
+テキスト内遭遇回数は維持
+
+完了後リスト継続が前提
+
+「本ページに記載された学習時間・復習回数・遭遇頻度はすべて FSRS-6 仮想学習者モデルによるシミュレーション値であり、実ユーザーの学習効果や TOEIC スコア向上を保証するものではありません。ただし、一度学習した単語の FSRS 復習キューは解約後も永久に無料開放されます。」
+
+— Fawnfell 公開情報ポリシー · 出典：
+TSL / NGSL 語彙ライセンス
+ ＆ 
+Open Spaced Repetition (FSRS)
 
 料金プラン一覧
 
@@ -242,6 +505,14 @@ Fawnfell が開発する社会人向けビジネス英語RPG＋FSRS単語帳ア�
 月額プランを解約しても学習済み単語は復習できますか？
 
 はい。一度学習した単語のFSRS復習キューは永久に無料開放されるため、解約後も復習がロックされることはありません。
+
+FSRS-6 の復習評価は自己申告ボタンですか？
+
+いいえ。「覚えた／迷った」を自分で押す必要はありません。正誤と本人の直近正解反応時間（中央値）との比較から、FSRS-6（目標保持率90%）が自動で次回間隔を決定します。
+
+推奨ペースで42話を終えると単語に何回出会えますか？（仮想学習者シミュレーション）
+
+2日に1話の推奨ペースを用いた仮想学習者シミュレーションでは、全42話の完了に約84日、1日の単語＋読解時間は約21.6分です。1語あたりFSRSで平均約11.9回復習し、音声と150本の記事内で平均4.3回出会います（実測データではなくシミュレーション結果です）。
 
 
 --- FILE: executive-reborn/ko/index.html (https://fawnfell.com/executive-reborn/ko/index.html) ---

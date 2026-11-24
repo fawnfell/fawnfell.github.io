@@ -66,10 +66,18 @@
           },
           {
             "@type": "Question",
-            "name": "Does Executive Reborn work offline on commutes?",
+            "name": "Does Executive Reborn use self-grading flashcard buttons or automatic reaction-time FSRS?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. All 58 story episodes, 1,397 phrases, and 11,250 AAC word audio clips are bundled locally so commuters can study and listen with lock-screen controls without cellular data."
+              "text": "It uses automatic reaction-time grading with FSRS-6 (90% target retention) instead of manual Again/Hard/Good/Easy self-rating buttons. Correctness and response speed relative to your own rolling median latency (last 200 answers) automatically choose Easy, Good, Hard, or Again."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many times does a learner encounter each word across the 42 episodes? (Simulation)",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In a virtual-learner simulation at the recommended 1 episode per 2 days pace (not a human clinical trial), completing 42 episodes takes 84 days (~21.6 min/day for vocabulary and reading), with an average of 11.9 FSRS reviews per word and 4.3 encounters across audio scripts and 150 workplace articles (6.6 if articles are read twice)."
             }
           }
         ]
@@ -128,38 +136,56 @@
     </section>
 
     <section id="screenshots">
-      <h2>App Screen Preview (9:16 Mobile View — Japanese UI)</h2>
-      <p>Captured directly at 1080×1920 portrait resolution from the Japanese interface. Swipe horizontally on mobile to browse every screen.</p>
+      <h2>App Screen Preview (9:16 Mobile View — 8 Screens, Japanese UI)</h2>
+      <p>Captured directly at 1080×1920 portrait resolution from the Japanese build, covering the 42 main episodes, workplace reading memos, reaction-time FSRS quiz, and offline commute audio player. Swipe horizontally on mobile.</p>
       <div class="shot-rail" role="region" aria-label="Executive Reborn mobile app screenshots" tabindex="0">
         <figure class="shot-card">
           <div class="phone-frame">
             <img src="/assets/screenshots/executive-reborn/01_home_ja.webp" alt="Executive Reborn Home screen showing Shiba companion Marshal and daily tasks in Japanese" width="1080" height="1920">
           </div>
-          <figcaption><strong>01 · HOME</strong>Seasonal window backdrop, Shiba companion Marshal &amp; daily queue</figcaption>
+          <figcaption><strong>01 · HOME</strong>Seasonal window scene, Shiba companion Marshal &amp; daily tasks</figcaption>
         </figure>
         <figure class="shot-card">
           <div class="phone-frame">
-            <img src="/assets/screenshots/executive-reborn/02_story_avg_ja.webp" alt="Executive Reborn visual novel story scene with character portrait and Japanese dialogue" width="1080" height="1920">
+            <img src="/assets/screenshots/executive-reborn/06_ep01_main_ja.webp" alt="Executive Reborn main episode EP01 dialogue script with English audio and Japanese translation" width="1080" height="1920">
           </div>
-          <figcaption><strong>02 · AVG Story</strong>Illustrated corporate drama chapters with Japanese dialogue</figcaption>
+          <figcaption><strong>02 · Main EP01 (42 Eps)</strong>Boardroom English-Japanese script, audio &amp; quiz entry</figcaption>
         </figure>
         <figure class="shot-card">
           <div class="phone-frame">
-            <img src="/assets/screenshots/executive-reborn/03_words_ja.webp" alt="Executive Reborn Words hub showing TSL and NGSL vocabulary decks and FSRS queue" width="1080" height="1920" loading="lazy">
+            <img src="/assets/screenshots/executive-reborn/07_reading_ja.webp" alt="Executive Reborn workplace reading view with highlighted TSL vocabulary terms" width="1080" height="1920" loading="lazy">
           </div>
-          <figcaption><strong>03 · WORDS &amp; FSRS</strong>TSL 1,250 &amp; NGSL 2,809 decks with Japanese glosses</figcaption>
+          <figcaption><strong>03 · Reading Memo</strong>150 workplace articles with live key-term highlighting</figcaption>
         </figure>
         <figure class="shot-card">
           <div class="phone-frame">
-            <img src="/assets/screenshots/executive-reborn/04_work_ja.webp" alt="Executive Reborn Work tab showing business listening units and workplace documents" width="1080" height="1920" loading="lazy">
+            <img src="/assets/screenshots/executive-reborn/09_fsrs_study_ja.webp" alt="Executive Reborn FSRS flashcard quiz graded automatically by response latency" width="1080" height="1920" loading="lazy">
           </div>
-          <figcaption><strong>04 · WORK Mode</strong>Commute listening episodes paired with office briefs &amp; memos</figcaption>
+          <figcaption><strong>04 · Latency FSRS-6</strong>No self-rating buttons: graded from speed vs personal median</figcaption>
         </figure>
         <figure class="shot-card">
           <div class="phone-frame">
-            <img src="/assets/screenshots/executive-reborn/05_story_map_ja.webp" alt="Executive Reborn Story route map for 16 side-story episodes" width="1080" height="1920" loading="lazy">
+            <img src="/assets/screenshots/executive-reborn/08_commute_audio_ja.webp" alt="Executive Reborn commute audio playlist across 42 episodes with lock-screen player" width="1080" height="1920" loading="lazy">
           </div>
-          <figcaption><strong>05 · STORY Map</strong>Node progression across 42 main &amp; 16 side-story chapters</figcaption>
+          <figcaption><strong>05 · Commute Audio</strong>42-episode offline track list with loop &amp; mini-player</figcaption>
+        </figure>
+        <figure class="shot-card">
+          <div class="phone-frame">
+            <img src="/assets/screenshots/executive-reborn/03_words_ja.webp" alt="Executive Reborn Words hub showing Japanese glosses, TSL 1,250 and NGSL 2,809 decks" width="1080" height="1920" loading="lazy">
+          </div>
+          <figcaption><strong>06 · WORDS &amp; FSRS</strong>TSL 1,250 &amp; NGSL 2,809 decks with Japanese glosses</figcaption>
+        </figure>
+        <figure class="shot-card">
+          <div class="phone-frame">
+            <img src="/assets/screenshots/executive-reborn/02_story_avg_ja.webp" alt="Executive Reborn side-story visual novel scene with character portrait and Japanese dialogue" width="1080" height="1920" loading="lazy">
+          </div>
+          <figcaption><strong>07 · Side Story AVG</strong>16 visual-novel chapters with portraits &amp; scene art</figcaption>
+        </figure>
+        <figure class="shot-card">
+          <div class="phone-frame">
+            <img src="/assets/screenshots/executive-reborn/04_work_ja.webp" alt="Executive Reborn Work tab showing episode listening progress and 7 workplace document types" width="1080" height="1920" loading="lazy">
+          </div>
+          <figcaption><strong>08 · WORK Desk</strong>Listening nodes paired with 7 workplace document feeds</figcaption>
         </figure>
       </div>
     </section>
@@ -200,6 +226,62 @@
         </blockquote>
         <cite>— Fawnfell Product Charter · Powered by open-source FSRS &amp; NGSL/TSL corpora</cite>
       </figure>
+
+      <h3>How Does Reaction-Time FSRS-6 Work Without Self-Grading Buttons?</h3>
+      <p>Executive Reborn runs the official <strong>FSRS-6</strong> scheduler (<strong>90%</strong> target retention, 10-minute and 1-day learning steps) without forcing learners to self-rate <em>Again / Hard / Good / Easy</em>. Instead, it grades every card from <strong>accuracy plus response latency against your own rolling median</strong> (last 200 correct answers under 15 s; 2,000 ms cold-start baseline): answers ≤ 0.6× median schedule as <em>Easy</em> (capped at <em>Good</em> on first encounter), 0.6×–1.5× as <em>Good</em>, &gt; 1.5× as <em>Hard</em>, and misses as <em>Again</em>.</p>
+
+      <h3>How Many Times Does Each Word Appear in Curriculum Simulations?</h3>
+      <p>The benchmarks below come from an automated <strong>virtual-learner simulation</strong> across all 42 episodes, 150 workplace reading articles, and 1,250 TSL-based target words. These figures model scheduler math and corpus frequency—they are <strong>not human clinical measurements</strong> and do not predict or guarantee TOEIC score gains.</p>
+
+      <div class="table-wrapper" role="region" aria-labelledby="sim-caption" tabindex="0">
+        <table>
+          <caption id="sim-caption">Virtual-Learner Curriculum Simulation Benchmarks (FSRS-6 · 90% Target Retention · Not Human Trial Data)</caption>
+          <thead>
+            <tr>
+              <th>Simulated Pace Model</th>
+              <th>Calendar Days (42 Eps)</th>
+              <th>Daily Study Time (Vocab + Reading)</th>
+              <th>FSRS Reviews / Word</th>
+              <th>Audio + Article Encounters / Word</th>
+              <th>Words ≥ 14d Stability at +90d</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>A1 · 1 Episode / Day</th>
+              <td>42 days</td>
+              <td>35.5 min/day</td>
+              <td>11.0 avg (median 8)</td>
+              <td>3.3 avg (median 2)</td>
+              <td>96% (1,205 / 1,250)</td>
+            </tr>
+            <tr>
+              <th>A2 · 1 Episode / 2 Days (Recommended)</th>
+              <td>84 days</td>
+              <td>21.6 min/day</td>
+              <td>11.9 avg (median 8)</td>
+              <td>4.3 avg (6.6 on 2× reading)</td>
+              <td>97% (1,216 / 1,250)</td>
+            </tr>
+            <tr>
+              <th>A3 · 1 Episode / 3 Days</th>
+              <td>126 days</td>
+              <td>15.5 min/day</td>
+              <td>12.1 avg (median 8)</td>
+              <td>5.3 avg (median 4)</td>
+              <td>96% (1,202 / 1,250)</td>
+            </tr>
+            <tr>
+              <th>C1 / C2 · 30% Missed Days / 14d Pause</th>
+              <td>119 / 98 days</td>
+              <td>20.7–21.9 min/day</td>
+              <td>Calendar-independent progress</td>
+              <td>No streak reset penalty</td>
+              <td>Assumes continued due reviews</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </section>
 
     <section id="pricing">
@@ -275,6 +357,14 @@
         <details name="faq">
           <summary>Does Executive Reborn work offline on commutes?</summary>
           <p>Yes. All 58 story episodes, 1,397 phrases, and 11,250 AAC word audio clips are bundled locally so commuters can study and listen with lock-screen controls without cellular data.</p>
+        </details>
+        <details name="faq">
+          <summary>Does Executive Reborn use self-grading flashcard buttons or automatic reaction-time FSRS?</summary>
+          <p>It uses automatic reaction-time grading with FSRS-6 (90% target retention) instead of manual Again/Hard/Good/Easy self-rating buttons. Correctness and response speed relative to your own rolling median latency (last 200 answers) automatically choose Easy, Good, Hard, or Again.</p>
+        </details>
+        <details name="faq">
+          <summary>How many times does a learner encounter each word across the 42 episodes? (Simulation)</summary>
+          <p>In a virtual-learner simulation at the recommended 1 episode per 2 days pace (not a human clinical trial), completing 42 episodes takes 84 days (~21.6 min/day for vocabulary and reading), with an average of 11.9 FSRS reviews per word and 4.3 encounters across audio scripts and 150 workplace articles (6.6 if articles are read twice).</p>
         </details>
       </div>
     </section>
