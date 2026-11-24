@@ -650,7 +650,55 @@ Deluxe exclusive (does not auto-trigger)
 
 Deluxe exclusive
 
+How Does Executive Reborn Prevent Learner Burnout & Dropout?
+
+Most professionals quit vocabulary apps within three weeks because manual self-grading feels tiring, missed days reset brittle streaks, and isolated word lists lack emotional payoff. 
+Executive Reborn
+ solves drop-off with reaction-time FSRS-6 automation, penalty-free breaks, a 21.6 min/day workplace story loop, after-hours suspense rewards, and zero-gacha study milestones.
+
+Why Learners Quit vs. How Executive Reborn Keeps You Studying
+
+Common Quit Trigger
+
+Typical Flashcard / Cram App
+
+Executive Reborn Anti-Dropout Design
+
+Decision Fatigue
+
+Manual 4-button self-grading (Again / Hard / Good / Easy) on every single card
+
+Automatic reaction-time FSRS-6 (90% target retention) calibrated to your own 200-answer median latency
+
+Missed-Day Guilt
+
+Broken streak penalties and overwhelming review backlogs after a busy week
+
+Zero streak-reset penalty; simulations with 30% missed days or 14-day pauses still converge smoothly
+
+Boring Isolated Drills
+
+Unconnected sentences with no plot or emotional reward to open the app tomorrow
+
+42 boardroom episodes + 16-chapter after-hours amnesia mystery unlocked every 3 lessons
+
+Shallow Gamification
+
+Paid loot-box gacha, noisy public leaderboards, or pay-to-win badges
+
+79 Archive cards unlocked strictly by mastering words + private Growth Log & per-word forgetting curves
+
+Subscription Lock-In
+
+All study history and review queues lock behind a paywall when you cancel
+
+Permanent free FSRS review queue for every learned word, plus $17.99 one-time buyout option
+
 Frequently Asked Questions
+
+How does Executive Reborn prevent learner burnout and dropout?
+
+It removes five major drop-off causes: automatic reaction-time FSRS-6 eliminates self-rating fatigue, missed days carry zero streak-reset penalties, a 21.6 min/day workplace story loop pairs with commute audio, every 3 lessons unlock an after-hours visual novel chapter, and learned words stay permanently free to review.
 
 What is Executive Reborn by Fawnfell?
 
@@ -1146,7 +1194,55 @@ $24.99
 
 デラックス版限定（手動選択・固定）
 
+なぜ英語学習は三日坊主で終わるのか？Executive Reborn の挫折防止設計
+
+社会人が単語アプリをやめてしまう最大の理由は、毎回の自己評価疲れ、数日休んだだけで崩れる連続記録プレッシャー、そして「明日も開きたい物語の欠如」です。
+Executive Reborn
+は、反応時間によるFSRS-6自動判定、休んでもペナルティなしの復習調整、3話ごとに開く放課後ミステリー、無課金79枚図鑑と可視化された記憶曲線で継続を支えます。
+
+英語アプリ挫折の要因 vs. Executive Reborn の解決アプローチ
+
+挫折しやすいポイント
+
+従来の単語帳・詰め込みアプリ
+
+Executive Reborn の挫折防止設計
+
+自己評価の疲労
+
+1問ごとに「覚えた／曖昧／忘れた」を手動で押し続ける判断疲れ
+
+本人の直近200問の反応速度中央値を基準に FSRS-6（保持率90%）が自動判定
+
+休み明けの罪悪感
+
+忙しい週に連続記録がリセットされ、復習の山を見てやる気を失う
+
+連続記録ペナルティなし。30%欠席や14日休止モデルでも90日後定着率を維持
+
+単調で退屈な反復
+
+脈絡のない例文ばかりで、翌日またアプリを開く感情的な理由がない
+
+本編42話の会議英語×3話ごとに解禁される全16話の記憶喪失ミステリー番外編
+
+課金ガチャ・比較疲れ
+
+課金ガチャや他人とのランキング競争で、本来の学習目的からズレる
+
+79枚の図鑑は単語習得のみで解放。単語別忘却曲線・12週ヒートマップ・非公開レコード帳で自分の歩みを記録
+
+解約時のロック不安
+
+月額を止めると、それまで覚えた単語の復習画面までロックされる
+
+学習済み単語のFSRS復習は解約後も永久無料。¥2,800買い切りプランも選択可能
+
 よくある質問
+
+なぜ他の英語アプリより挫折しにくいのですか？（三日坊主防止の仕組み）
+
+①自己評価不要の反応時間FSRS-6、②休んでも罰則なしの柔軟なスケジュール、③1日約21.6分の実務ループ＋通勤音声、④3話ごとに進む放課後ミステリー、⑤無課金79枚図鑑＋単語別忘却曲線・学習レコード帳、⑥解約後も既習単語がロックされない安心設計で継続を支えます。
 
 Executive Reborn とはどんなアプリですか？
 
@@ -2074,7 +2170,7 @@ SP01 · 最初の夜・俯瞰（第一夜冒頭）
 
 役員フロアのバーカウンターで、バリスタが挽きたてのコーヒーを差し出した。磁器のカップの縁が熱い。
 
-咖啡师:
+バリスタ:
  いつものでよろしいですか、ディレクター？
 
 Alex:
@@ -2084,7 +2180,7 @@ Alex:
 
 夜七時、フロアの全員が帰った。廊下の突き当たりに、ミニマルなギャラリーがある。打ちっぱなしのコンクリートの壁、長い大理石のベンチ、その上には、赤・黄・青の四角。
 
-守卫:
+警備員:
  ディレクター。前回、この絵は指二本分低いとおっしゃいました。調整しておきました。
 
 Alex:
@@ -2286,7 +2382,55 @@ $24.99
 
 스탠다드 전체 + 타임 옷장(의상 11종·풍경 13종 상시 고정) + 대체 앱 아이콘
 
+영어 단어 앱의 ‘작심삼일’과 중도 포기를 어떻게 막아주나요?
+
+대부분의 직장인이 3주 안에 영어 앱을 그만두는 이유는 매 카드마다 직접 난이도를 눌러야 하는 피로감, 하루만 빠져도 끊기는 스트릭 죄책감, 맥락 없는 예문의 지루함 때문입니다. 
+Executive Reborn
+은 반응 속도 기반 FSRS-6 자동 채점, 페널티 없는 휴식, 하루 21.6분 오피스 스토리 루프, 3화마다 열리는 퇴근 후 미스터리, 가챠 없는 수집 기록으로 꾸준한 학습을 돕습니다.
+
+학습 중도 포기 원인 vs. Executive Reborn의 지속 설계
+
+주요 포기 원인
+
+일반 암기·단어장 앱
+
+Executive Reborn의 작심삼일 방지 설계
+
+버튼 선택 피로감
+
+매 카드마다 다시/어려움/보통/쉬움을 수동으로 판단해 클릭해야 함
+
+최근 200회 응답의 개인 중앙값 속도를 기준으로 FSRS-6(목표 보존율 90%)가 자동 등급 판정
+
+결석·밀린 복습 죄책감
+
+하루만 쉬어도 연속 기록(스트릭)이 0으로 초기화되고 복습량이 폭증함
+
+스트릭 초기화 페널티 없음. 시뮬레이션상 30% 결석이나 14일 공백 뒤에도 부드럽게 수렴
+
+맥락 없는 지루한 암기
+
+서로 연결되지 않는 단편 예문으로 내일 앱을 다시 켤 서사적 동기가 없음
+
+본편 42화 오피스 드라마 + 3화 학습마다 해금되는 16화 퇴근 후 기억상실 서스펜스 번외편
+
+과금·가챠 중심 게임화
+
+유료 뽑기(가챠), 소란스러운 공개 랭킹, 현질 유도 배지
+
+단어 마스터로만 해금되는 79종 도감 카드 + 단말기 내 성장 곡선·단어별 망각 곡선 기록
+
+구독 해지 시 데이터 잠금
+
+월 구독을 해지하면 지금까지 공부한 학습 기록과 복습 대기열까지 잠김
+
+이미 학습한 단어의 FSRS 복습 대기열은 영구 무료 유지, ₩27,000 스탠다드 일시불 옵션 제공
+
 자주 묻는 질문
+
+영어 단어 앱을 3주 넘게 꾸준히 쓰지 못하고 포기하게 되는데, Executive Reborn은 작심삼일을 어떻게 막아주나요?
+
+반응 속도 기반 FSRS-6 자동 채점으로 버튼 피로를 없애고, 연속 기록 초기화 페널티 없이 바쁜 날 쉴 수 있으며, 하루 21.6분 오피스 스토리 루프·3화마다 열리는 퇴근 후 번외편·구독 만료 후에도 남는 영구 복습 대기열로 중도 이탈을 막습니다.
 
 Executive Reborn은 어떤 앱인가요?
 
@@ -3198,7 +3342,7 @@ SP01 · 첫날 밤·내려다보다 (첫날 밤 오프닝)
 
 임원층 바에서 바리스타가 갓 간 커피를 내 앞에 밀어 주었다. 도자기 잔 가장자리가 뜨겁다.
 
-咖啡师:
+바리스타:
  평소처럼 드릴까요, 디렉터님?
 
 Alex:
@@ -3208,7 +3352,7 @@ Alex:
 
 저녁 일곱 시, 층 전체가 퇴근했다. 복도 끝에 극도로 단순한 갤러리가 있다. 노출 콘크리트 벽, 길쭉한 대리석 벤치, 그 위에는 빨강, 노랑, 파랑의 사각형.
 
-守卫:
+경비원:
  디렉터님. 지난번에 이 그림이 손가락 두 개만큼 낮다고 하셔서, 조정해 두었습니다.
 
 Alex:
@@ -4657,7 +4801,55 @@ $24.99
 
 標準買斷全部權益 + 時光衣櫥（11 套造型與 13 張窗景自由鎖定）+ 備用桌面圖示
 
+Executive Reborn 如何防止背單字倦怠與三分鐘熱度棄坑？
+
+多數上班族在三週內放棄背單字 App，往往因為每張卡片都要手動選難易度、漏學一天就斷簽清零的挫敗感，以及孤立例句缺乏動力。
+Executive Reborn
+ 以反應時間自動 FSRS-6 排程、零斷簽懲罰、每日 21.6 分鐘商戰劇情閉環、下班後懸疑番外獎勵與零抽卡學習成就，幫助你自然堅持下去。
+
+常見棄坑原因 vs. Executive Reborn 防中斷設計
+
+常見棄坑誘因
+
+傳統背單字 / 題庫 App
+
+Executive Reborn 防棄坑設計
+
+按鈕決策疲勞
+
+每張單字卡都需手動點選「忘記 / 困難 / 良好 / 簡單」四顆評分按鈕
+
+依近 200 題個人作答中位數反應速度自動判定 FSRS-6 等級（目標記憶保留率 90%）
+
+漏學與斷簽罪惡感
+
+漏簽一天連續天數直接歸零，加班一週後複習量雪崩堆疊
+
+零斷簽歸零懲罰；模擬 30% 缺席日或暫停 14 天後仍能平順收斂複習節奏
+
+枯燥的孤立例句
+
+前後毫無關聯的單句練習，缺乏明天想再打開 App 追進度的理由
+
+42 集辦公室主線劇本 + 每學完 3 集即解鎖 16 集下班後失憶懸疑番外篇
+
+淺層抽卡遊戲化
+
+付費轉蛋抽卡、吵雜的公開排行榜或逼課徽章
+
+純靠背會單字解鎖 79 張圖鑑卡片 + 本機保存個人成長曲線與單字遺忘曲線
+
+退訂後紀錄被鎖
+
+停止月費訂閱後，過去背過的單字與複習佇列全部遭到封鎖
+
+已學單字永久免費保留於 FSRS 複習佇列，並提供 NT$590 標準永久買斷方案
+
 常見問題
+
+背單字總是撐不過三週就棄坑，Executive Reborn 如何防止學習倦怠與中斷？
+
+它針對 5 大棄坑痛點設計：反應速度自動判定 FSRS-6 消除手動按鈕疲勞、零斷簽歸零懲罰允許忙碌時安心休息、每日 21.6 分鐘職場劇情與通勤音訊閉環、每 3 集解鎖下班後懸疑番外，且已學單字即使不續訂也能永久免費複習。
 
 Executive Reborn 適合什麼樣的學習者？
 
@@ -5569,7 +5761,7 @@ SP01 · 第一夜·俯瞰（第一夜開篇）
 
 行政層的吧檯，咖啡師把一杯現磨的咖啡推到我面前，瓷杯沿是燙的。
 
-咖啡师:
+咖啡師:
  老樣子，總監？
 
 Alex:
@@ -5579,7 +5771,7 @@ Alex:
 
 晚上七點，整層樓的人都下班了。走廊盡頭，有一間極簡的畫廊：清水混凝土牆，一條長長的大理石長凳，長凳上方，紅黃藍的方塊。
 
-守卫:
+守衛:
  總監。您上次說，這幅掛低了兩指。我們調過了。
 
 Alex:
