@@ -31,6 +31,8 @@ Executive Reborn — Learn Real Workplace English Through Story
 Executive Reborn
  is an offline-first business English learning app by Fawnfell. Built for busy professionals who dislike dry textbooks, it combines 58 interactive corporate story episodes, 1,397 workplace phrases, and an FSRS spaced-repetition engine with 11,250 AAC voice clips.
 
+Read Free Episodes 1–3
+
 Compare Plans
 
 Support & Restore
@@ -96,6 +98,24 @@ How Review Works
 “All words studied in Executive Reborn remain permanently available in the FSRS review queue even if a monthly subscription expires.”
 
 — Fawnfell Product Charter · Powered by open-source FSRS & NGSL/TSL corpora
+
+TOEIC® Prep Corpus: What Are TSL 1.2 and NGSL 1.2?
+
+Executive Reborn
+ is built for workplace English and 
+TOEIC®-style listening, Part 7-style reading memos, and business vocabulary preparation
+ (without predicting or guaranteeing test scores). Its target vocabulary draws on two open academic wordlists developed by Dr. Charles Browne, Dr. Brent Culligan, and Joseph Phillips under CC BY-SA 4.0: the 
+New General Service List (NGSL 1.2)
+ of 2,809 high-frequency core words (reported on 
+the authors’ official site
+ at ~92% coverage of general English texts) and the 
+TOEIC Service List (TSL 1.2)
+ (reported by its authors at ~98.5%–99% combined coverage of TOEIC® test text when paired with NGSL; restructured into 1,250 core course targets here). Our derived wordlists are openly downloadable at 
+Wordlist Licenses
+, while all 42 scripts, 150 memos, definitions, and audio clips are original Fawnfell works.
+
+Trademark & Non-Affiliation Notice:
+ TOEIC® is a registered trademark of ETS (Educational Testing Service). Executive Reborn and Fawnfell are not affiliated with, endorsed by, or sponsored by ETS.
 
 How Does Reaction-Time FSRS-6 Work Without Self-Grading Buttons?
 
@@ -307,6 +327,8 @@ Executive Reborn — 企業ドラマとFSRSで続くビジネス英語
 Executive Reborn
 は、分厚い参考書が続かない社会人のために Fawnfell が開発したオフライン対応のビジネス英語RPG＋FSRS単語帳アプリです。本編42話＋番外編16話、1,397表現、11,250本の音声クリップを収録しています。
 
+第1〜3話を無料試読
+
 料金プランを見る
 
 サポート・購入復元
@@ -448,6 +470,22 @@ TSL / NGSL 語彙ライセンス
  ＆ 
 Open Spaced Repetition (FSRS)
 
+TOEIC®対策としての語彙設計：TSL 1.2 と NGSL 1.2 とは？
+
+Executive Reborn は、職場英語と 
+TOEIC® L&R 試験形式の語彙・長文（Part 7 型社内文書）・リスニング対策
+を想定して設計された学習アプリです（個人のスコア予測やスコア上昇の保証は行いません）。語彙選定は、応用言語学者 Dr. Charles Browne・Dr. Brent Culligan・Joseph Phillips らが公開した学術コーパス 
+NGSL 1.2
+（一般英文テキストの約92%をカバーする基礎2,809語）と 
+TSL 1.2
+（NGSLとの組み合わせで TOEIC® テキストの約98.5〜99%をカバーすると語彙表公式サイトで紹介されているビジネス語彙体系・本アプリでは1,250目標語として再構成）をベースにしています。語彙表自体は 
+CC BY-SA 4.0 ライセンスページ
+でダウンロード公開し、定義・42話スクリプト・150本の読解記事・音声はFawnfellが独自制作しています。
+
+※ 
+独立性に関する注記
+：TOEIC®はエデュケーショナル・テスティング・サービス（ETS）の登録商標です。Executive Reborn および Fawnfell は ETS と一切関係がなく、ETS による推奨・後援を受けたものではありません。
+
 料金プラン一覧
 
 Executive Reborn プラン比較表
@@ -513,6 +551,864 @@ FSRS-6 の復習評価は自己申告ボタンですか？
 推奨ペースで42話を終えると単語に何回出会えますか？（仮想学習者シミュレーション）
 
 2日に1話の推奨ペースを用いた仮想学習者シミュレーションでは、全42話の完了に約84日、1日の単語＋読解時間は約21.6分です。1語あたりFSRSで平均約11.9回復習し、音声と150本の記事内で平均4.3回出会います（実測データではなくシミュレーション結果です）。
+
+
+--- FILE: executive-reborn/ja/preview/index.html (https://fawnfell.com/executive-reborn/ja/preview/index.html) ---
+
+# Executive Reborn カリキュラム体験：本編第1〜3話＋Reading全文
+
+Executive Reborn — 無料カリキュラム試読（本編第1〜3話・Reading・語彙リスト） | Fawnfell
+
+本文へ移動
+
+Fawnfell
+
+EN
+
+日本語
+
+インストール不要 · 本編第1〜3話（全42話より抜粋）
+
+Executive Reborn カリキュラム体験：本編第1〜3話＋Reading全文
+
+Executive Reborn 本編第1〜3話の無料試読ページ。取締役会や全社集会のリスニングスクリプト（英日対訳）、社内文書リーディング教材、72語のビジネス表現を確認できます。（27 会話セリフ / 13 読解テキスト / 72 語彙）
+
+EP01 · 合併後の取締役会
+
+EP02 · 全員大会マイクトラブル
+
+EP03 · 経費精算の罠
+
+料金プランに戻る
+
+1話ごとの学習ループ構造はどうなっていますか？
+
+Executive Reborn の全42話はすべて共通の4段階ループで構成されており、同じターゲット語彙を単語テスト・会話音声・実務メール読解の3文脈で繰り返し定着させる設計です。
+
+Step 1
+反応時間 FSRS 予習
+
+会話と文書に出る重要単語をクイズ形式で予習。自己採点なしで反応速度から次回復習間隔を決めます。
+
+Step 2
+ストーリー＆通勤リスニング
+
+字幕ありストーリー、またはテキスト無しの音声先行モードで職場会話の流れを掴みます。
+
+Step 3
+実務ドキュメント Reading
+
+各話のコア文書に加え、受信トレイ・ブリーフィング・契約・人事など150本の関連記事から抜粋して精読します。
+
+EP01 · 無料体験ユニット
+
+EP01 · 合併後の取締役会
+
+初めて役員会議室に座る主人公は、一夜漬けのM&A用語をきちんと説明し、CEOハリントンとCFOビクトリアの矢継ぎ早の質問の中で、初めて本物のコミュニケーションを成し遂げなければならない。
+
+1. リスニング会話スクリプト（8 文）
+
+Mr. Harrington
+: 
+Thank you all for attending. As the chairperson of this board, I find it imperative that we address the recent acquisition of Sterling Properties immediately.
+皆様、お集まりいただきありがとうございます。取締役会長として、Sterling Real Estateの買収問題を早急に解決する必要があると考えております。
+
+Victoria
+: 
+Agreed. The financials are... concerning. We need to know how we plan to absorb the existing debt without downsizing our core operations.
+同感です。財務状況が……懸念されます。中核事業を縮小することなく、既存の負債をどう処理するのか、その道筋が必要です。
+
+Sophia
+: 
+Actually, Victoria, this merger is a chance to reposition. We are merging with a prestigious firm that has an influential network in the Asian market.
+Victoria、実は今回の合併は再編の好機なのです。我々は、アジア市場に強力なネットワークを持つ名門企業と合併するのですから。
+
+Mr. Harrington
+: 
+Repositioning is fine, Sophia, but I need concrete numbers. Alex, as the new executive advisor, walk me through your thinking on the cost synergy.
+再配置は結構です、ソフィア。ただし具体的な数字が必要です。Alex、新しいエグゼクティブアドバイザーとして、コスト相乗効果についてのあなたの考えを説明してください。
+
+Victoria
+: 
+I am listening intently. Please explain how this takeover benefits the bottom line, rather than just expanding our headquarters footprint.
+よく聞いていますよ。単に本社の規模を拡大するだけでなく、この買収がどのようにボトムライン（利益）を改善するのか説明してください。
+
+Sophia
+: 
+Don't be so apprehensive, Victoria. The founder of Sterling was a prominent businessman who built a loyal client base. We just need to oversee the transition carefully.
+そんなに焦らないでください、Victoria。Sterlingの創業者は卓越したビジネスマンであり、強固な顧客基盤を築き上げてきました。移行期間を慎重に管理さえすれば問題ありません。
+
+Mr. Harrington
+: 
+Let's avoid disagreement on this point. If we cannot merge the IT systems by Q3, we risk a major operational failure. Alex, do you have a timeline?
+この点では対立を避けましょう。第3四半期までにITシステムを統合できなければ、重大な運用障害のリスクがあります。Alex、スケジュールはありますか？
+
+Victoria
+: 
+I require a detailed report from the presenter by Friday. Every attendee in this room expects transparency regarding the realtor commissions involved.
+金曜日までに詳細なレポートを提出してください。会議に出席する全員が、不動産仲介手数料の透明性を求めています。
+
+2. コア・リーディング教材（email）
+
+URGENT: Q3 Merger Integration & Compliance Review
+
+To: Executive Team
+From: Emily, HR Director
+Subject: URGENT: Q3 Merger Integration & Compliance Review
+Dear Colleagues,
+Following yesterday’s boardroom discussion, it is imperative that we align our integration strategy for the Sterling Properties merger. As many of you are aware, this takeover involves complex regulatory hurdles.
+First, we must oversee the human resources transition carefully. We do not intend to downsize immediately; however, we need to absorb redundant roles into our existing structure. The founder of Sterling has agreed to stay on as an advisor for six months to ensure continuity.
+Second, please note that all realtor commissions associated with the new headquarter locations must be audited by Friday. Disagreement over budget allocations has caused delays in the past. We need every attendee at the Monday meeting to review the attached financials intently.
+This merger is a prominent opportunity for our company to become more influential in the commercial real estate sector. However, we cannot afford operational errors. Please treat this matter with the seriousness it deserves.
+Best regards,
+Emily
+
+日本語訳を読む（URGENT: Q3 Merger Integration & Compliance Review）
+宛先：経営幹部チーム
+差出人：エミリー、人事部長
+件名：緊急：第3四半期 合併統合とコンプライアンス監査
+各位：
+昨日の取締役会での議論を踏まえ、私たちはスターリング不動産合併の統合戦略を統一しなければなりません。ご承知のとおり、今回の買収には複雑な規制上の障壁が絡んでいます。
+第一に、人事の移行作業を慎重に監督する必要があります。私たちは即時の人員削減を意図していません。しかし、重複するポジションを既存の組織に統合する必要があります。スターリングの創業者は、事業の継続性を確保するため、6か月間顧問として留任することに同意しています。
+第二に、新しい本社所在地に関連するすべての不動産仲介手数料は、金曜日までに監査を完了する必要があります。過去の予算配分をめぐる意見の相違が、遅延を招いてきました。月曜日の会議では、出席者全員に添付の財務諸表を注意深く確認してもらう必要があります。
+この合併は、当社が商業用不動産分野での影響力を高める重要な機会です。しかし、運営上のミスは許されません。この件を必ず重視してください。
+敬具、
+エミリー
+
+3. ワークデスク関連ドキュメント（WORK Reading 収録テキスト）（3 本）
+
+Upcoming Board Meeting Regarding the Harrington Merger 
+受信トレイ · Part 7 · B1-B2 · 148 words
+
+ハリントン・グループの合併案件に関する取締役会の開催通知メール。
+
+Dear Team,
+Please be advised that a critical board meeting will take place in the main boardroom this Friday at 10:00 AM. The primary agenda is to discuss the ongoing merger with Harrington Group. As an attendee, your presence is imperative because we must finalize several key strategic decisions before the end of the month.
+The chairperson has requested that all senior managers prepare detailed reports on their respective departments. It is essential that you oversee any pending projects and ensure they align with our new corporate goals. Many employees feel apprehensive about potential changes, so your leadership will be vital during this transition period.
+Additionally, please consult with your departmental advisor regarding any budget adjustments. We aim to maintain stability while integrating the two organizations effectively. Please confirm your attendance by replying to this email no later than Wednesday afternoon.
+Thank you for your continued dedication and professionalism.
+
+Industry Report: Major Takeover in the Real Estate Sector 
+ブリーフィング · Part 7 · B1-B2 · 142 words
+
+不動産業界の大規模買収案件に関するニュース概要。
+
+The recent takeover of Sterling Properties by a multinational corporation has sparked widespread discussion across the industry. The founder of Sterling, a prominent businessman known for his innovative strategies, announced that the company will be absorbed into the larger entity. This decision aims to streamline operations and reduce redundant costs significantly.
+According to insiders, the new headquarter will remain in the city center, but several regional offices may face downsizing. Analysts predict that this influential move will reshape the local market landscape considerably. While some stakeholders welcome the financial stability, others worry about potential job losses and cultural shifts within the organization.
+The acquiring firm plans to integrate Sterling's portfolio gradually over the next two years. This strategic approach should minimize disruption for current clients and employees alike. Industry experts suggest that such consolidations are becoming increasingly common in today's competitive environment.
+
+Marketing Strategy for the Post-Merger Brand Integration 
+マーケット · Part 7 · B1-B2 · 147 words
+
+合併後のブランド統合に関するマーケティング戦略。
+
+Following our successful merger with Global Realty, we must develop a cohesive marketing strategy to present a unified brand image. It is crucial that we merge our digital platforms and customer databases seamlessly to enhance user experience across all channels. Our target audience includes both traditional realtors and modern property investors who value efficiency and transparency.
+During the upcoming product launch event, the main presenter will outline our new service offerings to an audience listening intently. We anticipate some disagreement among stakeholders regarding the allocation of promotional budgets, but data-driven decisions should guide our final choices. Every attendee at the conference will receive a comprehensive overview of our expanded capabilities.
+By leveraging our combined resources, we can establish ourselves as a prestigious leader in the commercial real estate sector. This initiative requires close collaboration between all departments to ensure consistent messaging and maximum market impact moving forward.
+
+4. 本話の必須ビジネス語彙リスト（22 語）
+
+EP01 · 合併後の取締役会 — ターゲット語彙
+
+単語
+
+品詞
+
+意味
+
+コロケーション
+
+例文
+
+merger
+noun
+合併（通常は2社が1社になること）
+corporate merger, merger agreement
+Actually, Victoria, this merger is a chance to reposition.
+
+merge
+verb
+合併、融合
+merge into, merge systems
+We are merging with a prestigious firm.
+
+realtor
+noun
+不動産業者
+real estate agent, realtor commission
+Every attendee in this room expects transparency regarding the realtor commissions involved.
+
+takeover
+noun
+買収、乗っ取り
+hostile takeover, takeover bid
+Please explain how this takeover benefits the bottom line.
+
+founder
+noun
+創業者
+company founder, co-founder
+The founder of Sterling was a prominent businessman.
+
+absorb
+verb
+吸収する、負担する（コストや負債など）
+absorb costs, absorb shock
+We need to know how we plan to absorb the existing debt without downsizing our core operations.
+
+downsize
+verb
+合理化、人員削減
+downsize workforce, downsize office space
+We need to know how we plan to absorb the existing debt without downsizing our core operations.
+
+advisor
+noun
+顧問、コンサルタント
+financial advisor, legal advisor
+Alex, as the new executive advisor, walk me through your thinking on the cost synergy.
+
+boardroom
+noun
+役員会議室
+boardroom table, boardroom politics
+Following yesterday’s boardroom discussion...
+
+businessman
+noun
+実業家、ビジネスマン
+successful businessman, international businessman
+The founder of Sterling was a prominent businessman who built a loyal client base.
+
+disagreement
+noun
+意見の相違、不一致
+major disagreement, resolve disagreement
+Disagreement over budget allocations has caused delays.
+
+influential
+adjective
+影響力のある、有力な
+influential figure, highly influential
+We are merging with a prestigious firm that has an influential network in the Asian market.
+
+chairperson
+noun
+議長、司会者
+board chairperson, meeting chairperson
+As the chairperson of this board...
+
+imperative
+adjective
+極めて重要な、緊急の
+business imperative, moral imperative
+As the chairperson of this board, I find it imperative that we address the recent acquisition of Sterling Properties immediately.
+
+oversee
+verb
+監督する、管理する
+oversee a project, oversee operations
+We just need to oversee the transition carefully.
+
+prestigious
+adjective
+名声のある、権威のある
+prestigious university, prestigious award
+We are merging with a prestigious firm that has an influential network in the Asian market.
+
+prominent
+adjective
+傑出した、目立った
+prominent role, prominent figure
+The founder of Sterling was a prominent businessman who built a loyal client base.
+
+apprehensive
+adjective
+懸念している、不安な
+feel apprehensive about, apprehensive of
+Don't be so apprehensive, Victoria.
+
+intently
+adverb
+集中して、注意深く
+watch intently, listen intently
+I am listening intently.
+
+attendee
+noun
+出席者、参加者
+conference attendee, meeting attendee
+Every attendee in this room expects transparency...
+
+headquarter
+noun
+本社、本部（通常は複数形）
+corporate headquarters, headquarter location
+Please explain how this takeover benefits the bottom line, rather than just expanding our headquarters footprint.
+
+presenter
+noun
+講演者、プレゼンター
+keynote presenter, slide presenter
+I require a detailed report from the presenter by Friday.
+
+EP02 · 無料体験ユニット
+
+EP02 · 全員大会でのマイクトラブル
+
+マイクの故障、隙を狙う競合、緊急電話の三重の圧力の中で、主人公は最も簡潔な言葉で場を鎮め、合併後初の戦略発表を成し遂げなければならない。
+
+1. リスニング会話スクリプト（11 文）
+
+Victoria
+: 
+The auditorium is full. We need to delegate the tech check immediately. This inefficiency is unacceptable.
+講堂は満席です。直ちに技術担当を派遣する必要があります。このような非効率は容認できません。
+
+Mr. Harrington
+: 
+Victoria, please calm down. We must steer this assembly with confidence, not panic.
+Victoria、落ち着いてください。パニックに陥るのではなく、自信を持ってこの集会をコントロールしなければなりません。
+
+Sophia
+: 
+The main microphone is dead. If we want to elevate our brand image, we can't rely on a broken system.
+メインマイクが壊れました。ブランドイメージを高めたいのであれば、故障したシステムに頼るわけにはいきません。
+
+Victoria
+: 
+Then use the backup. We must streamline this process efficiently or we lose credibility.
+予備の機材を使いましょう。プロセスを効率化しなければ、信頼を失ってしまいます。
+
+Mr. Harrington
+: 
+Do you think we should retreat from the stage? Or reconsider our approach entirely?
+舞台から降りるべきでしょうか？それとも、計画を根本から見直すべきでしょうか？
+
+Sophia
+: 
+Retreat is not an option. Rumor has it the board is watching closely. We need an entrepreneur's mindset here.
+撤退という選択肢はありません。取締役会も注視しているという噂です。起業家精神を持って臨む必要があります。
+
+Victoria
+: 
+The coordinator is still fixing the wires. This integration is integral to our success.
+コーディネーターが回線を復旧させています。今回の統合を成功させるには、これが不可欠なのです。
+
+Mr. Harrington
+: 
+We need a translator for the Q&A, but more importantly, we need steady leadership.
+Q&Aセッションの通訳も必要ですが、何より安定したリーダーシップが求められています。
+
+Sophia
+: 
+Let's focus on the strategic value of this collaboration. Tremendous growth is possible if we act wisely.
+今回の提携が持つ戦略的価値に集中しましょう。賢明に立ち回れば、大きな成長が見込めます。
+
+Victoria
+: 
+Just make sure the numbers are right. We cannot afford to be inefficient again.
+データの正確さだけは確保してください。これ以上の非効率は許されません。
+
+Mr. Harrington
+: 
+Let's move steadily, Victoria. Steadily. Now, go to the mic.
+着実に進めましょう、Victoria。着実に。さあ、マイクの前へ。
+
+2. コア・リーディング教材（notice）
+
+NOTICE: Post-Merger Town Hall Protocol & Strategic Alignment
+
+To: All Staff
+From: Executive Office
+Date: October 24, 2023
+Subject: Upcoming Town Hall Assembly and Integration Guidelines
+Dear Colleagues,
+As we move forward with the recent merger, it is vital that we operate efficiently to ensure a smooth transition. The upcoming town hall assembly will serve as a platform to discuss our strategic goals for the next fiscal year. All department heads are required to attend.
+Please note the following protocols:
+1. Delegation of Duties: Each manager must delegate specific integration tasks to their team members by Friday. This ensures that no single individual is overwhelmed and that we collaborate effectively.
+2. Communication Efficiency: To streamline our internal communication, please avoid spreading unverified rumor regarding personnel changes. Official updates will only be released through the HR coordinator.
+3. Strategic Focus: We must steer our resources toward areas that offer tremendous growth potential. It is integral to our success that we act wisely and maintain steady progress.
+4. Technical Support: A backup microphone system has been installed in the auditorium. Should any inefficiency arise during the event, please signal the technical coordinator immediately.
+We believe that through strong collaboration and an entrepreneur's mindset, we will elevate our market position. Let us reconsider any outdated practices and retreat from behaviors that hinder our progress.
+Thank you for your cooperation.
+Sincerely,
+The Executive Team
+
+日本語訳を読む（NOTICE: Post-Merger Town Hall Protocol & Strategic Alignment）
+宛先：全従業員
+差出人：執行オフィス
+日付：2023年10月24日
+件名：開催予定の全員大会および統合ガイドライン
+各位：
+最近の合併が進むにつれ、私たちは円滑な移行を確実にするために効率的に運営しなければなりません。開催予定の全員大会は、来期の戦略目標を議論する場となります。すべての部門長の出席が必須です。
+以下のプロトコルにご注意ください：
+1. 業務委任：各マネージャーは金曜日までに、具体的な統合タスクをチームメンバーに委任する必要があります。これにより、誰にも過重な負担がかからず、効果的に協働できます。
+2. コミュニケーション効率：内部コミュニケーションを簡素化するため、人事異動に関する未確認の噂を広めないでください。公式な更新は人事コーディネーターを通じてのみ公開されます。
+3. 戦略的焦点：大きな成長可能性を持つ分野へ資源を向ける必要があります。賢明に行動し、着実に前進し続けることが私たちの成功に不可欠です。
+4. 技術サポート：講堂には予備のマイクシステムが設置されています。イベント中に何らかの非効率が発生した場合は、直ちに技術コーディネーターに合図してください。
+私たちは、緊密な協力と起業家のマインドセットによって市場での地位を高められると信じています。時代遅れの慣行を再考し、前進を妨げる行動から離れましょう。
+ご協力ありがとうございます。
+敬具、
+執行チーム
+
+3. ワークデスク関連ドキュメント（WORK Reading 収録テキスト）（3 本）
+
+Preparation for the Post-Merger Town Hall Assembly 
+受信トレイ · 7 · B1 · 175 words
+
+Alexがチームに送った、合併後の全社員集会の準備に関するメール。
+
+As we prepare for the upcoming assembly in the main auditorium, I want to ensure every detail is handled efficiently. The recent merger has created some uncertainty, and rumors about our future direction are circulating among staff members. It is vital that we present a unified front to calm these anxieties. Please delegate specific tasks to your subordinates immediately so we can address any concerns proactively. Sarah, as the event coordinator, please verify that the microphone system is fully operational before the doors open. We cannot afford any technical glitches during this strategic announcement regarding our new market position. Our goal is to absorb the new employees smoothly and demonstrate our commitment to transparency. Let us work together diligently to make this important event a complete success for everyone involved. Furthermore, please distribute the updated agenda to all department heads by noon today. We need to streamline the Q&A session to ensure we stay within the allotted time frame. Your prompt attention to these critical matters is greatly appreciated by the entire management team.
+
+Harrington Group's Strategic Growth Under New Leadership 
+ブリーフィング · 7 · B2 · 177 words
+
+Alexのリーダーシップのもとでのハリントン・グループの戦略的成長に関する概要。
+
+Harrington Group has shown steady growth since the recent takeover, largely due to the visionary leadership of its founder, Alex. As a seasoned entrepreneur, Alex knows how to steer a company through turbulent market conditions. The firm has focused on building strong collaboration between departments, which has proven to be integral to their success. Analysts note that Harrington has steadily increased its market share by elevating customer service standards. The management team has wisely invested in sustainable technologies, resulting in tremendous cost savings over the past quarter. This approach not only improves profitability but also enhances the company's reputation in the global market. Experts predict that this strategic focus will continue to drive expansion in emerging sectors throughout the next fiscal year. Furthermore, the integration of new talent has been seamless, allowing the organization to absorb diverse skill sets without disrupting existing workflows. Stakeholders are particularly impressed by how quickly the executive team adapted to changing consumer demands. This agility suggests that Harrington is well-positioned to maintain its competitive edge against rival firms in the coming months.
+
+Incident Report: Audio System Failure During Town Hall 
+運営 · 7 · B2 · 182 words
+
+全社員集会でのマイク故障に関する事故報告書。
+
+This official report details the significant technical difficulties that were encountered during yesterday's town hall meeting. The primary microphone failed unexpectedly, causing significant disruption to the scheduled presentation and delaying the agenda. This incident highlights an inefficient process for equipment testing prior to major events. We must reconsider our current vendor contracts and streamline the setup procedure to prevent future occurrences. Additionally, the lack of a backup translator for international guests created confusion during the Q&A segment. While the speaker did not retreat from the stage, the delay undermined the professional image we strive to elevate. It is integral that we delegate responsibility for technical checks to a dedicated team member in the future. Immediate action is required to address these operational gaps and ensure reliability for upcoming assemblies. Furthermore, staff members reported frustration due to the extended pause, which allowed rumors about instability to spread rapidly. To mitigate this risk, we propose implementing a rigorous pre-event checklist that includes redundant audio systems and verified translation services. This proactive measure will help us maintain control over the narrative during critical announcements.
+
+4. 本話の必須ビジネス語彙リスト（21 語）
+
+EP02 · 全員大会でのマイクトラブル — ターゲット語彙
+
+単語
+
+品詞
+
+意味
+
+コロケーション
+
+例文
+
+delegate
+verb
+委任する、権限を与える
+delegate authority/responsibility
+Each manager must delegate specific integration tasks to their team members by Friday.
+
+efficiently
+adverb
+効率的に
+operate efficiently, use resources efficiently
+We must streamline this process efficiently or we lose credibility.
+
+microphone
+noun
+マイク
+adjust the microphone, check the microphone
+The main microphone is dead.
+
+coordinator
+noun
+コーディネーター、連絡係
+event coordinator, HR coordinator
+The coordinator is still fixing the wires.
+
+auditorium
+noun
+講堂、観客席
+main auditorium, fill the auditorium
+The auditorium is full.
+
+steadily
+adverb
+着実に、安定して
+grow steadily, progress steadily
+Let's move steadily, Victoria. Steadily. Now, go to the mic.
+
+assembly
+noun
+集会、集合
+town hall assembly, general assembly
+We must steer this assembly with confidence.
+
+entrepreneur
+noun
+起業家
+entrepreneurial spirit, successful entrepreneur
+We need an entrepreneur's mindset here.
+
+translator
+noun
+翻訳者
+simultaneous translator, professional translator
+We need a translator for the Q&A.
+
+rumor
+noun
+噂、風評
+spread rumor, unverified rumor
+Rumor has it the board is watching closely.
+
+streamline
+verb
+簡素化する、効率化する
+streamline operations, streamline procedures
+We must streamline this process efficiently.
+
+strategic
+adjective
+戦略的な
+strategic plan, strategic goal
+Let's focus on the strategic value of this collaboration.
+
+wisely
+adverb
+賢明に
+act wisely, choose wisely
+Tremendous growth is possible if we act wisely.
+
+collaboration
+noun
+協力、連携
+close collaboration, international collaboration
+Let's focus on the strategic value of this collaboration.
+
+steer
+verb
+舵取りをする、方向を導く
+steer the meeting, steer clear of
+We must steer this assembly with confidence.
+
+tremendous
+adjective
+巨大な、素晴らしい
+tremendous success, tremendous effort
+Tremendous growth is possible if we act wisely.
+
+integral
+adjective
+不可欠な、構成要素としての
+integral part, integral role
+It is integral to our success that we act wisely.
+
+elevate
+verb
+向上させる、高める
+elevate status, elevate performance
+If we want to elevate our brand image, we can't rely on a broken system.
+
+reconsider
+verb
+再考する
+reconsider a decision, reconsider an offer
+Or reconsider our approach entirely?
+
+retreat
+verb
+撤退する、退く
+retreat from the market, forced to retreat
+Retreat is not an option.
+
+inefficient
+adjective
+非効率な
+inefficient process, highly inefficient
+This inefficiency is unacceptable.
+
+EP03 · 無料体験ユニット
+
+EP03 · 経費精算の罠
+
+外部監査の追及が迫る中、主人公は乱れた経費伝票の中から論理の穴を見つけ出し、同時にマーケティング部が公金を横領していないことをCEOに証明しなければならない。
+
+1. リスニング会話スクリプト（8 文）
+
+Victoria
+: 
+Ms. Okafor, we need to resolve these discrepancies before the close of business.
+Okaforさん、終業までにこの差異を解決する必要があります。
+
+Ms. Okafor
+: 
+Could you clarify the outstanding items on this invoice? The receipt does not match the total.
+この請求書の未決済項目について説明していただけますか？領収書の金額と合計が一致していません。
+
+Victoria
+: 
+The calculation includes a premium for emergency logistics. We had to authorize it immediately.
+計算には緊急物流の割増料金が含まれています。当時は即座に支出を承認せざるを得ませんでした。
+
+Ms. Okafor
+: 
+I understand, but we must audit every transaction thoroughly. Is this economically justifiable?
+理解はできますが、すべての取引を徹底的に監査しなければなりません。これは経済的に妥当と言えるのでしょうか？
+
+Mr. Harrington
+: 
+Well, one might argue that maximizing efficiency sometimes requires a probable increase in cost.
+ええ、効率を高めるためには、時にコスト増というリスクを負う必要があると主張する人もいるでしょう。
+
+Ms. Okafor
+: 
+Please subtract the personal expenses from the business overheads in your spreadsheet.
+スプレッドシートの業務経費から、個人的な支出を差し引いてください。
+
+Victoria
+: 
+I will allocate the remainder of the budget to cover any shortfall. The funds are sufficient.
+残りの予算を割り当てて、資金不足を補います。資金は十分にあります。
+
+Ms. Okafor
+: 
+Ensure the banker receives the corrected withdrawal request by noon tomorrow.
+明日の正午までに、修正済みの出金申請を銀行に提出してください。
+
+2. コア・リーディング教材（article）
+
+Internal Memo: Guidelines for Q3 Expense Reporting and Budget Allocation
+
+All departments must submit their expense reports by Friday. It is crucial to ensure that every invoice and receipt accurately reflects business transactions. Please use the provided calculator tool to verify your totals before submission. If you encounter an insufficient balance, do not withdraw funds personally; instead, contact the finance team to authorize a temporary overdraft.
+We aim to maximize our resources while minimizing overhead costs. Therefore, employees should economize on non-essential items. When allocating budget for travel, choose economical options where possible. For instance, booking flights in advance can prevent paying a premium for last-minute changes. Remember to subtract any personal meals from your claim.
+The remainder of the proceeds from our quarterly fundraise will be used to subsidize training programs. We must approximate our needs carefully to avoid inflating the budget unnecessarily. It is probable that the external auditor will conduct a thorough review next month, so please ensure all entries are economically sound. Finally, if you need to adjust a transaction, update the spreadsheet immediately and notify your banker of any pending withdrawal requests. Note that unused office equipment will be sold at auction to offset these costs.
+
+日本語訳を読む（Internal Memo: Guidelines for Q3 Expense Reporting and Budget Allocation）
+すべての部門は金曜日までに経費報告書を提出しなければなりません。各請求書と領収書が業務上の取引を正確に反映していることを確認することが極めて重要です。提出前に、提供された電卓ツールを使って合計額を確認してください。残高不足が発生した場合は、自分で引き出さないでください。代わりに財務チームに連絡して一時的な当座貸越を承認してもらってください。私たちの目標は、管理コストを最小化しながら資源の活用を最大化することです。したがって、従業員は不要なものへの支出を節約すべきです。出張予算を配分する際は、できるだけ経済的な選択肢を選んでください。例えば、航空券を早めに予約すれば、直前の変更に割増料金を払わずに済みます。個人の食費は経費申請から差し引くことを忘れないでください。四半期の募金で得た残金は研修プログラムの補助に使われます。不必要に予算を水増ししないよう、私たちはニーズを慎重に見積もる必要があります。外部監査人は来月、徹底的な審査を行う可能性があるため、すべての項目が経済的に合理的であることを確認してください。最後に、取引の調整が必要な場合は、直ちにスプレッドシートを更新し、保留中の引き出し依頼について銀行の担当者に通知してください。未使用のオフィス機器は、これらのコストを相殺するためオークションで売却されます。
+
+3. ワークデスク関連ドキュメント（WORK Reading 収録テキスト）（4 本）
+
+Urgent: Audit Preparation and Expense Reports 
+受信トレイ · 7 · B1-B2 · 167 words
+
+Alexが財務責任者から受け取った、外部監査への対応として経費精算書類の整理を求める緊急メール。
+
+Subject: Urgent: Audit Preparation and Expense Reports
+Dear Alex,
+As you know, the external auditors will arrive next Monday to conduct a thorough review of our financial records. We must ensure that every transaction is documented accurately. Please check your outstanding invoices and receipts immediately.
+I noticed that some recent expenses lack proper authorization. You need to authorize these items before submitting them. Also, please use the calculator in the attached spreadsheet to verify your calculations. If any amount seems insufficient or incorrect, let me know right away.
+We must allocate enough time for this process. It is probable that the auditors will ask detailed questions about our overhead costs and any premium charges. Please economize on non-essential spending until the audit is complete.
+Additionally, please coordinate with the marketing team to reconcile their travel expenses. The CEO expects a clean report by Friday afternoon. Failure to comply may result in delayed reimbursements for the entire department.
+Thank you for your cooperation.
+Best regards,
+Sarah Jenkins
+CFO
+
+Strategic Asset Liquidation Report 
+ブリーフィング · 7 · B1-B2 · 163 words
+
+会社が遊休資産の競売によって資金を調達することに関する業界概要。
+
+Industry Brief: Strategic Asset Liquidation
+Harrington Group recently announced plans to hold a public auction for its surplus machinery and office equipment. The primary goal is to maximize revenue from these non-core assets before the fiscal year ends. A senior banker from our partner institution advised that the timing of any cash withdrawal is critical for maintaining healthy liquidity ratios.
+After a detailed calculation involving depreciation and market trends, the finance team expects a significant remainder once all operational debts are settled. This strategic move will help the company fundraise for its upcoming green energy initiative without taking on new debt. However, industry experts warn that it is difficult to approximate buyer interest accurately during such volatile economic periods. The board remains optimistic about the final results.
+Furthermore, the legal team will review all contracts to ensure compliance with local regulations. Stakeholders are encouraged to attend the briefing session next week for further details on the allocation of proceeds and future investment plans.
+
+Competitor Pricing Strategy Analysis 
+マーケット · 7 · B1-B2 · 151 words
+
+競合他社が経費の削減と補助の戦略によって低価格を維持している方法の分析。
+
+Market Watch: Competitor Pricing Strategies
+Our main competitor has adopted a highly economical business model to capture market share in the retail sector. They have significantly reduced their overhead by moving to smaller office spaces and automating customer service channels. However, internal reports suggest their current cash flow is insufficient for long-term sustainability and rapid expansion.
+Using a detailed spreadsheet, we can subtract their known operational costs from their selling price to estimate profit margins effectively. Some analysts believe they may inflate prices once smaller competitors exit the market due to financial pressure. It is not economically viable for them to subsidize customers indefinitely without raising rates eventually.
+We should monitor their quarterly reports closely and prepare a counter-strategy. Additionally, we must consider the impact of supply chain disruptions on their inventory levels. A thorough review of their recent transactions reveals potential weaknesses in their vendor relationships that we can exploit.
+
+Service Agreement Terms and Conditions 
+契約書 · 7 · B1-B2 · 150 words
+
+サービス契約における費用の決済、監査権、資金配分に関する条項の説明。
+
+Contract Clause 4.2: Financial Settlement and Audit Rights
+The Client agrees to allocate funds for the project within ten days of signing the agreement. Any remainder of the budget after successful completion will be returned to the Client promptly. The Contractor must economize on resources to maximize efficiency and deliver high-quality results.
+If the initial payment is insufficient to cover unexpected costs, the Client must cover the difference within five days. We will subtract any penalties for delays from the final amount due. To fundraise for additional features not included in the original scope, a separate agreement is required. All financial data must be recorded in a shared spreadsheet for transparency.
+Furthermore, the Client reserves the right to conduct an annual review of these terms. Both parties should communicate regularly to address any concerns regarding payment schedules or deliverables. This clause ensures fairness and clarity throughout the duration of the partnership.
+
+4. 本話の必須ビジネス語彙リスト（29 語）
+
+EP03 · 経費精算の罠 — ターゲット語彙
+
+単語
+
+品詞
+
+意味
+
+コロケーション
+
+例文
+
+authorize
+verb
+認可する、承認する
+authorize a payment / authorize access
+We had to authorize it immediately.
+
+calculator
+noun
+計算機
+use a calculator / online calculator
+Please use the provided calculator tool to verify your totals.
+
+banker
+noun
+銀行家、銀行員
+contact the banker / investment banker
+notify your banker of any pending withdrawal requests.
+
+economical
+adjective
+経済的な、無駄のない
+economical option, economical solution
+choose economical options where possible.
+
+withdrawal
+noun
+引き出し、撤回
+cash withdrawal / withdrawal request
+notify your banker of any pending withdrawal requests.
+
+calculation
+noun
+計算する、算出する
+make a calculation / rough calculation
+The calculation includes a premium for emergency logistics.
+
+overhead
+noun
+日常経費、管理費
+overhead costs / reduce overhead
+subtract the personal expenses from the business overheads.
+
+remainder
+noun
+残り、余り
+the remainder of the funds / pay the remainder
+I will allocate the remainder of the budget.
+
+premium
+noun
+プレミアム、割増料金
+pay a premium / insurance premium
+The calculation includes a premium for emergency logistics.
+
+auction
+noun
+競売、オークション
+public auction / online auction
+Note that unused office equipment will be sold at auction to offset these costs.
+
+maximize
+verb
+最大化する
+maximize profit / maximize efficiency
+We aim to maximize our resources.
+
+allocate
+verb
+割り当てる、配分する
+allocate funds / allocate time
+I will allocate the remainder of the budget.
+
+economize
+verb
+節約する
+economize on fuel / economize energy
+employees should economize on non-essential items.
+
+insufficient
+adjective
+不十分な、足りない
+insufficient funds / insufficient evidence
+If you encounter an insufficient balance...
+
+subtract
+verb
+差し引く、控除する
+subtract from / subtract costs
+Please subtract the personal expenses...
+
+fundraise
+verb
+資金調達
+fundraise for charity / corporate fundraising
+The remainder of the proceeds from our quarterly fundraise...
+
+spreadsheet
+noun
+スプレッドシート
+Excel spreadsheet / update the spreadsheet
+update the spreadsheet immediately.
+
+approximate
+verb/adjective
+およそ、近似の
+approximate cost, approximate figure
+We must approximate our needs carefully.
+
+inflate
+verb
+誇張する、膨張させる（価格など）
+inflate prices / inflate costs
+avoid inflating the budget unnecessarily.
+
+economically
+adverb
+経済的に、割安に
+economically viable / economically feasible
+ensure all entries are economically sound.
+
+probable
+adjective
+可能性が高い、見込みがある
+highly probable / probable cause
+Well, one might argue that maximizing efficiency sometimes requires a probable increase in cost.
+
+subsidize
+verb
+補助金、助成金
+subsidize costs / government subsidy
+used to subsidize training programs.
+
+invoice
+noun
+請求書
+pay an invoice / issue an invoice
+ensure that every invoice and receipt accurately reflects...
+
+receipt
+noun
+領収書
+keep a receipt / cash receipt
+ensure that every invoice and receipt accurately reflects...
+
+outstanding
+adjective
+未払いの、未解決の
+outstanding balance / outstanding issues
+Could you clarify the outstanding items on this invoice?
+
+audit
+verb/noun
+監査、会計検査
+internal audit / external audit
+we must audit every transaction thoroughly.
+
+transaction
+noun
+取引、業務
+bank transaction / financial transaction
+we must audit every transaction thoroughly.
+
+thorough
+adjective
+徹底的な、詳細な
+thorough investigation / thorough check
+It is probable that the external auditor will conduct a thorough review next month, so please ensure all entries are economically sound.
+
+accurately
+adverb
+正確に
+record accurately / predict accurately
+ensure that every invoice and receipt accurately reflects...
 
 
 --- FILE: executive-reborn/ko/index.html (https://fawnfell.com/executive-reborn/ko/index.html) ---
@@ -776,6 +1672,785 @@ CC BY-SA 4.0 applies only to the derived wordlists and rankings listed above. Or
 > and Dr. Brent Culligan, used under the Creative Commons Attribution-ShareAlike 4.0
 > International License. Changes: word list kept at 1,250 headwords; definitions and
 > examples written for this app; Chinese, Japanese and Korean glosses added.
+
+
+--- FILE: executive-reborn/preview/index.html (https://fawnfell.com/executive-reborn/preview/index.html) ---
+
+# Executive Reborn Curriculum Architecture & Free Sample (EP01–EP03)
+
+Executive Reborn — Free Curriculum Preview (EP01–EP03 Scripts, Reading & Vocabulary) | Fawnfell
+
+Skip to content
+
+Fawnfell
+
+EN
+
+日本語
+
+Open Curriculum Sample · Free Tier Episodes 1–3 of 42
+
+Executive Reborn Curriculum Architecture & Free Sample (EP01–EP03)
+
+Read the complete free preview of Executive Reborn Episodes 1–3: boardroom listening scripts, 10+ workplace reading memos, and 72 curated TSL/NGSL phrases.（27 dialogue lines / 13 reading texts / 72 target words）
+
+EP01 · The Post-Merger Boardroom
+
+EP02 · Town Hall Mic Drop
+
+EP03 · Reimbursement Trap
+
+Plans & Pricing
+
+How Is Each Episode Structured Across Listening, Reading & Vocabulary?
+
+Every episode across all 42 main chapters follows a uniform four-step workplace loop so target TSL/NGSL terms reappear naturally across spoken audio, story scripts, and inbox reading memos.
+
+Step 1
+Reaction-Time FSRS Warm-Up
+
+Pre-study the episode's 21–29 target phrases with latency-based FSRS-6 scheduling (no manual rating buttons).
+
+Step 2
+Boardroom Dialogue & Audio
+
+Listen to native boardroom exchanges either with bilingual script support or audio-first commute playback.
+
+Step 3
+Multi-Feed Workplace Reading
+
+Read the core episode memo plus linked inbox, briefing, marketing, HR, and operations documents with live term highlights.
+
+EP01 · Free Curriculum Unit
+
+EP01 · The Post-Merger Boardroom
+
+Workplace English story unit covering The Post-Merger Boardroom (executive_lounge).
+
+1. Workplace Listening Script（8 lines）
+
+Mr. Harrington
+: 
+Thank you all for attending. As the chairperson of this board, I find it imperative that we address the recent acquisition of Sterling Properties immediately.
+
+Victoria
+: 
+Agreed. The financials are... concerning. We need to know how we plan to absorb the existing debt without downsizing our core operations.
+
+Sophia
+: 
+Actually, Victoria, this merger is a chance to reposition. We are merging with a prestigious firm that has an influential network in the Asian market.
+
+Mr. Harrington
+: 
+Repositioning is fine, Sophia, but I need concrete numbers. Alex, as the new executive advisor, walk me through your thinking on the cost synergy.
+
+Victoria
+: 
+I am listening intently. Please explain how this takeover benefits the bottom line, rather than just expanding our headquarters footprint.
+
+Sophia
+: 
+Don't be so apprehensive, Victoria. The founder of Sterling was a prominent businessman who built a loyal client base. We just need to oversee the transition carefully.
+
+Mr. Harrington
+: 
+Let's avoid disagreement on this point. If we cannot merge the IT systems by Q3, we risk a major operational failure. Alex, do you have a timeline?
+
+Victoria
+: 
+I require a detailed report from the presenter by Friday. Every attendee in this room expects transparency regarding the realtor commissions involved.
+
+2. Core Episode Reading（email）
+
+URGENT: Q3 Merger Integration & Compliance Review
+
+To: Executive Team
+From: Emily, HR Director
+Subject: URGENT: Q3 Merger Integration & Compliance Review
+Dear Colleagues,
+Following yesterday’s boardroom discussion, it is imperative that we align our integration strategy for the Sterling Properties merger. As many of you are aware, this takeover involves complex regulatory hurdles.
+First, we must oversee the human resources transition carefully. We do not intend to downsize immediately; however, we need to absorb redundant roles into our existing structure. The founder of Sterling has agreed to stay on as an advisor for six months to ensure continuity.
+Second, please note that all realtor commissions associated with the new headquarter locations must be audited by Friday. Disagreement over budget allocations has caused delays in the past. We need every attendee at the Monday meeting to review the attached financials intently.
+This merger is a prominent opportunity for our company to become more influential in the commercial real estate sector. However, we cannot afford operational errors. Please treat this matter with the seriousness it deserves.
+Best regards,
+Emily
+
+3. Linked WORK Desk Reading Articles（3 articles）
+
+Upcoming Board Meeting Regarding the Harrington Merger 
+收件箱 · Part 7 · B1-B2 · 148 words
+
+Dear Team,
+Please be advised that a critical board meeting will take place in the main boardroom this Friday at 10:00 AM. The primary agenda is to discuss the ongoing merger with Harrington Group. As an attendee, your presence is imperative because we must finalize several key strategic decisions before the end of the month.
+The chairperson has requested that all senior managers prepare detailed reports on their respective departments. It is essential that you oversee any pending projects and ensure they align with our new corporate goals. Many employees feel apprehensive about potential changes, so your leadership will be vital during this transition period.
+Additionally, please consult with your departmental advisor regarding any budget adjustments. We aim to maintain stability while integrating the two organizations effectively. Please confirm your attendance by replying to this email no later than Wednesday afternoon.
+Thank you for your continued dedication and professionalism.
+
+Industry Report: Major Takeover in the Real Estate Sector 
+简报 · Part 7 · B1-B2 · 142 words
+
+The recent takeover of Sterling Properties by a multinational corporation has sparked widespread discussion across the industry. The founder of Sterling, a prominent businessman known for his innovative strategies, announced that the company will be absorbed into the larger entity. This decision aims to streamline operations and reduce redundant costs significantly.
+According to insiders, the new headquarter will remain in the city center, but several regional offices may face downsizing. Analysts predict that this influential move will reshape the local market landscape considerably. While some stakeholders welcome the financial stability, others worry about potential job losses and cultural shifts within the organization.
+The acquiring firm plans to integrate Sterling's portfolio gradually over the next two years. This strategic approach should minimize disruption for current clients and employees alike. Industry experts suggest that such consolidations are becoming increasingly common in today's competitive environment.
+
+Marketing Strategy for the Post-Merger Brand Integration 
+市场 · Part 7 · B1-B2 · 147 words
+
+Following our successful merger with Global Realty, we must develop a cohesive marketing strategy to present a unified brand image. It is crucial that we merge our digital platforms and customer databases seamlessly to enhance user experience across all channels. Our target audience includes both traditional realtors and modern property investors who value efficiency and transparency.
+During the upcoming product launch event, the main presenter will outline our new service offerings to an audience listening intently. We anticipate some disagreement among stakeholders regarding the allocation of promotional budgets, but data-driven decisions should guide our final choices. Every attendee at the conference will receive a comprehensive overview of our expanded capabilities.
+By leveraging our combined resources, we can establish ourselves as a prestigious leader in the commercial real estate sector. This initiative requires close collaboration between all departments to ensure consistent messaging and maximum market impact moving forward.
+
+4. Curated Episode Vocabulary（22 phrases）
+
+EP01 · The Post-Merger Boardroom — Target Phrases & Collocations
+
+Word
+
+POS
+
+Definition
+
+Collocation
+
+Example
+
+merger
+noun
+when one company buys another company to create one big company
+corporate merger, merger agreement
+Actually, Victoria, this merger is a chance to reposition.
+
+merge
+verb
+to bring two things together to make one
+merge into, merge systems
+We are merging with a prestigious firm.
+
+realtor
+noun
+a person who sells, rents out or manages property for a living
+real estate agent, realtor commission
+Every attendee in this room expects transparency regarding the realtor commissions involved.
+
+takeover
+noun
+the buying out of one company by another
+hostile takeover, takeover bid
+Please explain how this takeover benefits the bottom line.
+
+founder
+noun
+someone who starts a business or organization
+company founder, co-founder
+The founder of Sterling was a prominent businessman.
+
+absorb
+verb
+to take in or soak up
+absorb costs, absorb shock
+We need to know how we plan to absorb the existing debt without downsizing our core operations.
+
+downsize
+verb
+reduce in size or number
+downsize workforce, downsize office space
+We need to know how we plan to absorb the existing debt without downsizing our core operations.
+
+advisor
+noun
+someone who gives an opinion on what to do
+financial advisor, legal advisor
+Alex, as the new executive advisor, walk me through your thinking on the cost synergy.
+
+boardroom
+noun
+a room where the board of directors of a company hold meetings
+boardroom table, boardroom politics
+Following yesterday’s boardroom discussion...
+
+businessman
+noun
+a man who works in commercial or industrial business
+successful businessman, international businessman
+The founder of Sterling was a prominent businessman who built a loyal client base.
+
+disagreement
+noun
+the act of having a difference of opinion
+major disagreement, resolve disagreement
+Disagreement over budget allocations has caused delays.
+
+influential
+adjective
+powerful
+influential figure, highly influential
+We are merging with a prestigious firm that has an influential network in the Asian market.
+
+chairperson
+noun
+the person in charge of a meeting
+board chairperson, meeting chairperson
+As the chairperson of this board...
+
+imperative
+adjective
+very important and urgent
+business imperative, moral imperative
+As the chairperson of this board, I find it imperative that we address the recent acquisition of Sterling Properties immediately.
+
+oversee
+verb
+to supervise
+oversee a project, oversee operations
+We just need to oversee the transition carefully.
+
+prestigious
+adjective
+very important and well thought of
+prestigious university, prestigious award
+We are merging with a prestigious firm that has an influential network in the Asian market.
+
+prominent
+adjective
+important, significant
+prominent role, prominent figure
+The founder of Sterling was a prominent businessman who built a loyal client base.
+
+apprehensive
+adjective
+uneasy, worried
+feel apprehensive about, apprehensive of
+Don't be so apprehensive, Victoria.
+
+intently
+adverb
+concentrate closely
+watch intently, listen intently
+I am listening intently.
+
+attendee
+noun
+someone present (at a meeting or event)
+conference attendee, meeting attendee
+Every attendee in this room expects transparency...
+
+headquarter
+noun
+the main office of an organization
+corporate headquarters, headquarter location
+Please explain how this takeover benefits the bottom line, rather than just expanding our headquarters footprint.
+
+presenter
+noun
+a person who shows and explains something to an audience
+keynote presenter, slide presenter
+I require a detailed report from the presenter by Friday.
+
+EP02 · Free Curriculum Unit
+
+EP02 · The Town Hall Mic Drop
+
+Workplace English story unit covering The Town Hall Mic Drop (town_hall).
+
+1. Workplace Listening Script（11 lines）
+
+Victoria
+: 
+The auditorium is full. We need to delegate the tech check immediately. This inefficiency is unacceptable.
+
+Mr. Harrington
+: 
+Victoria, please calm down. We must steer this assembly with confidence, not panic.
+
+Sophia
+: 
+The main microphone is dead. If we want to elevate our brand image, we can't rely on a broken system.
+
+Victoria
+: 
+Then use the backup. We must streamline this process efficiently or we lose credibility.
+
+Mr. Harrington
+: 
+Do you think we should retreat from the stage? Or reconsider our approach entirely?
+
+Sophia
+: 
+Retreat is not an option. Rumor has it the board is watching closely. We need an entrepreneur's mindset here.
+
+Victoria
+: 
+The coordinator is still fixing the wires. This integration is integral to our success.
+
+Mr. Harrington
+: 
+We need a translator for the Q&A, but more importantly, we need steady leadership.
+
+Sophia
+: 
+Let's focus on the strategic value of this collaboration. Tremendous growth is possible if we act wisely.
+
+Victoria
+: 
+Just make sure the numbers are right. We cannot afford to be inefficient again.
+
+Mr. Harrington
+: 
+Let's move steadily, Victoria. Steadily. Now, go to the mic.
+
+2. Core Episode Reading（notice）
+
+NOTICE: Post-Merger Town Hall Protocol & Strategic Alignment
+
+To: All Staff
+From: Executive Office
+Date: October 24, 2023
+Subject: Upcoming Town Hall Assembly and Integration Guidelines
+Dear Colleagues,
+As we move forward with the recent merger, it is vital that we operate efficiently to ensure a smooth transition. The upcoming town hall assembly will serve as a platform to discuss our strategic goals for the next fiscal year. All department heads are required to attend.
+Please note the following protocols:
+1. Delegation of Duties: Each manager must delegate specific integration tasks to their team members by Friday. This ensures that no single individual is overwhelmed and that we collaborate effectively.
+2. Communication Efficiency: To streamline our internal communication, please avoid spreading unverified rumor regarding personnel changes. Official updates will only be released through the HR coordinator.
+3. Strategic Focus: We must steer our resources toward areas that offer tremendous growth potential. It is integral to our success that we act wisely and maintain steady progress.
+4. Technical Support: A backup microphone system has been installed in the auditorium. Should any inefficiency arise during the event, please signal the technical coordinator immediately.
+We believe that through strong collaboration and an entrepreneur's mindset, we will elevate our market position. Let us reconsider any outdated practices and retreat from behaviors that hinder our progress.
+Thank you for your cooperation.
+Sincerely,
+The Executive Team
+
+3. Linked WORK Desk Reading Articles（3 articles）
+
+Preparation for the Post-Merger Town Hall Assembly 
+收件箱 · 7 · B1 · 175 words
+
+As we prepare for the upcoming assembly in the main auditorium, I want to ensure every detail is handled efficiently. The recent merger has created some uncertainty, and rumors about our future direction are circulating among staff members. It is vital that we present a unified front to calm these anxieties. Please delegate specific tasks to your subordinates immediately so we can address any concerns proactively. Sarah, as the event coordinator, please verify that the microphone system is fully operational before the doors open. We cannot afford any technical glitches during this strategic announcement regarding our new market position. Our goal is to absorb the new employees smoothly and demonstrate our commitment to transparency. Let us work together diligently to make this important event a complete success for everyone involved. Furthermore, please distribute the updated agenda to all department heads by noon today. We need to streamline the Q&A session to ensure we stay within the allotted time frame. Your prompt attention to these critical matters is greatly appreciated by the entire management team.
+
+Harrington Group's Strategic Growth Under New Leadership 
+简报 · 7 · B2 · 177 words
+
+Harrington Group has shown steady growth since the recent takeover, largely due to the visionary leadership of its founder, Alex. As a seasoned entrepreneur, Alex knows how to steer a company through turbulent market conditions. The firm has focused on building strong collaboration between departments, which has proven to be integral to their success. Analysts note that Harrington has steadily increased its market share by elevating customer service standards. The management team has wisely invested in sustainable technologies, resulting in tremendous cost savings over the past quarter. This approach not only improves profitability but also enhances the company's reputation in the global market. Experts predict that this strategic focus will continue to drive expansion in emerging sectors throughout the next fiscal year. Furthermore, the integration of new talent has been seamless, allowing the organization to absorb diverse skill sets without disrupting existing workflows. Stakeholders are particularly impressed by how quickly the executive team adapted to changing consumer demands. This agility suggests that Harrington is well-positioned to maintain its competitive edge against rival firms in the coming months.
+
+Incident Report: Audio System Failure During Town Hall 
+运营 · 7 · B2 · 182 words
+
+This official report details the significant technical difficulties that were encountered during yesterday's town hall meeting. The primary microphone failed unexpectedly, causing significant disruption to the scheduled presentation and delaying the agenda. This incident highlights an inefficient process for equipment testing prior to major events. We must reconsider our current vendor contracts and streamline the setup procedure to prevent future occurrences. Additionally, the lack of a backup translator for international guests created confusion during the Q&A segment. While the speaker did not retreat from the stage, the delay undermined the professional image we strive to elevate. It is integral that we delegate responsibility for technical checks to a dedicated team member in the future. Immediate action is required to address these operational gaps and ensure reliability for upcoming assemblies. Furthermore, staff members reported frustration due to the extended pause, which allowed rumors about instability to spread rapidly. To mitigate this risk, we propose implementing a rigorous pre-event checklist that includes redundant audio systems and verified translation services. This proactive measure will help us maintain control over the narrative during critical announcements.
+
+4. Curated Episode Vocabulary（21 phrases）
+
+EP02 · The Town Hall Mic Drop — Target Phrases & Collocations
+
+Word
+
+POS
+
+Definition
+
+Collocation
+
+Example
+
+delegate
+verb
+to give others tasks to do
+delegate authority/responsibility
+Each manager must delegate specific integration tasks to their team members by Friday.
+
+efficiently
+adverb
+to do something well in a little amount of time
+operate efficiently, use resources efficiently
+We must streamline this process efficiently or we lose credibility.
+
+microphone
+noun
+device used by singers and public speakers to make their voice louder
+adjust the microphone, check the microphone
+The main microphone is dead.
+
+coordinator
+noun
+someone whose job is to organize things
+event coordinator, HR coordinator
+The coordinator is still fixing the wires.
+
+auditorium
+noun
+the area of a theater or concert hall where the audience sits
+main auditorium, fill the auditorium
+The auditorium is full.
+
+steadily
+adverb
+in a slow and even manner
+grow steadily, progress steadily
+Let's move steadily, Victoria. Steadily. Now, go to the mic.
+
+assembly
+noun
+when people are gathered together
+town hall assembly, general assembly
+We must steer this assembly with confidence.
+
+entrepreneur
+noun
+a business person who starts companies
+entrepreneurial spirit, successful entrepreneur
+We need an entrepreneur's mindset here.
+
+translator
+noun
+the person who changes something into another language
+simultaneous translator, professional translator
+We need a translator for the Q&A.
+
+rumor
+noun
+something said by people but not necessarily true
+spread rumor, unverified rumor
+Rumor has it the board is watching closely.
+
+streamline
+verb
+make smoother and more efficient
+streamline operations, streamline procedures
+We must streamline this process efficiently.
+
+strategic
+adjective
+in a way carefully thought about
+strategic plan, strategic goal
+Let's focus on the strategic value of this collaboration.
+
+wisely
+adverb
+to do something that is the right thing to do
+act wisely, choose wisely
+Tremendous growth is possible if we act wisely.
+
+collaboration
+noun
+the act of working together
+close collaboration, international collaboration
+Let's focus on the strategic value of this collaboration.
+
+steer
+verb
+guide the direction of
+steer the meeting, steer clear of
+We must steer this assembly with confidence.
+
+tremendous
+adjective
+extraordinary or excellent
+tremendous success, tremendous effort
+Tremendous growth is possible if we act wisely.
+
+integral
+adjective
+very important, necessary as part of the whole thing
+integral part, integral role
+It is integral to our success that we act wisely.
+
+elevate
+verb
+to raise or make higher
+elevate status, elevate performance
+If we want to elevate our brand image, we can't rely on a broken system.
+
+reconsider
+verb
+to think something over again
+reconsider a decision, reconsider an offer
+Or reconsider our approach entirely?
+
+retreat
+verb
+to move back or withdraw from a place
+retreat from the market, forced to retreat
+Retreat is not an option.
+
+inefficient
+adjective
+not working well or quickly
+inefficient process, highly inefficient
+This inefficiency is unacceptable.
+
+EP03 · Free Curriculum Unit
+
+EP03 · The Reimbursement Trap
+
+Workplace English story unit covering The Reimbursement Trap (Boardroom / Finance Office).
+
+1. Workplace Listening Script（8 lines）
+
+Victoria
+: 
+Ms. Okafor, we need to resolve these discrepancies before the close of business.
+
+Ms. Okafor
+: 
+Could you clarify the outstanding items on this invoice? The receipt does not match the total.
+
+Victoria
+: 
+The calculation includes a premium for emergency logistics. We had to authorize it immediately.
+
+Ms. Okafor
+: 
+I understand, but we must audit every transaction thoroughly. Is this economically justifiable?
+
+Mr. Harrington
+: 
+Well, one might argue that maximizing efficiency sometimes requires a probable increase in cost.
+
+Ms. Okafor
+: 
+Please subtract the personal expenses from the business overheads in your spreadsheet.
+
+Victoria
+: 
+I will allocate the remainder of the budget to cover any shortfall. The funds are sufficient.
+
+Ms. Okafor
+: 
+Ensure the banker receives the corrected withdrawal request by noon tomorrow.
+
+2. Core Episode Reading（article）
+
+Internal Memo: Guidelines for Q3 Expense Reporting and Budget Allocation
+
+All departments must submit their expense reports by Friday. It is crucial to ensure that every invoice and receipt accurately reflects business transactions. Please use the provided calculator tool to verify your totals before submission. If you encounter an insufficient balance, do not withdraw funds personally; instead, contact the finance team to authorize a temporary overdraft.
+We aim to maximize our resources while minimizing overhead costs. Therefore, employees should economize on non-essential items. When allocating budget for travel, choose economical options where possible. For instance, booking flights in advance can prevent paying a premium for last-minute changes. Remember to subtract any personal meals from your claim.
+The remainder of the proceeds from our quarterly fundraise will be used to subsidize training programs. We must approximate our needs carefully to avoid inflating the budget unnecessarily. It is probable that the external auditor will conduct a thorough review next month, so please ensure all entries are economically sound. Finally, if you need to adjust a transaction, update the spreadsheet immediately and notify your banker of any pending withdrawal requests. Note that unused office equipment will be sold at auction to offset these costs.
+
+3. Linked WORK Desk Reading Articles（4 articles）
+
+Urgent: Audit Preparation and Expense Reports 
+收件箱 · 7 · B1-B2 · 167 words
+
+Subject: Urgent: Audit Preparation and Expense Reports
+Dear Alex,
+As you know, the external auditors will arrive next Monday to conduct a thorough review of our financial records. We must ensure that every transaction is documented accurately. Please check your outstanding invoices and receipts immediately.
+I noticed that some recent expenses lack proper authorization. You need to authorize these items before submitting them. Also, please use the calculator in the attached spreadsheet to verify your calculations. If any amount seems insufficient or incorrect, let me know right away.
+We must allocate enough time for this process. It is probable that the auditors will ask detailed questions about our overhead costs and any premium charges. Please economize on non-essential spending until the audit is complete.
+Additionally, please coordinate with the marketing team to reconcile their travel expenses. The CEO expects a clean report by Friday afternoon. Failure to comply may result in delayed reimbursements for the entire department.
+Thank you for your cooperation.
+Best regards,
+Sarah Jenkins
+CFO
+
+Strategic Asset Liquidation Report 
+简报 · 7 · B1-B2 · 163 words
+
+Industry Brief: Strategic Asset Liquidation
+Harrington Group recently announced plans to hold a public auction for its surplus machinery and office equipment. The primary goal is to maximize revenue from these non-core assets before the fiscal year ends. A senior banker from our partner institution advised that the timing of any cash withdrawal is critical for maintaining healthy liquidity ratios.
+After a detailed calculation involving depreciation and market trends, the finance team expects a significant remainder once all operational debts are settled. This strategic move will help the company fundraise for its upcoming green energy initiative without taking on new debt. However, industry experts warn that it is difficult to approximate buyer interest accurately during such volatile economic periods. The board remains optimistic about the final results.
+Furthermore, the legal team will review all contracts to ensure compliance with local regulations. Stakeholders are encouraged to attend the briefing session next week for further details on the allocation of proceeds and future investment plans.
+
+Competitor Pricing Strategy Analysis 
+市场 · 7 · B1-B2 · 151 words
+
+Market Watch: Competitor Pricing Strategies
+Our main competitor has adopted a highly economical business model to capture market share in the retail sector. They have significantly reduced their overhead by moving to smaller office spaces and automating customer service channels. However, internal reports suggest their current cash flow is insufficient for long-term sustainability and rapid expansion.
+Using a detailed spreadsheet, we can subtract their known operational costs from their selling price to estimate profit margins effectively. Some analysts believe they may inflate prices once smaller competitors exit the market due to financial pressure. It is not economically viable for them to subsidize customers indefinitely without raising rates eventually.
+We should monitor their quarterly reports closely and prepare a counter-strategy. Additionally, we must consider the impact of supply chain disruptions on their inventory levels. A thorough review of their recent transactions reveals potential weaknesses in their vendor relationships that we can exploit.
+
+Service Agreement Terms and Conditions 
+合同 · 7 · B1-B2 · 150 words
+
+Contract Clause 4.2: Financial Settlement and Audit Rights
+The Client agrees to allocate funds for the project within ten days of signing the agreement. Any remainder of the budget after successful completion will be returned to the Client promptly. The Contractor must economize on resources to maximize efficiency and deliver high-quality results.
+If the initial payment is insufficient to cover unexpected costs, the Client must cover the difference within five days. We will subtract any penalties for delays from the final amount due. To fundraise for additional features not included in the original scope, a separate agreement is required. All financial data must be recorded in a shared spreadsheet for transparency.
+Furthermore, the Client reserves the right to conduct an annual review of these terms. Both parties should communicate regularly to address any concerns regarding payment schedules or deliverables. This clause ensures fairness and clarity throughout the duration of the partnership.
+
+4. Curated Episode Vocabulary（29 phrases）
+
+EP03 · The Reimbursement Trap — Target Phrases & Collocations
+
+Word
+
+POS
+
+Definition
+
+Collocation
+
+Example
+
+authorize
+verb
+to give official permission for something
+authorize a payment / authorize access
+We had to authorize it immediately.
+
+calculator
+noun
+a device or program that does math for you
+use a calculator / online calculator
+Please use the provided calculator tool to verify your totals.
+
+banker
+noun
+someone who works for a bank
+contact the banker / investment banker
+notify your banker of any pending withdrawal requests.
+
+economical
+adjective
+giving good value or service in relation to the money, time, or effort spent
+economical option, economical solution
+choose economical options where possible.
+
+withdrawal
+noun
+the act of taking money out of a bank account
+cash withdrawal / withdrawal request
+notify your banker of any pending withdrawal requests.
+
+calculation
+noun
+the process of calculating something
+make a calculation / rough calculation
+The calculation includes a premium for emergency logistics.
+
+overhead
+noun
+the fixed cost of running a business, such as rent and salaries
+overhead costs / reduce overhead
+subtract the personal expenses from the business overheads.
+
+remainder
+noun
+the part or amount that is left after the rest has been taken away
+the remainder of the funds / pay the remainder
+I will allocate the remainder of the budget.
+
+premium
+noun
+an extra payment added to the cost of something
+pay a premium / insurance premium
+The calculation includes a premium for emergency logistics.
+
+auction
+noun
+a public sale in which goods are sold to the highest bidder
+public auction / online auction
+Note that unused office equipment will be sold at auction to offset these costs.
+
+maximize
+verb
+to make as large or great as possible
+maximize profit / maximize efficiency
+We aim to maximize our resources.
+
+allocate
+verb
+to distribute resources or duties for a particular purpose
+allocate funds / allocate time
+I will allocate the remainder of the budget.
+
+economize
+verb
+to spend money, resources, etc. carefully and not wastefully
+economize on fuel / economize energy
+employees should economize on non-essential items.
+
+insufficient
+adjective
+not enough for a particular need
+insufficient funds / insufficient evidence
+If you encounter an insufficient balance...
+
+subtract
+verb
+to take one number or amount away from another
+subtract from / subtract costs
+Please subtract the personal expenses...
+
+fundraise
+verb
+to try to get money for a particular project or organization
+fundraise for charity / corporate fundraising
+The remainder of the proceeds from our quarterly fundraise...
+
+spreadsheet
+noun
+a computer program used to organize data in rows and columns
+Excel spreadsheet / update the spreadsheet
+update the spreadsheet immediately.
+
+approximate
+verb/adjective
+to estimate or be close to the actual value
+approximate cost, approximate figure
+We must approximate our needs carefully.
+
+inflate
+verb
+to increase the price or value of something, often unfairly
+inflate prices / inflate costs
+avoid inflating the budget unnecessarily.
+
+economically
+adverb
+in a way that is related to the economy or efficient use of money
+economically viable / economically feasible
+ensure all entries are economically sound.
+
+probable
+adjective
+likely to happen or be true
+highly probable / probable cause
+Well, one might argue that maximizing efficiency sometimes requires a probable increase in cost.
+
+subsidize
+verb
+to pay part of the cost of something, typically a service or product
+subsidize costs / government subsidy
+used to subsidize training programs.
+
+invoice
+noun
+a list of goods sent or services provided, with a statement of the sum due
+pay an invoice / issue an invoice
+ensure that every invoice and receipt accurately reflects...
+
+receipt
+noun
+a written or printed acknowledgment that something has been paid for
+keep a receipt / cash receipt
+ensure that every invoice and receipt accurately reflects...
+
+outstanding
+adjective
+not yet paid, completed, or dealt with
+outstanding balance / outstanding issues
+Could you clarify the outstanding items on this invoice?
+
+audit
+verb/noun
+an official inspection of an individual's or organization's accounts
+internal audit / external audit
+we must audit every transaction thoroughly.
+
+transaction
+noun
+an instance of buying or selling something
+bank transaction / financial transaction
+we must audit every transaction thoroughly.
+
+thorough
+adjective
+complete with regard to every detail; very careful and accurate
+thorough investigation / thorough check
+It is probable that the external auditor will conduct a thorough review next month, so please ensure all entries are economically sound.
+
+accurately
+adverb
+correctly, precisely
+record accurately / predict accurately
+ensure that every invoice and receipt accurately reflects...
 
 
 --- FILE: executive-reborn/privacy/index.html (https://fawnfell.com/executive-reborn/privacy/index.html) ---
