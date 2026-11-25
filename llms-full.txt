@@ -216,7 +216,7 @@ App Screen Preview (9:16 Mobile View — 8 Screens, Japanese UI)
 Captured directly at 1080×1920 portrait resolution from the Japanese build, covering the 42 main episodes, workplace reading memos, reaction-time FSRS quiz, and offline commute audio player. Swipe horizontally on mobile.
 
 01 · HOME
-Seasonal window scene, Shiba companion Marshal & daily tasks
+Seasonal window scene, Akita companion Marshal & daily tasks
 
 02 · Main EP01 (42 Eps)
 Boardroom English-Japanese script, audio & quiz entry
@@ -241,7 +241,7 @@ Listening nodes paired with 7 workplace document feeds
 
 How Executive Reborn Combines Listening, Reading & Memory
 
-Every study loop pairs your Shiba companion Marshal with concise workplace dramas covering boardrooms, vendor audits, contracts, and crisis calls across roughly 230 MB of offline audio and art.
+Every study loop pairs your Akita companion Marshal with concise workplace dramas covering boardrooms, vendor audits, contracts, and crisis calls across roughly 230 MB of offline audio and art.
 
 Story
 
@@ -523,7 +523,7 @@ Standard Lifetime + Time Wardrobe (pin all 11 outfits & 13 window scenes year-ro
 Deluxe Perks vs. Automatic Seasonal & Holiday Events (13 Scenes, 11 Outfits)
 
 Included for every learner (Free, Monthly, and Standard):
- On matching calendar dates, your HOME room and Shiba companion Marshal automatically switch across 
+ On matching calendar dates, your HOME room and Akita companion Marshal automatically switch across 
 12 seasonal and festival scenes
  (4 seasons + 8 holidays) and 
 9 matching outfits
@@ -807,7 +807,7 @@ Executive Reborn
 日本語UI（1080×1920）の実機スクリーンショットです。本編42話の会話スクリプト、職場資料リーディング、反応時間ベースの単語クイズ、通勤リスニングまで一通り確認できます。スマホでは横にスワイプしてご覧いただけます。
 
 01 · HOME
-季節の窓景色と柴犬 Marshal、今日のタスク
+季節の窓景色と秋田犬 Marshal、今日のタスク
 
 02 · 本編42話 EP01
 役員会議の英日対訳スクリプト＆音声・テスト
