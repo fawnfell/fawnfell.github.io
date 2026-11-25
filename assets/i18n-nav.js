@@ -74,6 +74,7 @@
 
   const ROUTE_MAP = {
     '/': { en: '/', ja: '/ja/', ko: '/ko/', 'zh-Hant': '/zh-tw/' },
+    '/articles/': { en: '/articles/', ja: '/articles/ja/', ko: '/articles/', 'zh-Hant': '/articles/zh-tw/' },
     '/products/': { en: '/products/', ja: '/products/ja/', ko: '/products/ko/', 'zh-Hant': '/products/zh-tw/' },
     '/products/executive-reborn/': {
       en: '/products/executive-reborn/',

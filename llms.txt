@@ -4,6 +4,15 @@
 
 ## Core Pages & Documentation
 
+- [The Day Marshal the Akita Lost His Tail—and Why We Removed Chocolates from Valentine's Day](https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/index.html): Behind the scenes of Executive Reborn: fixing an 832px clipped Akita tail with --wide padding, editing out dog-toxic chocolates via img2img, packing 13 seasonal rooms under 7 MB, and fixing a Shiba typo.
+- [Fawnfell Engineering & Design Devlog](https://fawnfell.com/articles/index.html): Engineering notes and behind-the-scenes devlogs from Fawnfell on latency-based FSRS-6 memory design, Akita character art pipelines, and offline learning apps.
+- [秋田犬のしっぽが切れた日、そしてバレンタイン背景からチョコを消した理由](https://fawnfell.com/articles/ja/akita-marshal-tail-and-valentine-chocolate/index.html): 832pxキャンバスで切れた秋田犬Marshalのしっぽ補白、犬に猛毒なチョコ箱の除去、7MB未満に収めた13種の季節窓と2026–2035年中秋テーブル、柴犬誤記修正の舞台裏。
+- [Fawnfell 開発日記・設計ノート](https://fawnfell.com/articles/ja/index.html): Fawnfellによる個人開発の設計ノート：反応速度FSRS-6による三日坊主対策や、秋田犬Marshalの立ち絵修正・13種季節窓の制作裏話。
+- [なぜ単語アプリは3週間で三日坊主になるのか？「忘れた / 簡単」4択を捨て、回答速度で自動判定するFSRS-6を作った話](https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/index.html): 夜10時に「忘れた/簡単」ボタンを100回押す疲労をなくすため、個人中央値速度で自動判定するFSRS-6英語アプリ『Executive Reborn』の設計記録。
+- [Why Flashcard Apps Fail in 3 Weeks: Replacing 4 Manual Rating Buttons with Reaction-Latency FSRS-6](https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/index.html): How Executive Reborn eliminates 4-button self-rating fatigue using personal median response latency for FSRS-6, same-episode narrow input, and lifetime free review queues.
+- [秋田犬的尾巴被畫框切掉那天，以及我為什麼從情人節背景裡刪掉了巧克力](https://fawnfell.com/articles/zh-tw/akita-marshal-tail-and-valentine-chocolate/index.html): 從 832px 畫布斷尾補白、連夜用圖生圖清掉對犬隻有毒的情人節巧克力盒、7 MB 塞進 13 套四季窗景與十年中秋表，到全站把柴犬誤寫改回秋田犬的真實開發日誌。
+- [Fawnfell 開發日誌與設計筆記](https://fawnfell.com/articles/zh-tw/index.html): Fawnfell 獨立開發工程筆記：以反應速度驅動 FSRS-6 解決背單字倦怠，以及秋田犬 Marshal 斷尾修復與情人節去毒巧克力的幕後實錄。
+- [為什麼背單字 App 總是撐不過 3 週？我砍掉「忘記 / 簡單」4 個自評按鈕，改用反應速度驅動 FSRS-6](https://fawnfell.com/articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/index.html): 為解決上班族連按 100 次「忘記/簡單」的決策疲勞，《Executive Reborn》改以近 200 題反應速度中位數自動驅動 FSRS-6，並結合單課聽讀循環與永久免費複習佇列。
 - [Fawnfell — Calm, Durable Software & Story Worlds](https://fawnfell.com/index.html): Fawnfell is an independent software studio creating offline-first language apps, cozy narrative games, and first-principles developer tools.
 - [Fawnfell — 静かで長く使えるアプリと物語を](https://fawnfell.com/ja/index.html): Fawnfell（フォーンフェル）は、オフライン重視の語学学習アプリ、物語ゲーム、開発者向けオープンソースツールを制作する独立ソフトウェアスタジオです。
 - [Fawnfell — 오래 곁에 두는 소프트웨어와 이야기](https://fawnfell.com/ko/index.html): Fawnfell은 오프라인 우선 어학 학습 앱, 내러티브 게임, 오픈소스 개발자 도구를 만드는 독립 소프트웨어 스튜디오입니다.

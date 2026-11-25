@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <title>なぜ単語アプリは3週間で三日坊主になるのか？4択自己採点を捨てたFSRS-6開発記 | Fawnfell</title>
+  <meta name="description" content="夜10時に「忘れた/簡単」ボタンを100回押す疲労をなくすため、個人中央値速度で自動判定するFSRS-6英語アプリ『Executive Reborn』の設計記録。">
+  <link rel="canonical" href="https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/">
+  <link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/">
+  <link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/">
+  <link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/">
+  <link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/style.css?v=20261125c">
+  <script src="/assets/i18n-nav.js?v=20261125c"></script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "TechArticle",
+      "headline": "なぜ単語アプリは3週間で三日坊主になるのか？「忘れた / 簡単」4択を捨て、回答速度で自動判定するFSRS-6を作った話",
+      "description": "夜10時に「忘れた/簡単」ボタンを100回押す疲労をなくすため、個人中央値速度で自動判定するFSRS-6英語アプリ『Executive Reborn』の設計記録。",
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
+      "inLanguage": "ja",
+      "author": {
+        "@type": "Organization",
+        "name": "Fawnfell",
+        "url": "https://fawnfell.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Fawnfell",
+        "url": "https://fawnfell.com/"
+      },
+      "mainEntityOfPage": "https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Executive Reborn",
+      "operatingSystem": "iOS",
+      "applicationCategory": "EducationalApplication",
+      "description": "夜10時に「忘れた/簡単」ボタンを100回押す疲労をなくすため、個人中央値速度で自動判定するFSRS-6英語アプリ『Executive Reborn』の設計記録。",
+      "url": "https://fawnfell.com/products/executive-reborn/ja/",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "自己採点なしでFSRS-6の記憶定着率は落ちませんか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "正誤だけでなく「個人の中央値反応時間との比率」で迷いの度合いを連続的に拾うため、目標保持率90%に向けた間隔調整を4択クリックなしで実行できます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "忙しい週に数日サボっても復習が溜まりすぎませんか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "連続記録の0リセットペナルティを廃止しています。仮想学習者の30%ランダム欠席や14日間休止シナリオでも復習キューが極端に破綻しないようチューニングしています。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "料金プランと、解約後の単語復習はどうなりますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "本編第3話・番外編第2話まで無料です。全58話（1,397表現）は月額¥780、スタンダード買い切り¥2,800、衣装と窓景色を固定できるデラックス版¥3,800から選べ、月額解約後も一度学習した単語のFSRS復習は永久無料で続けられます。"
+          }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+  <!-- Open Graph & Twitter Card -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Fawnfell">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="ko_KR">
+  <meta property="og:locale:alternate" content="zh_TW">
+  <meta property="og:title" content="なぜ単語アプリは3週間で三日坊主になるのか？4択自己採点を捨てたFSRS-6開発記 | Fawnfell">
+  <meta property="og:description" content="夜10時に「忘れた/簡単」ボタンを100回押す疲労をなくすため、個人中央値速度で自動判定するFSRS-6英語アプリ『Executive Reborn』の設計記録。">
+  <meta property="og:url" content="https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/">
+  <meta property="og:image" content="https://fawnfell.com/assets/brand/og-executive-reborn.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:alt" content="Executive Reborn — Akita companion Marshal in a suit beside a dawn office window">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="なぜ単語アプリは3週間で三日坊主になるのか？4択自己採点を捨てたFSRS-6開発記 | Fawnfell">
+  <meta name="twitter:description" content="夜10時に「忘れた/簡単」ボタンを100回押す疲労をなくすため、個人中央値速度で自動判定するFSRS-6英語アプリ『Executive Reborn』の設計記録。">
+  <meta name="twitter:image" content="https://fawnfell.com/assets/brand/og-executive-reborn.jpg">
+  <meta name="twitter:image:alt" content="Executive Reborn — Akita companion Marshal in a suit beside a dawn office window">
+  <!-- End Open Graph & Twitter Card -->
+  <!-- Cloudflare Web Analytics (cookieless) --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "5427a3a0f94443e38330e5a17be45161"}'></script><!-- End Cloudflare Web Analytics -->
+</head>
+<body>
+  <a href="#main-content" class="skip-link">メインコンテンツへ</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="/ja/">
+        <svg class="brand-mark" viewBox="0 0 120 120" fill="none" aria-hidden="true">
+          <rect width="120" height="120" rx="28" fill="#284638"/>
+          <circle cx="60" cy="60" r="42" fill="#f7f2e8" fill-opacity="0.08" stroke="#e0b36a" stroke-opacity="0.45" stroke-width="2"/>
+          <path d="M24 84 C44 76, 76 76, 96 84" stroke="#e0b36a" stroke-width="2.5" stroke-linecap="round"/>
+          <circle cx="42" cy="34" r="4" fill="#e0b36a"/>
+          <path fill="#f7f2e8" d="M 39 58 C 42 54, 48 54, 57 54 C 61 54, 65 51, 68 44 L 72 34 C 70 30, 71 25, 73 22 C 74 25, 75 28, 76 31 C 78 27, 81 24, 83 24 C 83 28, 82 32, 80 34 L 87 37 C 88 38, 87 40, 84 41 L 77 41 L 75 54 C 75 59, 72 63, 70 66 L 77 83 L 73 84 L 66 67 L 64 84 L 60 84 L 61 67 C 56 67, 51 67, 48 66 L 45 84 L 41 84 L 43 66 L 36 82 L 33 80 L 38 63 C 36 60, 35 56, 37 53 C 39 54, 40 56, 39 58 Z"/>
+        </svg>
+        <span class="brand-lockup">
+          <span class="brand-wordmark">Fawnfell<span class="brand-dot" aria-hidden="true">.</span></span>
+          <span class="brand-sub" aria-hidden="true">Independent Studio</span>
+        </span>
+      </a>
+      <nav aria-label="メインナビゲーション">
+        <ul class="nav-links">
+          <li><a href="/ja/">スタジオ</a></li>
+          <li><a href="/products/ja/">プロダクト</a></li>
+          <li><a href="/articles/ja/" aria-current="page">開発日記</a></li>
+          <li><a href="/products/executive-reborn/support/">サポート</a></li>
+          <li><a href="https://github.com/fawnfell">GitHub</a></li>
+        </ul>
+      </nav>
+      <div class="lang-picker">
+        <button type="button" class="lang-btn" popovertarget="lang-menu" aria-label="言語切り替え">
+          <span aria-hidden="true">🌐</span><span>日本語</span><span aria-hidden="true">▾</span>
+        </button>
+        <div id="lang-menu" class="lang-menu" popover="auto" aria-label="言語切り替え">
+          <a href="/articles/why-flashcard-apps-fail-latency-fsrs/" hreflang="en" data-set-lang="en">English</a>
+          <a href="/articles/ja/why-flashcard-apps-fail-latency-fsrs/" hreflang="ja" data-set-lang="ja" aria-current="page">日本語</a>
+          <a href="/articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/" hreflang="zh-Hant" data-set-lang="zh-Hant">繁體中文</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content" class="wrap">
+    <nav class="breadcrumb" aria-label="パンくずリスト">
+      <ol>
+        <li><a href="/ja/">スタジオ</a></li><li><a href="/articles/ja/">開発日記</a></li><li aria-current="page">反応速度FSRS-6開発記</li>
+      </ol>
+    </nav>
+    <article class="article-prose">
+      <header>
+        <p class="eyebrow">開発日記 #01 · FSRS-6 × 継続設計</p>
+        <h1>なぜ単語アプリは3週間で三日坊主になるのか？「忘れた / 簡単」4択を捨て、回答速度で自動判定するFSRS-6を作った話</h1>
+        <p class="article-meta">2026-11-25 · Fawnfell（インディースタジオ） · 読了目安 4分</p>
+      </header>
+
+      <p class="lead">夜10時、残業帰りのソファで単語帳アプリを開き、1枚ごとに「忘れた・難しい・普通・簡単」の4ボタンを100回押し続けて指が止まる——。ビジネス英語をストレスなく続けたい社会人向けにFawnfellが開発したオフライン英語RPG『<strong>Executive Reborn</strong>』（全58話・1,397表現・11,250音声）では、三日坊主の最大原因である<strong>手動4択の自己採点を廃止</strong>し、直近200問の個人反応速度の中央値と正誤から<strong>FSRS-6が自動で定着度を判定</strong>する仕組みを作りました。</p>
+
+      <figure class="article-figure">
+        <img src="/assets/articles/fsrs-4btn-vs-latency.webp" alt="4択手動判定と反応速度FSRS-6（Executive Reborn）の設計比較。自己採点ストレスをなくし、同じエピソード内で聴読と接続する。" width="1600" height="900" fetchpriority="high" decoding="async">
+        <figcaption>4択手動判定と反応速度FSRS-6（Executive Reborn）の設計比較。自己採点ストレスをなくし、同じエピソード内で聴読と接続する。</figcaption>
+      </figure>
+
+      <h2>なぜ「忘れた / 難しい / 普通 / 簡単」を自分で押すと疲れるのか？</h2>
+      <p>市販のフラッシュカード型アプリの多くは、単語を思い出す作業そのものよりも「今の自分の記憶は『難しい』か『普通』か？」という<strong>メタ認知の自己評価を100回連続で強いる</strong>ことで脳を消耗させます。疲れている平日の夜ほど判断は雑になり、押すのが面倒になってアプリを開かなくなります。</p>
+      <p>そこで『Executive Reborn』では、4択の自己評価ボタンを画面から消しました。ユーザーはゲーム感覚で意味を選ぶだけ。アプリ内部で回答にかかった反応時間（ミリ秒）と正誤を計測し、<strong>直近200回の回答速度の個人中央値</strong>と比較してFSRS-6（目標記憶保持率90%）のグレードを自動割り当てします。</p>
+
+      <h2>どうやって1つの単語を「覚えたつもり」で終わらせないのか？</h2>
+      <p>従来の教材は「単語帳」「リスニング」「リーディング」が別々の例文で分断されているため、朝に覚えた表現を夕方まで二度と見かけません。</p>
+      <p>本作では第二言語習得の<strong>ナロー・インプット（Narrow Listening &amp; Reading）</strong>を取り入れ、1エピソードごとに<strong>21〜29語の同一ターゲット語彙</strong>をロック。まずFSRS-6で単語を予習し、数分後に同エピソードの役員会議音声（11,250本のオフラインAAC音声の一部）で耳から聴き、さらに同エピソードの社内文書とワークデスク読解で柔らかいハイライト付きで拾い直します。</p>
+      <p>仮想学習者シミュレーション（2日に1話・1日約21.6分ペース）では、1語あたり平均<strong>11.9回のFSRS能動復習</strong>に加えて、同話内の音声と記事文脈で<strong>4.3回（読解2周で6.6回）</strong>自然に再会する設計になっています（※アルゴリズム検証用の試算値であり、実測値や試験スコアを保証するものではありません）。</p>
+
+      <div class="shot-rail" style="grid-template-columns: repeat(2, minmax(0, 260px));" role="region" aria-label="どうやって1つの単語を「覚えたつもり」で終わらせないのか？" tabindex="0">
+        <figure class="shot-card">
+          <div class="phone-frame">
+            <img src="/assets/screenshots/executive-reborn/09_fsrs_study_ja.webp" alt="Executive Reborn 反応速度ベースのFSRS-6単語クイズ実機画面" width="1080" height="1920" loading="lazy">
+          </div>
+          <figcaption>回答ボタンを押すだけで反応速度を計測し、FSRS-6間隔を自動調整する実機画面（日本語UI）。</figcaption>
+        </figure>
+        <figure class="shot-card">
+          <div class="phone-frame">
+            <img src="/assets/screenshots/executive-reborn/15_forgetting_curve_ja.webp" alt="Executive Reborn 単語ごとのFSRS-6忘却曲線実機画面" width="1080" height="1920" loading="lazy">
+          </div>
+          <figcaption>各単語に専用の忘却曲線と記憶安定度グラフを持ち、復習ごとの伸びを可視化。</figcaption>
+        </figure>
+      </div>
+
+      <h2>三日坊主を防ぐための「3つのやらないこと」とは？</h2>
+      <div class="table-wrapper" role="region" aria-labelledby="tbl-a1" tabindex="0">
+        <table>
+          <caption id="tbl-a1">一般的な単語アプリ vs. Executive Reborn の継続仕様比較</caption>
+          <thead>
+            <tr>
+              <th>設計項目</th>
+              <th>従来の単語帳アプリ</th>
+              <th>Executive Reborn の仕様</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><th>復習採点の操作</th><td data-label="従来の単語帳アプリ">毎カード4択（忘れた/難しい/普通/簡単）を手動クリック</td><td data-label="Executive Reborn の仕様">直近200問の個人中央値速度＋正誤からFSRS-6を自動判定</td></tr>
+            <tr><th>連続日数（ストリーク）</th><td data-label="従来の単語帳アプリ">1日休むと0日にリセットされ、未復習が雪崩のように蓄積</td><td data-label="Executive Reborn の仕様">連続記録リセットなし。30%欠席・14日休止想定でも破綻しない設計</td></tr>
+            <tr><th>物語と動機づけ</th><td data-label="従来の単語帳アプリ">前後のつながりがない単発例文が続く</td><td data-label="Executive Reborn の仕様">本編42話＋3話ごとに解禁される16話の記憶喪失サスペンス番外編（秋田犬Marshal同伴）</td></tr>
+            <tr><th>課金・解約後の扱い</th><td data-label="従来の単語帳アプリ">月額解約で学習済み単語の復習までロックされることが多い</td><td data-label="Executive Reborn の仕様">無料体験（本編3話・番外2話）や月額¥780解約後も既習単語のFSRS復習は永久無料。買い切り¥2,800あり</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <section id="faq">
+        <h2>よくある質問（FSRS-6・料金・オフライン対応）</h2>
+        <div class="faq-list">
+        <details name="faq" open>
+          <summary>自己採点なしでFSRS-6の記憶定着率は落ちませんか？</summary>
+          <p>正誤だけでなく「個人の中央値反応時間との比率」で迷いの度合いを連続的に拾うため、目標保持率90%に向けた間隔調整を4択クリックなしで実行できます。</p>
+        </details>
+        <details name="faq">
+          <summary>忙しい週に数日サボっても復習が溜まりすぎませんか？</summary>
+          <p>連続記録の0リセットペナルティを廃止しています。仮想学習者の30%ランダム欠席や14日間休止シナリオでも復習キューが極端に破綻しないようチューニングしています。</p>
+        </details>
+        <details name="faq">
+          <summary>料金プランと、解約後の単語復習はどうなりますか？</summary>
+          <p>本編第3話・番外編第2話まで無料です。全58話（1,397表現）は月額¥780、スタンダード買い切り¥2,800、衣装と窓景色を固定できるデラックス版¥3,800から選べ、月額解約後も一度学習した単語のFSRS復習は永久無料で続けられます。</p>
+        </details>
+        </div>
+      </section>
+
+      <aside class="article-cta-box">
+        <h2>ブラウザで第1〜3話を無料試読する</h2>
+        <p>インストール不要で、『Executive Reborn』本編第1〜3話の英語スクリプト・職場文書・72語のターゲット語彙ハイライト連動をそのまま体験できます。</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="/products/executive-reborn/ja/preview/">第1〜3話を無料試読</a>
+          <a class="btn" href="/products/executive-reborn/ja/">Executive Reborn 製品ページを見る</a>
+        </div>
+      </aside>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span>© 2026 Fawnfell</span>
+      <span><a href="/ja/">スタジオ</a> · <a href="/products/ja/">プロダクト</a> · <a href="/products/executive-reborn/support/">サポート</a> · <a href="/products/executive-reborn/privacy/">プライバシーポリシー</a> · <a href="mailto:fawnfell@gmail.com">fawnfell@gmail.com</a></span>
+    </div>
+  </footer>
+</body>
+</html>

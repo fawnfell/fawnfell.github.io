@@ -960,3 +960,69 @@ details > .table-wrapper {
   font-size: 1.06rem;
   line-height: 1.4;
 }
+
+/* Devlog & editorial articles */
+.article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem 0.9rem;
+  margin-block-end: 1.25rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.article-prose {
+  max-inline-size: 68ch;
+  text-wrap: pretty;
+}
+
+.article-prose p,
+.article-prose ul,
+.article-prose ol {
+  margin-block: 0 1.05rem;
+}
+
+.article-prose li + li {
+  margin-block-start: 0.35rem;
+}
+
+.article-figure {
+  margin: 1.5rem 0 1.85rem;
+  padding: 0.85rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.article-figure img {
+  display: block;
+  inline-size: 100%;
+  block-size: auto;
+  border-radius: 10px;
+}
+
+.article-figure figcaption {
+  margin-block-start: 0.65rem;
+  font-size: 0.86rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.article-cta-box {
+  margin-block: 2rem;
+  padding: 1.35rem 1.45rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-inline-start: 4px solid var(--primary);
+  border-radius: var(--radius);
+}
+
+.article-cta-box h2 {
+  margin-block: 0 0.55rem;
+}
+
+.article-cta-box p {
+  margin-block: 0 1rem;
+  color: var(--muted);
+}

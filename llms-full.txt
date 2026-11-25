@@ -6,6 +6,888 @@
 
 
 
+--- FILE: articles/akita-marshal-tail-and-valentine-chocolate/index.html (https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/index.html) ---
+
+# The Day Marshal the Akita Lost His Tail—and Why We Removed Chocolates from Valentine's Day
+
+The Day Marshal the Akita Lost His Tail—and Removing Valentine Chocolates | Fawnfell
+
+Skip to content
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+EN
+▾
+
+English
+
+日本語
+
+繁體中文
+
+Devlog #02 · Akita Marshal × Art Pipeline
+
+The Day Marshal the Akita Lost His Tail—and Why We Removed Chocolates from Valentine's Day
+
+2026-11-25 · Fawnfell Independent Studio · 4 min read
+
+While obsessing over our suit-wearing 
+Akita companion, Marshal
+, we somehow ended up wrapping a full 42-episode corporate drama, 16-chapter mystery side story, 1,397 workplace phrases, and a latency-based FSRS-6 engine around him in 
+Executive Reborn
+ (by Fawnfell). Here are three real art-pipeline stories from building him: rescuing a clipped tail at 832px, erasing dog-toxic Valentine's chocolates overnight, and packing 13 seasonal window scenes into under 7 MB.
+
+Incident 1: Sliced Right Off at the 832px Canvas Edge
+
+During an asset audit of Marshal's sitting sprite, his curled Akita tail looked suspiciously flat on the right side. The source canvas was only 
+832px
+ wide, slicing off the fluffy tip right at the border.
+
+We added a 
+--wide
+ right-padding pass across all nine full-pose outfits and locked in an automated test verifying that the rightmost pixel column has zero alpha—no more clipped tails.
+
+Left: clipped flat at 832px. Right: --wide padded canvas with automated rightmost-column check.
+
+Incident 2: Erasing a Toxic Box of Chocolates on Valentine's Day
+
+Our initial Valentine's Day window scene looked gorgeous: pink sunset over Parisian rooftops, a bouquet of roses, and an 
+open box of chocolates right on the rug
+—with one piece sitting loose beside it.
+
+Then we remembered who sits in the middle of that rug on February 14: 
+Marshal is a dog
+. Even in illustration form, leaving toxic chocolate right next to our Akita felt wrong, so we ran a targeted Qwen Image-Edit img2img pass to erase the box and keep only dog-safe roses.
+
+Left: initial generation with chocolates on the rug. Right: img2img-cleaned version with roses only.
+
+Packing 13 Window Scenes & a 10-Year Mid-Autumn Table Under 7 MB
+
+Because Executive Reborn runs completely offline, we kept all 13 window scenes (4 seasons + 8 auto-triggered holidays + 1 Deluxe Typhoon Double Rainbow) plus Marshal's outfits under 
+7 MB total
+—complete with a built-in 
+2026–2035 lunar Mid-Autumn calendar table
+ so the full moon arrives on the exact right date every year.
+
+12 calendar-triggered scenes free for every tier plus the Deluxe Typhoon Double Rainbow.
+
+Bonus Plot Twist: Catching a 'Shiba' Typo Across Our Own Site
+
+And just today (November 25, 2026), we caught an embarrassing handoff slip: despite our story bible explicitly specifying an Akita, earlier website metadata and alt tags labeled Marshal a 'Shiba Inu'. We scrubbed every language page, Open Graph tag, and 
+llms-full.txt
+ back to 
+Akita
+—and locked it into our handoff docs.
+
+Akita Marshal & Seasonal Room Engineering Notes
+
+Asset Fix
+
+What Changed
+
+Verification
+
+Clipped Tail Fix
+Added --wide canvas padding across sitting & 9 seasonal outfits
+Automated rightmost pixel column alpha = 0
+
+Dog-Safe Valentine
+Removed chocolate box & stray piece from rug via img2img
+Kept roses & lighting unchanged
+
+13 Seasonal Scenes
+12 auto calendar scenes + Typhoon Double Rainbow + 2026–2035 lunar dates
+Total art + outfit pack < 7 MB
+
+Breed Accuracy
+Unified all 4 languages, OG metadata & llms-full.txt to Akita
+Live grep = 0 Shiba mentions
+
+FAQ
+
+Is Marshal an Akita or a Shiba Inu?
+
+Marshal is an Akita—both in the story bible, side-story script, and now across all Fawnfell web and metadata pages.
+
+Do free users get the seasonal window scenes?
+
+Yes. 12 of the 13 seasonal/holiday scenes (including the dog-safe Valentine room) and 9 outfits switch automatically on matching calendar dates on every tier, including Free Preview.
+
+Where can I try the app with Marshal?
+
+You can read Episodes 1–3 and the side-story opening free in your browser with no install required.
+
+Try Executive Reborn Free in Your Browser
+
+Come for Marshal the suited Akita; stay for 58 workplace & mystery episodes, 1,397 phrases, and latency-based FSRS-6.
+
+Read Free Episodes 1–3
+
+Open Executive Reborn
+
+
+--- FILE: articles/index.html (https://fawnfell.com/articles/index.html) ---
+
+# Fawnfell Engineering & Design Devlog
+
+Devlog & Engineering Notes | Fawnfell
+
+Skip to content
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+EN
+▾
+
+English
+
+日本語
+
+繁體中文
+
+Devlog
+
+Fawnfell Engineering & Design Devlog
+
+Real engineering trade-offs, bug postmortems, and learning-science design notes from building Executive Reborn and Fawnfell Studio.
+
+FSRS-6
+Learning Design
+
+Why Flashcard Apps Fail in 3 Weeks: Replacing 4 Manual Rating Buttons with Reaction-Latency FSRS-6
+
+How removing Again/Hard/Good/Easy decision fatigue, pairing 21–29 terms per episode across audio and reading, and keeping review queues unlocked forever prevents burnout.
+
+Read Devlog #01
+
+Akita Marshal
+Art Pipeline
+
+The Day Marshal the Akita Lost His Tail—and Why We Removed Chocolates from Valentine's Day
+
+Padding an 832px sprite canvas with --wide, editing out dog-toxic chocolates via img2img, packing 13 seasonal window scenes under 7 MB, and catching a Shiba typo on our own site.
+
+Read Devlog #02
+
+
+--- FILE: articles/ja/akita-marshal-tail-and-valentine-chocolate/index.html (https://fawnfell.com/articles/ja/akita-marshal-tail-and-valentine-chocolate/index.html) ---
+
+# 秋田犬のしっぽが切れた日、そしてバレンタイン背景からチョコを消した理由
+
+秋田犬のしっぽが切れた日と、バレンタイン背景からチョコを消した理由 | Fawnfell
+
+メインコンテンツへ
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+日本語
+▾
+
+English
+
+日本語
+
+繁體中文
+
+開発日記 #02 · 秋田犬 Marshal × 美術パイプライン
+
+秋田犬のしっぽが切れた日、そしてバレンタイン背景からチョコを消した理由
+
+2026-11-25 · Fawnfell（インディースタジオ） · 読了目安 4分
+
+スーツ姿の
+秋田犬（Akita）の相棒 Marshal
+にこだわってアプリを作っていたら、気づけば本編42話＋番外編16話の企業サスペンス劇と1,397表現・FSRS-6記憶エンジンを載せたビジネス英語RPG『
+Executive Reborn
+』（Fawnfell開発）になっていました。この記事では、開発中に起きた「832pxキャンバスで秋田犬のしっぽが切断された事件」「犬に猛毒なチョコレートをバレンタイン背景から徹夜で消した話」「7MB未満に13種の季節窓を詰め込んだ工夫」を実画像つきで振り返ります。
+
+事件①：832pxのキャンバス右端で、秋田犬のしっぽがスパッと切れた
+
+ホーム画面で座っている秋田犬 Marshal の立ち絵を確認していたとき、ふと違和感に気づきました。元画像の横幅が 
+832px
+ しかなかったため、くるんと巻いた立派な秋田犬のしっぽの右端がキャンバス境界で真っ平らに切断されていたのです。
+
+しかも季節衣装（浴衣・サンタ帽・スキーゴーグル・袴など全9種）でも同じ切断が起きかけていたため、衣装生成スクリプトに 
+--wide
+ オプション（右側へ余白を補うリキャンバス処理）を追加し、「画像の最右列ピクセルのアルファ値が完全に0であること」を自動テストで検証するルールを入れました。
+
+左：832px 境界でしっぽが切れていた原図 ／ 右：--wide 補白と最右列ピクセル=0検証を通過した最終立ち絵。
+
+事件②：バレンタイン背景の「ローズの隣」にあったチョコ箱を徹夜で消した理由
+
+季節ごとに自動で切り替わるホーム画面の窓景色を作っていたとき、バレンタイン背景の初期候補はとても華やかでした。夕焼けのパリ風窓辺、ピンクのバラの花束——そしてラグの上に置かれた
+開封済みのチョコレート箱（しかも1粒ラグに落ちている）
+。
+
+ただ、そこで手が止まりました。バレンタイン当日、そのラグのど真ん中に座るのは
+秋田犬の Marshal
+ です。犬にとってチョコレート（テオブロミン）は猛毒。ゲームの世界とはいえ、愛犬の目の前にチョコが転がっている部屋に座らせるわけにはいきません。
+
+すぐさま Qwen Image-Edit を使ってラグ上のチョコ箱と落ちた1粒だけを img2img で丁寧に消し、バラの花束だけの「犬に安全なバレンタイン背景」に差し替えました。
+
+左：初期生成（ラグ上に開封済みチョコ箱と1粒） ／ 右：img2img でチョコ箱だけ消去した最終採用版。
+
+7MB未満に13種の季節窓と「2026〜2035年・旧暦中秋テーブル」をどう詰め込んだか？
+
+『Executive Reborn』は
+完全オフライン動作
+にこだわっているため、音声11,250本や背景が重くなりすぎないよう画像容量を厳しく管理しています。
+
+四季4種（春・桜／夏・花火／秋・銀杏／冬・雪景）に加えて、バレンタイン・梅雨紫陽花・七夕短冊・中秋の名月・ハロウィン・クリスマス・大晦日・お正月の
+計12種を無料版を含む全ユーザーにカレンダー連動で自動解放
+。さらにデラックス版の隠し背景「台風一過の二重虹」を加えた
+全13種の窓景色＋着せ替え一式を 7 MB 未満
+に圧縮しました。旧暦で毎年日付がズレる「中秋の名月」のために、
+2026〜2035年の10年分の旧暦八月十五日テーブル
+までコードに埋め込んでいます。
+
+カレンダー連動12種＋デラックス限定「台風一過の二重虹」を含む全13種。
+
+番外編：公式サイトで自分の秋田犬を「柴犬」と誤記して全点検した話
+
+そして本日（2026年11月25日）の小さな事件も正直に書いておきます。設定資料でもゲーム本編でも「美しい毛並みの秋田犬（Akita）」と決まっていたはずの Marshal が、公式サイトの英語・日本語・韓国語・繁体の紹介文や OGP 画像説明、
+llms-full.txt
+ の中でうっかり
+「柴犬（Shiba）」
+と書かれていたのです。
+
+気づいた瞬間に全ページ・全スクリプト・AI検索用テキストまで総点検し、すべて
+秋田犬（Akita）
+へ修正して再デプロイしました。設定ファイルや引き継ぎメモにも「Marshal は秋田犬であり、柴犬ではない」と太字でロックしたので、もう二度と間違えないはずです。
+
+秋田犬 Marshal と季節背景まわりの実装スペックまとめ
+
+項目
+
+修正・実装内容
+
+技術メモ
+
+立ち絵のしっぽ切断
+832px幅から --wide 補白へ拡張し、全9衣装のしっぽを復元
+最右列ピクセル=0をテストで確認
+
+バレンタイン背景の安全性
+ラグ上の開封済みチョコ箱と1粒を img2img で除去
+バラの花束のみ残し犬に安全な構図へ
+
+季節・祝日窓景色
+12種がカレンダー自動出現＋限定「台風一過の二重虹」計13種
+着せ替え一式と合わせて 7 MB 未満／2026–2035年中秋表内蔵
+
+犬種表記の統一
+公式サイト4言語・メタタグ・llms-full.txt を秋田犬（Akita）へ統一
+無料体験・全プランで12種窓景色と9種衣装が自動出現
+
+よくある質問（Marshal・季節背景・無料範囲）
+
+Marshal は柴犬ではなく秋田犬なのですか？
+
+はい、公式設定もゲーム本編の描写も秋田犬（Akita）です。本編の番外編でも、かつて街角で出会った美しい毛並みの秋田犬として描かれています。
+
+13種の季節窓景色と着せ替えは課金しないと見られませんか？
+
+13種のうち12種（四季4種＋祝日8種）と9種の連動衣装は、無料体験版を含むすべてのプランで該当カレンダー日に自動出現します。デラックス版（¥3,800）では時のクローゼットで年中好きな背景と衣装を固定でき、限定の「台風一過の二重虹」とヘッドホン衣装2種・代替アプリアイコン2種が解放されます。
+
+この秋田犬と一緒に英語を学ぶアプリはどこで試せますか？
+
+Fawnfell公式サイトにて、インストール不要で本編第1〜3話と番外編プロローグを無料試読いただけます。
+
+秋田犬 Marshal が相棒の英語RPG『Executive Reborn』を試してみる
+
+スーツ姿の秋田犬 Marshal と進める42話の企業サスペンス＋16話の番外編＋反応速度FSRS-6。まずはブラウザで第1〜3話を無料試読できます。
+
+第1〜3話を無料試読
+
+Executive Reborn 製品ページへ
+
+
+--- FILE: articles/ja/index.html (https://fawnfell.com/articles/ja/index.html) ---
+
+# Fawnfell 開発日記・設計ノート
+
+開発日記・設計ノート | Fawnfell
+
+メインコンテンツへ
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+日本語
+▾
+
+English
+
+日本語
+
+繁體中文
+
+開発日記
+
+Fawnfell 開発日記・設計ノート
+
+ビジネス英語アプリ『Executive Reborn』の学習設計、ローカル水彩パイプライン、実機バグ修正のリアルな開発記録です。
+
+FSRS-6
+継続設計
+
+なぜ単語アプリは3週間で三日坊主になるのか？「忘れた / 簡単」4択を捨て、回答速度で自動判定するFSRS-6を作った話
+
+夜10時に100回自己採点ボタンを押す疲労をなくし、個人中央値速度での自動FSRS-6判定・同話21〜29語の聴読循環・解約後も復習永久無料を実装した設計記録。
+
+記事を読む (#01)
+
+秋田犬 Marshal
+制作裏話
+
+秋田犬のしっぽが切れた日、そしてバレンタイン背景からチョコを消した理由
+
+832pxキャンバスのしっぽ切断修正、犬に有毒なチョコ箱のimg2img除去、13種の季節窓を7MB未満に収めた工夫、さらに公式サイトの「柴犬」誤記を全点検した裏話まで。
+
+記事を読む (#02)
+
+
+--- FILE: articles/ja/why-flashcard-apps-fail-latency-fsrs/index.html (https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/index.html) ---
+
+# なぜ単語アプリは3週間で三日坊主になるのか？「忘れた / 簡単」4択を捨て、回答速度で自動判定するFSRS-6を作った話
+
+なぜ単語アプリは3週間で三日坊主になるのか？4択自己採点を捨てたFSRS-6開発記 | Fawnfell
+
+メインコンテンツへ
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+日本語
+▾
+
+English
+
+日本語
+
+繁體中文
+
+開発日記 #01 · FSRS-6 × 継続設計
+
+なぜ単語アプリは3週間で三日坊主になるのか？「忘れた / 簡単」4択を捨て、回答速度で自動判定するFSRS-6を作った話
+
+2026-11-25 · Fawnfell（インディースタジオ） · 読了目安 4分
+
+夜10時、残業帰りのソファで単語帳アプリを開き、1枚ごとに「忘れた・難しい・普通・簡単」の4ボタンを100回押し続けて指が止まる——。ビジネス英語をストレスなく続けたい社会人向けにFawnfellが開発したオフライン英語RPG『
+Executive Reborn
+』（全58話・1,397表現・11,250音声）では、三日坊主の最大原因である
+手動4択の自己採点を廃止
+し、直近200問の個人反応速度の中央値と正誤から
+FSRS-6が自動で定着度を判定
+する仕組みを作りました。
+
+4択手動判定と反応速度FSRS-6（Executive Reborn）の設計比較。自己採点ストレスをなくし、同じエピソード内で聴読と接続する。
+
+なぜ「忘れた / 難しい / 普通 / 簡単」を自分で押すと疲れるのか？
+
+市販のフラッシュカード型アプリの多くは、単語を思い出す作業そのものよりも「今の自分の記憶は『難しい』か『普通』か？」という
+メタ認知の自己評価を100回連続で強いる
+ことで脳を消耗させます。疲れている平日の夜ほど判断は雑になり、押すのが面倒になってアプリを開かなくなります。
+
+そこで『Executive Reborn』では、4択の自己評価ボタンを画面から消しました。ユーザーはゲーム感覚で意味を選ぶだけ。アプリ内部で回答にかかった反応時間（ミリ秒）と正誤を計測し、
+直近200回の回答速度の個人中央値
+と比較してFSRS-6（目標記憶保持率90%）のグレードを自動割り当てします。
+
+どうやって1つの単語を「覚えたつもり」で終わらせないのか？
+
+従来の教材は「単語帳」「リスニング」「リーディング」が別々の例文で分断されているため、朝に覚えた表現を夕方まで二度と見かけません。
+
+本作では第二言語習得の
+ナロー・インプット（Narrow Listening & Reading）
+を取り入れ、1エピソードごとに
+21〜29語の同一ターゲット語彙
+をロック。まずFSRS-6で単語を予習し、数分後に同エピソードの役員会議音声（11,250本のオフラインAAC音声の一部）で耳から聴き、さらに同エピソードの社内文書とワークデスク読解で柔らかいハイライト付きで拾い直します。
+
+仮想学習者シミュレーション（2日に1話・1日約21.6分ペース）では、1語あたり平均
+11.9回のFSRS能動復習
+に加えて、同話内の音声と記事文脈で
+4.3回（読解2周で6.6回）
+自然に再会する設計になっています（※アルゴリズム検証用の試算値であり、実測値や試験スコアを保証するものではありません）。
+
+回答ボタンを押すだけで反応速度を計測し、FSRS-6間隔を自動調整する実機画面（日本語UI）。
+
+各単語に専用の忘却曲線と記憶安定度グラフを持ち、復習ごとの伸びを可視化。
+
+三日坊主を防ぐための「3つのやらないこと」とは？
+
+一般的な単語アプリ vs. Executive Reborn の継続仕様比較
+
+設計項目
+
+従来の単語帳アプリ
+
+Executive Reborn の仕様
+
+復習採点の操作
+毎カード4択（忘れた/難しい/普通/簡単）を手動クリック
+直近200問の個人中央値速度＋正誤からFSRS-6を自動判定
+
+連続日数（ストリーク）
+1日休むと0日にリセットされ、未復習が雪崩のように蓄積
+連続記録リセットなし。30%欠席・14日休止想定でも破綻しない設計
+
+物語と動機づけ
+前後のつながりがない単発例文が続く
+本編42話＋3話ごとに解禁される16話の記憶喪失サスペンス番外編（秋田犬Marshal同伴）
+
+課金・解約後の扱い
+月額解約で学習済み単語の復習までロックされることが多い
+無料体験（本編3話・番外2話）や月額¥780解約後も既習単語のFSRS復習は永久無料。買い切り¥2,800あり
+
+よくある質問（FSRS-6・料金・オフライン対応）
+
+自己採点なしでFSRS-6の記憶定着率は落ちませんか？
+
+正誤だけでなく「個人の中央値反応時間との比率」で迷いの度合いを連続的に拾うため、目標保持率90%に向けた間隔調整を4択クリックなしで実行できます。
+
+忙しい週に数日サボっても復習が溜まりすぎませんか？
+
+連続記録の0リセットペナルティを廃止しています。仮想学習者の30%ランダム欠席や14日間休止シナリオでも復習キューが極端に破綻しないようチューニングしています。
+
+料金プランと、解約後の単語復習はどうなりますか？
+
+本編第3話・番外編第2話まで無料です。全58話（1,397表現）は月額¥780、スタンダード買い切り¥2,800、衣装と窓景色を固定できるデラックス版¥3,800から選べ、月額解約後も一度学習した単語のFSRS復習は永久無料で続けられます。
+
+ブラウザで第1〜3話を無料試読する
+
+インストール不要で、『Executive Reborn』本編第1〜3話の英語スクリプト・職場文書・72語のターゲット語彙ハイライト連動をそのまま体験できます。
+
+第1〜3話を無料試読
+
+Executive Reborn 製品ページを見る
+
+
+--- FILE: articles/why-flashcard-apps-fail-latency-fsrs/index.html (https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/index.html) ---
+
+# Why Flashcard Apps Fail in 3 Weeks: Replacing 4 Manual Rating Buttons with Reaction-Latency FSRS-6
+
+Why Flashcard Apps Fail in 3 Weeks: Latency-Driven FSRS-6 | Fawnfell
+
+Skip to content
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+EN
+▾
+
+English
+
+日本語
+
+繁體中文
+
+Devlog #01 · FSRS-6 × Retention Design
+
+Why Flashcard Apps Fail in 3 Weeks: Replacing 4 Manual Rating Buttons with Reaction-Latency FSRS-6
+
+2026-11-25 · Fawnfell Independent Studio · 4 min read
+
+It is 10 p.m. after a long commute, and tapping Again / Hard / Good / Easy a hundred times in a row burns out your willpower faster than the vocabulary itself. In 
+Executive Reborn
+—Fawnfell's offline business English RPG (58 episodes, 1,397 workplace phrases, 11,250 AAC voice clips)—we deleted all four manual grading buttons and drive 
+FSRS-6
+ automatically from accuracy and each learner's 
+rolling 200-item median response latency
+.
+
+Conventional 4-button manual flashcard drills vs. Executive Reborn's automatic latency FSRS-6 and same-episode loop.
+
+Why Manual 4-Button Self-Grading Causes Burnout
+
+Traditional spaced-repetition apps ask a meta-cognitive question on every single card: 'Was that Hard or Good?' Repeating that judgment 100 times at night turns review into tedious clerical work.
+
+Executive Reborn removes self-rating entirely. You simply pick the meaning; the engine compares your response speed against your own rolling 200-answer median and accuracy to assign the FSRS-6 grade automatically (targeting 90% retention).
+
+Closing the Loop with Same-Episode Narrow Input
+
+Instead of isolating flashcards from audio and reading, each episode locks a single batch of 
+21–29 target phrases
+: FSRS-6 warm-up first, then corporate meeting audio minutes later, then workplace documents with soft-glow term highlights.
+
+In our simulated learner model (one episode every two days, ~21.6 minutes/day), each phrase gets an average of 
+11.9 active FSRS reviews
+ plus 
+4.3 contextual encounters
+ (6.6 on a second read-through)—a dual-track design grounded in Narrow Listening & Reading (simulation metric, not a score guarantee).
+
+Automatic FSRS-6 scheduling driven by response speed vs. personal median—zero manual rating buttons.
+
+Individual stability and forgetting-curve tracking showing memory strength rising after each review.
+
+Anti-Dropout Architecture at a Glance
+
+Conventional Vocabulary Apps vs. Executive Reborn
+
+Design Dimension
+
+Conventional Apps
+
+Executive Reborn
+
+Review Input
+Manual 4-button self-grading on every card
+Automatic FSRS-6 grading via rolling 200-item median latency
+
+Missed Days
+Streak resets to zero; intimidating review avalanche
+Zero streak-reset penalty; stress-tested for 30% absences & 14-day breaks
+
+Story Continuity
+Disconnected single sentences
+42 main office episodes + 16-chapter mystery side story with Akita companion Marshal
+
+Post-Subscription
+Review queue often locked after canceling
+Learned words remain in FSRS review free forever; $17.99 Standard Lifetime option
+
+Frequently Asked Questions
+
+Does removing manual rating buttons hurt FSRS-6 accuracy?
+
+No. Comparing response time against your personal 200-item median separates instant recall from hesitant guesses without decision fatigue.
+
+What happens if I skip a week during a busy sprint?
+
+There is no streak reset, and the queue is simulation-tested to converge smoothly even after 14-day pauses.
+
+Can I still review learned words if a subscription ends?
+
+Yes. Your FSRS review queue for learned vocabulary remains unlocked forever on every tier, alongside a $17.99 Standard Lifetime purchase option.
+
+Read Episodes 1–3 Free in Your Browser
+
+Preview the bilingual scripts, workplace reading passages, and 72 highlighted target phrases directly on the web with no install required.
+
+Read Free Episodes 1–3
+
+Explore Executive Reborn
+
+
+--- FILE: articles/zh-tw/akita-marshal-tail-and-valentine-chocolate/index.html (https://fawnfell.com/articles/zh-tw/akita-marshal-tail-and-valentine-chocolate/index.html) ---
+
+# 秋田犬的尾巴被畫框切掉那天，以及我為什麼從情人節背景裡刪掉了巧克力
+
+秋田犬的尾巴被畫框切掉那天，以及我為什麼從情人節背景刪掉了巧克力 | Fawnfell
+
+跳至主要內容
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+繁體中文
+▾
+
+English
+
+日本語
+
+繁體中文
+
+開發日誌 #02 · 秋田犬 Marshal × 美術管線
+
+秋田犬的尾巴被畫框切掉那天，以及我為什麼從情人節背景裡刪掉了巧克力
+
+2026-11-25 · Fawnfell（獨立軟體工作室） · 閱讀時間約 4 分鐘
+
+為了這隻穿著深藍西裝、會講話又毒舌的
+秋田犬（Akita）夥伴 Marshal
+，我順便在《
+Executive Reborn
+》（Fawnfell 開發）裡塞進了 42 集商戰主線、16 集失憶懸疑番外、1,397 條商務片語與反應速度 FSRS-6 引擎。這篇記錄幾個讓我又好氣又好笑的開發瞬間：832px 原圖把秋田犬尾巴切斷、連夜把情人節地毯上的毒巧克力修掉，以及昨天差點在官網上替自家秋田犬誤植成柴犬的烏龍。
+
+事故一：832px 畫布右邊界，一刀切平了秋田犬的捲尾
+
+某天檢查首頁坐姿 Marshal 立繪時，越看越覺得尾巴右側怪怪的——打開原圖才發現寬度只有 
+832px
+，蓬鬆捲起的秋田犬尾巴右側剛好貼著畫框邊緣被硬生生削平。
+
+更慘的是整套換裝造型（浴衣、聖誕帽、滑雪鏡、和服羽織等 9 套）也差點一起斷尾。最後直接在生成腳本加入 
+--wide
+ 右側補白參數，並寫進自動化測試：檢查立繪最右側一整排像素的 Alpha 值必須為 0，這才徹底保住 Marshal 的尾巴。
+
+左：832px 邊界削平尾巴右側 ／ 右：--wide 補白重繪並通過最右列像素為 0 測試的完整捲尾。
+
+事故二：玫瑰花束旁的「情人節巧克力盒」，連夜圖生圖清掉
+
+做完四季背景後，我替首頁加上了 8 個節日自動窗景。初版情人節背景看起來非常浪漫：夕陽下的歐式落地窗、粉紅玫瑰花束，以及地毯上一盒
+打開的巧克力——甚至還掉了一顆在旁邊
+。
+
+盯著畫面三秒後突然驚覺：情人節當天坐在這塊地毯正中央的，可是
+秋田犬 Marshal
+ 啊！巧克力裡的可可鹼對狗來說是劇毒，就算只是遊戲畫面，也不能讓牠每天盯著地上的巧克力發呆。
+
+於是當晚立刻用 Qwen Image-Edit 做局部圖生圖，把巧克力盒和那顆掉出來的巧克力徹底抹掉，只留下對狗無害的玫瑰花束。
+
+左：初版生成的地毯巧克力盒與散落巧克力 ／ 右：圖生圖清除後只留玫瑰花束的犬隻安全版本。
+
+不到 7 MB 塞進 13 套窗景，還內建 2026–2035 年農曆中秋表
+
+《Executive Reborn》主打
+純離線通勤
+，11,250 條語音以外的美術資產容量抓得極緊。春櫻、夏花火、秋銀杏、冬雪景 4 季，加上情人節、梅雨紫陽花、日本七夕綠竹短冊、中秋滿月、萬聖節、聖誕節、跨年煙火與正月門松，共 
+12 套在對應日曆日期會自動輪換（免費版也能看到）
+；豪華典藏版另附限定彩蛋「颱風過後的雙彩虹」，整包 
+13 套窗景＋換裝壓在 7 MB 以內
+。
+
+為了讓每年國曆日期都不一樣的中秋節準時換上滿月窗景，我甚至直接在程式碼裡寫死了一張 
+2026–2035 年十年農曆八月十五公曆對照表
+。
+
+12 套隨日曆自動出現的四季與節日窗景 ＋ 豪華版限定「颱風雙彩虹」。
+
+番外花絮：官網一度把秋田犬寫成「柴犬」，連夜全站驗明正身
+
+寫這篇的今天（2026 年 11 月 25 日）還剛好抓到一樁烏龍：明明在劇本與角色設定裡清清楚楚寫著「毛色漂亮得過分的秋田犬」，結果官網四語介紹、OG 社交分享圖 alt 文字和 
+llms-full.txt
+ 卻因為交接卡沒寫明犬種，被一併寫成了「柴犬（Shiba）」！
+
+發現後立刻全站掃描清零、把 EN / JA / KO / ZH-TW 四語和 
+llms-full.txt
+ 全部改回
+秋田犬（Akita）
+重新部署上線，也在交接文件加上了硬鎖——Marshal 真的不是柴犬，牠是穿西裝的秋田犬。
+
+秋田犬 Marshal 與 13 套窗景關鍵工程數據
+
+項目
+
+修改與實作細節
+
+驗證方式
+
+立繪斷尾修復
+832px 畫布改用 --wide 右側補白，全 9 套服裝同步重繪
+自動化測試檢查最右列像素 Alpha = 0
+
+情人節去毒安全版
+移除地毯上打開的巧克力盒與單顆巧克力
+Qwen Image-Edit 局部重繪保留玫瑰
+
+13 套窗景體積與日曆
+12 套自動出現 + 1 套限定雙彩虹，內建 2026–2035 農曆中秋表
+背景與換裝總體積 < 7 MB
+
+犬種全站校對
+修正官網 4 語頁面、Meta 與 llms-full.txt 為秋田犬（Akita）
+線上全站檢索柴犬殘留 = 0
+
+常見問題（Marshal 設定與窗景解鎖）
+
+Marshal 的犬種確定是秋田犬嗎？
+
+是的。在角色設定書與番外劇本中 Marshal 均為秋田犬（Akita），先前也已統一修正過劇本內誤植與官網文案。
+
+13 套四季與節日窗景需要額外付費抽卡嗎？
+
+完全不需要抽卡。12 套四季與節日背景（含去巧克力版情人節）及 9 套服裝在免費體驗版與所有方案中都會隨系統日期自動出現；豪華典藏版（NT$790）可隨時自由鎖定背景與服裝，並解鎖限定颱風雙彩虹與 2 套耳機造型。
+
+現在可以在哪裡先試玩這款有秋田犬陪伴的英語 App？
+
+可直接在 Fawnfell 官網免安裝免費試讀《Executive Reborn》第 1–3 集正篇與番外序幕。
+
+免費試讀《Executive Reborn》第 1–3 集
+
+為了這隻穿西裝的秋田犬 Marshal，我們做好了 58 集劇情、1,397 條商務片語與無自評按鈕的 FSRS-6 引擎——歡迎先在網頁免費試讀前 3 集。
+
+免費試讀 (第 1–3 集)
+
+查看 Executive Reborn 產品頁
+
+
+--- FILE: articles/zh-tw/index.html (https://fawnfell.com/articles/zh-tw/index.html) ---
+
+# Fawnfell 開發日誌與設計筆記
+
+開發日誌與設計筆記 | Fawnfell
+
+跳至主要內容
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+繁體中文
+▾
+
+English
+
+日本語
+
+繁體中文
+
+開發日誌
+
+Fawnfell 開發日誌與設計筆記
+
+記錄打造商務英語 RPG《Executive Reborn》時的真實學習科學取捨、水彩美術管線除錯與多語在地化實戰。
+
+FSRS-6
+防棄坑設計
+
+為什麼背單字 App 總是撐不過 3 週？我砍掉「忘記 / 簡單」4 個自評按鈕，改用反應速度驅動 FSRS-6
+
+從上班族睡前連按 100 次自評按鈕崩潰說起：如何靠近 200 題反應中位數自動判分、同集窄化輸入與退訂後永久保留複習佇列打破三分鐘熱度。
+
+閱讀日誌 (#01)
+
+秋田犬 Marshal
+美術管線
+
+秋田犬的尾巴被畫框切掉那天，以及我為什麼從情人節背景裡刪掉了巧克力
+
+832px 原圖切尾與 --wide 補白、為犬隻安全連夜圖生圖刪掉玫瑰旁巧克力盒、7 MB 塞進 13 套窗景與十年農曆中秋表，外加官網誤寫成柴犬的烏龍修正。
+
+閱讀日誌 (#02)
+
+
+--- FILE: articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/index.html (https://fawnfell.com/articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/index.html) ---
+
+# 為什麼背單字 App 總是撐不過 3 週？我砍掉「忘記 / 簡單」4 個自評按鈕，改用反應速度驅動 FSRS-6
+
+為什麼背單字 App 總是撐不過 3 週？砍掉 4 個自評按鈕的 FSRS-6 開發實錄 | Fawnfell
+
+跳至主要內容
+
+Fawnfell
+.
+
+Independent Studio
+
+🌐
+繁體中文
+▾
+
+English
+
+日本語
+
+繁體中文
+
+開發日誌 #01 · FSRS-6 × 防棄坑設計
+
+為什麼背單字 App 總是撐不過 3 週？我砍掉「忘記 / 簡單」4 個自評按鈕，改用反應速度驅動 FSRS-6
+
+2026-11-25 · Fawnfell（獨立軟體工作室） · 閱讀時間約 4 分鐘
+
+晚上十點下班癱在沙發上打開單字 App，每背一張卡都要手動點選「忘記 / 困難 / 良好 / 簡單」，連按一百次直接讓人崩潰關掉——。為了讓不想硬啃教材的職場人真正持續下去，Fawnfell 在純離線商務英語 RPG《
+Executive Reborn
+》（共 58 集、1,397 條核心片語、11,250 條 AAC 語音）中徹底移除手動 4 顆自評按鈕，改以
+作答對錯搭配近 200 題個人反應中位數
+自動驅動 
+FSRS-6 演算法
+。
+
+傳統 4 顆手動評分按鈕 vs. Executive Reborn 反應速度 FSRS-6 比較圖：消除操作疲勞並與同集聽力閱讀連動。
+
+為什麼每次都要自己選「忘記 / 簡單」會讓人想放棄？
+
+傳統間隔重複軟體最消耗意志力的，往往不是記不住單字，而是每題都要強迫大腦回答「這題對我來說算 Hard 還是 Good？」。連續一百次自我評估會帶來嚴重的決策疲勞，只要加班兩天，就徹底不想再點開。
+
+我們把這四顆按鈕直接拿掉。你只需要像玩遊戲一樣直接選出意思；系統會在背景比較你的作答對錯與
+近 200 題個人反應時間中位數
+，自動判定 FSRS-6 的難度等級並排定下次複習日（目標記憶保留率 90%）。
+
+怎麼讓背過的單字不再「背完就忘」？
+
+多數 App 的單字卡、聽力和文章各玩各的，早上背的詞晚上根本遇不到。我們導入二語習得的
+窄化輸入（Narrow Listening & Reading）
+：每一集鎖定同一批 
+21–29 個目標詞
+。
+
+先由 FSRS-6 預熱詞義 → 幾分鐘後在同集商戰會議語音中聽見 → 再於同集核心郵件與工作檯文章裡帶著柔和高光拾取。在「兩天一集、每日約 21.6 分鐘」的虛擬學習者模擬中，每個詞除 
+11.9 次 FSRS 主動複習
+外，還會在語音與文本中自然偶遇 
+4.3 次（閱讀重溫兩遍達 6.6 次）
+（註：此為演算法模擬參數，非真人臨床或分數保證）。
+
+無須手動點擊難度按鈕，作答瞬間即自動計算反應速度並調整記憶間隔。
+
+每個單字都有獨立的遺忘曲線對照，能直觀看到每次複習後穩定度的提升。
+
+為了防止三分鐘熱度，我們刻意做對的 4 件事
+
+傳統背單字 App vs. Executive Reborn 防棄坑規格對照
+
+比較項目
+
+傳統背單字 / 題庫 App
+
+Executive Reborn 設計
+
+評分負擔
+每張卡都必須手動點選 4 顆評分按鈕
+零手動評分按鈕，依近 200 題個人中位數速度自動判定 FSRS-6
+
+漏學懲罰
+斷簽一天連續天數清零，積壓題數暴增
+零斷簽歸零懲罰；模擬 30% 缺席或暫停 14 天後仍能平順收斂
+
+劇情動機
+彼此毫無關聯的孤立單句
+42 集辦公室主線 + 每 3 集解鎖 16 集失憶懸疑番外（秋田犬 Marshal 陪伴）
+
+退訂權益
+停止訂閱即鎖死過去累積的複習佇列
+已學單字 FSRS 複習佇列永久免費保留；亦提供 NT$590 永久買斷
+
+常見問題（演算法、斷簽與收費機制）
+
+拿掉 4 個自評按鈕後，FSRS-6 還會準嗎？
+
+會。系統結合答題對錯與你個人近 200 題反應中位數的比值，把「秒答」與「猶豫很久才答對」自動區分開來，持續逼近 90% 保留率。
+
+工作忙起來一兩週沒打開怎麼辦？
+
+App 沒有斷簽歸零懲罰，也不會用倒數警告催促你；我們在模擬器裡特別驗證過 30% 缺席與暫停 14 天後的複習平順收斂。
+
+有哪些方案？退訂後單字會不見嗎？
+
+前 3 集正篇與前 2 集番外免費試玩。付費提供月度訂閱 NT$160/月、標準永久買斷 NT$590 與豪華典藏版 NT$790，就算退訂月費，已學單字的 FSRS 複習依然永久免費。
+
+免安裝立即試讀第 1–3 集
+
+可直接於網頁試讀《Executive Reborn》第 1–3 集雙語對話、職場閱讀文件與 72 條高光連動單字。
+
+免費試讀 (第 1–3 集)
+
+查看 Executive Reborn 產品頁
+
+
 --- FILE: index.html (https://fawnfell.com/index.html) ---
 
 # Fawnfell — Calm, Durable Software & Story Worlds

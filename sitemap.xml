@@ -157,4 +157,76 @@
     <loc>https://fawnfell.com/products/executive-reborn/licenses/</loc>
     <lastmod>2026-11-25</lastmod>
   </url>
+  <url>
+    <loc>https://fawnfell.com/articles/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/articles/ja/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/articles/zh-tw/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/why-flashcard-apps-fail-latency-fsrs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/why-flashcard-apps-fail-latency-fsrs/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/articles/ja/akita-marshal-tail-and-valentine-chocolate/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/"/>
+  </url>
+  <url>
+    <loc>https://fawnfell.com/articles/zh-tw/akita-marshal-tail-and-valentine-chocolate/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fawnfell.com/articles/ja/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fawnfell.com/articles/zh-tw/akita-marshal-tail-and-valentine-chocolate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fawnfell.com/articles/akita-marshal-tail-and-valentine-chocolate/"/>
+  </url>
 </urlset>
