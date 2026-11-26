@@ -451,7 +451,7 @@ Executive Reborn の仕様
 
 物語と動機づけ
 前後のつながりがない単発例文が続く
-本編42話＋3話ごとに解禁される16話の記憶喪失サスペンス番外編（秋田犬Marshal同伴）
+本編42話＋3話ごとに解禁される16話の放課後サスペンス番外編（秋田犬Marshal同伴）
 
 課金・解約後の扱い
 月額解約で学習済み単語の復習までロックされることが多い
@@ -623,7 +623,7 @@ English
 秋田犬（Akita）夥伴 Marshal
 ，我順便在《
 Executive Reborn
-》（Fawnfell 開發）裡塞進了 42 集商戰主線、16 集失憶懸疑番外、1,397 條商務片語與反應速度 FSRS-6 引擎。這篇記錄幾個讓我又好氣又好笑的開發瞬間：832px 原圖把秋田犬尾巴切斷、連夜把情人節地毯上的毒巧克力修掉，以及昨天差點在官網上替自家秋田犬誤植成柴犬的烏龍。
+》（Fawnfell 開發）裡塞進了 42 集商戰主線、16 集下班後轉生懸疑番外、1,397 條商務片語與反應速度 FSRS-6 引擎。這篇記錄幾個讓我又好氣又好笑的開發瞬間：832px 原圖把秋田犬尾巴切斷、連夜把情人節地毯上的毒巧克力修掉，以及昨天差點在官網上替自家秋田犬誤植成柴犬的烏龍。
 
 事故一：832px 畫布右邊界，一刀切平了秋田犬的捲尾
 
@@ -859,7 +859,7 @@ Executive Reborn 設計
 
 劇情動機
 彼此毫無關聯的孤立單句
-42 集辦公室主線 + 每 3 集解鎖 16 集失憶懸疑番外（秋田犬 Marshal 陪伴）
+42 集辦公室主線 + 每 3 集解鎖 16 集下班後轉生懸疑番外（秋田犬 Marshal 陪伴）
 
 退訂權益
 停止訂閱即鎖死過去累積的複習佇列
@@ -973,7 +973,9 @@ English
 Fawnfell — 静かで長く使えるアプリと物語を
 
 Fawnfell（フォーンフェル）
-は、オフライン完結型の語学アプリ、物語体験のあるゲーム、そして開発者向けワークフローツールを制作する独立スタジオです。各プロダクトの詳細・料金・サポートはプロダクト一覧からお選びいただけます。
+は、オフライン完結型の語学アプリ、物語体験のある
+ゲーム
+、そして開発者向けワークフローツールを制作する独立スタジオです。各プロダクトの詳細・料金・サポートはプロダクト一覧からお選びいただけます。
 
 プロダクト一覧を見る
 
@@ -1082,8 +1084,9 @@ iOS · Offline Business English RPG + FSRS
 
 Executive Reborn — Learn Real Workplace English Through Story
 
+After a third rejection email and a late-night crash, you wake up in an unfamiliar room as a high-rise company director. 
 Executive Reborn
- is an offline-first business English learning app by Fawnfell. Built for busy professionals who dislike dry textbooks, it combines 58 interactive corporate story episodes, 1,397 workplace phrases, and an FSRS spaced-repetition engine with 11,250 AAC voice clips.
+ pairs daytime boardroom English survival with an after-hours mystery—58 interactive episodes, 1,397 workplace phrases, FSRS-6 spaced repetition, and 11,250 offline AAC voice clips.
 
 Read Free Episodes 1–3
 
@@ -1120,6 +1123,36 @@ TSL 1,250 & NGSL 2,809 decks with Japanese glosses
 
 08 · WORK Desk
 Listening nodes paired with 7 workplace document feeds
+
+Why Is It Called “Executive Reborn”? — Waking Up in a Director’s Life
+
+The last train is gone, three rejection emails sit in your phone, and you split half a rice ball with a stray dog on a street corner—right before a flash of headlights and short screeching brakes hit mute on the night. When you open your eyes, pine shadows sway across unfamiliar shoji screens, and you find yourself stepping into an executive suite as 
+Director Alex
+.
+
+“The last thing I remember is half a rice ball… Behind it, something missing from the frame: a flash of headlights from the side, and a brief screech of brakes. Like someone pressed mute on a television.”
+
+— Opening of After-Hours Prologue (SP00 · Half a Rice Ball) · 
+Read SP00–SP01 Free in Browser
+
+Prologue · SP00
+Waking Up From the Crash
+
+After a blinding crash, you wake up beside warm floorboards and a worn dog bed—suddenly thrust into someone else’s executive seat overnight.
+
+Daytime · 42 Episodes
+Bluffing Through Boardrooms in English
+
+To keep anyone from noticing you don’t belong in the chair, you have to cram M&A, audit, and leadership vocabulary before each meeting starts.
+
+After 7 p.m. · 16 Chapters
+Odd Clues in the Empty Tower
+
+Coffee with a pinch of salt that oddly fits your palate, a painting adjusted two fingers higher on “your” orders—whose life did you just wake up in?
+
+Read Prologue SP00–SP01 Free
+
+Try EP01–EP03 English Lessons
 
 How Executive Reborn Combines Listening, Reading & Memory
 
@@ -1293,16 +1326,11 @@ Most flashcard apps fail not from bad scheduling, but from emotional fatigue.
 Executive Reborn
  pairs daytime workplace English with a 16-chapter after-hours visual novel mystery, 79 study-unlocked Archive art cards (zero paid gacha), and a private Growth Log anchored in real vocabulary progress.
 
-“The last thing I remember is half a rice ball. The last train had already left. Three rejection emails sat in my phone… At the street corner, I broke a rice ball in half and handed it to a stray dog wearing an old tag with a date engraved on it. When I opened my eyes, pine shadows were swaying across paper screens over warm floorboards.”
-
-— Opening of After-Hours Prologue (SP00 · Half a Rice Ball) · 
-Read SP00–SP01 Opening Free
-
 After-Hours Story
 
 16-Chapter Mystery (SP00–SP15)
 
-Every 3 main business episodes unlock one night after 7:00 p.m. on the executive floor—connecting daytime boardroom survival with a forgotten past. SP00–SP02 are free.
+Every 3 main business episodes unlock one night after 7:00 p.m. on the executive floor—tracing unsettling clues about the life Alex woke up into. SP00–SP02 are free.
 
 Read SP00–SP01 Opening
 
@@ -1591,7 +1619,7 @@ Boring Isolated Drills
 
 Unconnected sentences with no plot or emotional reward to open the app tomorrow
 
-42 boardroom episodes + 16-chapter after-hours amnesia mystery unlocked every 3 lessons
+42 boardroom episodes + 16-chapter after-hours suspense mystery unlocked every 3 lessons
 
 Shallow Gamification
 
@@ -1610,6 +1638,10 @@ Frequently Asked Questions
 How does Executive Reborn prevent learner burnout and dropout?
 
 It removes five major drop-off causes: automatic reaction-time FSRS-6 eliminates self-rating fatigue, missed days carry zero streak-reset penalties, a 21.6 min/day workplace story loop pairs with commute audio, every 3 lessons unlock an after-hours visual novel chapter, and learned words stay permanently free to review.
+
+Why is it called Executive Reborn? (Story premise)
+
+After his third rejection email and a late-night crash, Alex wakes up in an unfamiliar room and finds himself stepping into the life of a high-rise company director. From Alex's perspective, it feels like being reborn into an executive's body: by day he crams business English so he won't get exposed in boardroom meetings, and after 7:00 p.m. he investigates odd clues about the life he woke up into.
 
 What is Executive Reborn by Fawnfell?
 
@@ -1673,8 +1705,9 @@ iOS · オフライン完結型ビジネス英語アプリ
 
 Executive Reborn — ドラマ×FSRSで続くビジネス英語
 
+就活全滅の夜、車に跳ねられて目を覚ますと、見知らぬ会社の役員になっていた——。
 Executive Reborn
-は、分厚い参考書が続かない社会人のために Fawnfell が開発したオフライン対応のビジネス英語RPG＋FSRS単語帳アプリです。本編42話＋番外編16話、1,397表現、11,250本の音声クリップを収録しています。
+は、突然放り込まれた役員会議を一夜漬けの英語で切り抜けながら真相を追う、オフライン対応のビジネス英語RPG＋FSRS単語帳アプリです（本編42話＋番外編16話、1,397表現、11,250音声）。
 
 第1〜3話を無料試読
 
@@ -1711,6 +1744,34 @@ Executive Reborn
 
 08 · WORK デスク
 リスニング進捗と7種のビジネス資料受信トレイ
+
+なぜ『Executive Reborn』なのか？ — 突然「役員」として目覚めた夜から始まる英語サバイバル
+
+3通目の不採用通知を受け取り、終電を逃した夜。街角の野良犬におにぎりを半分差し出した直後、横から差した一筋の光とブレーキ音で世界が暗転する。目を開けると、障子紙に松の影が揺れる見知らぬ部屋——そして気づけば、高層ビルの「ディレクター Alex」として役員席に座っていた。
+
+「最後に覚えているのは、半分のおにぎりのことだ。終電はとっくに行った。スマホには三通目の不採用通知……その後ろに、もうひとつ。絵の中にないものがある：横から差してきた一筋の光と、短いブレーキの音。誰かがテレビをミュートにしたみたいに。」
+
+— 番外編プロローグ『半分のおにぎり』(SP00) より · 
+SP00–SP01 の冒頭を今すぐ無料試読する
+
+Prologue · SP00
+「転生？」— 見知らぬ部屋で目覚める
+
+事故の直後、床暖房の効いた部屋と古い犬用ベッドの前で目を覚ました主人公。まるで誰かの人生に放り込まれたような一夜が幕を開けます。
+
+Daytime · 本編42話
+昼：一夜漬けの英語で取締役会を凌ぐ
+
+役員になりきって会議を乗り切るには、M&Aや監査のビジネス英語を覚えるしかない。「言葉が詰まれば正体がバレる」緊張感が学習をドライブします。
+
+After 7 p.m. · 番外編16話
+夜：空っぽのフロアで浮かぶ違和感
+
+「いつもの塩入りコーヒー」「指二本分下げさせたはずの絵画」——なぜか体に馴染む痕跡を辿り、自分が目覚めた人生の正体に迫ります。
+
+プロローグ（SP00–SP01）をブラウザで読む
+
+本編 第1〜3話の英語レッスンを試読
 
 暗記・リスニング・読解を「同じ1話」で連動させる理由（テスト問題集ではなく多角的な語彙定着）
 
@@ -1883,18 +1944,13 @@ Executive Reborn
 学習レコード
 で継続を支えます。
 
-「最後に覚えているのは、半分のおにぎりのことだ。終電はとっくに行った。スマホには三通目の不採用通知……街角でおにぎりを半分に割り、日付が刻まれた古い札をつけた野良犬に差し出した。目を開けると、障子紙に中庭の松の影が揺れていた。」
-
-— 番外編プロローグ『半分のおにぎり』(SP00) 冒頭より · 
-SP00–SP01 冒頭を無料試読する
-
 放課後ストーリー
 
-記憶喪失ミステリー全16話
+夜7時以降の転生ミステリー全16話
 
-本編3話ごとに夜7時以降の物語が1話解放。昼は会議英語で乗り切り、夜は失った記憶の断片を拾い集めます（SP00〜SP02無料）。
+本編3話ごとに夜7時以降の物語が1話解放。昼は会議英語で乗り切り、夜はオフィスや和室に残された違和感の手がかりを辿ります（SP00〜SP02無料）。
 
-番外編の冒頭を読む
+SP00–SP01 の冒頭を読む
 
 課金ガチャなし
 
@@ -2151,7 +2207,7 @@ Executive Reborn の挫折防止設計
 
 脈絡のない例文ばかりで、翌日またアプリを開く感情的な理由がない
 
-本編42話の会議英語×3話ごとに解禁される全16話の記憶喪失ミステリー番外編
+本編42話の会議英語×3話ごとに解禁される全16話の転生ミステリー番外編
 
 課金ガチャ・比較疲れ
 
@@ -2170,6 +2226,10 @@ Executive Reborn の挫折防止設計
 なぜ他の英語アプリより挫折しにくいのですか？（三日坊主防止の仕組み）
 
 ①自己評価不要の反応時間FSRS-6、②休んでも罰則なしの柔軟なスケジュール、③1日約21.6分の実務ループ＋通勤音声、④3話ごとに進む放課後ミステリー、⑤無課金79枚図鑑＋単語別忘却曲線・学習レコード帳、⑥解約後も既習単語がロックされない安心設計で継続を支えます。
+
+なぜタイトルが『Executive Reborn』なのですか？（ストーリー設定）
+
+就職全滅の夜、野良犬に半分のおにぎりを差し出した直後に車に跳ねられ、目を覚ますと見知らぬ会社の「ディレクター Alex」になっていた——まるで役員の人生に「Reborn（転生・再誕）」したような導入から物語が始まります。昼は一夜漬けのビジネス英語で役員会議を切り抜け、夜7時以降は身の回りの奇妙な一致を手がかりに、自分が目覚めた人生の正体を追っていきます。
 
 Executive Reborn とはどんなアプリですか？
 
@@ -2252,21 +2312,81 @@ Step 3
 
 エピソード・料金プランを選ぶ
 
+序章・転生の夜 (SP00–SP01)
+
 EP01 · 合併後の取締役会
 
 EP02 · 全員大会でのマイクトラブル
 
 EP03 · 経費精算の罠
 
-番外編・放課後 (SP00–SP01)
-
 料金プラン
+
+全16話 放課後ミステリー · 『Executive Reborn』の始まり（SP00–SP02 無料）
+
+序章・番外編冒頭試読（なぜ「Executive Reborn」なのか）
+
+本編3話を進めるごとに1話解放される全16話の番外編ビジュアルノベル。事故の夜、見知らぬ和室で目を覚まして「役員 Alex」になった主人公が、昼は一夜漬けのビジネス英語で会議を切り抜け、夜7時以降は身の回りの違和感から自分が目覚めた人生の正体を追う二層構成です。
+
+SP00 · 半分のおにぎり（プロローグ冒頭）
+
+最後に覚えているのは、半分のおにぎりのことだ。
+
+目を開けると、障子紙に中庭の松の影が揺れていた。
+
+床暖房で、板の間がほんのり熱い。部屋の隅には大きな古い犬用ベッドがあって、水の器は満たされている。
+
+僕は横になったまま、動けなかった。
+
+終電はとっくに行った。スマホには三通目の不採用通知：「ご応募ありがとうございました。」
+
+街角で、おにぎりを半分に割って、汚れきって毛色もわからない犬に差し出した。首には古びた札があって、日付が刻まれていた。
+
+——それが、僕の「昨日」のすべてだ。
+
+その後ろに、もうひとつ。絵の中にないものがある：横から差してきた一筋の光と、短いブレーキの音。誰かがテレビをミュートにしたみたいに。
+
+SP01 · 最初の夜・俯瞰（第一夜冒頭）
+
+役員フロアのバーカウンターで、バリスタが挽きたてのコーヒーを差し出した。磁器のカップの縁が熱い。
+
+バリスタ:
+ いつものでよろしいですか、ディレクター？
+
+Alex:
+ ……いつもの。
+
+三日ぶりに、初めてコーヒーの味がわかった。ミルク多めで、ほんの少し塩が入っている。誰が考えた飲み方か知らないが、不思議と合う。
+
+夜七時、フロアの全員が帰った。廊下の突き当たりに、ミニマルなギャラリーがある。打ちっぱなしのコンクリートの壁、長い大理石のベンチ、その上には、赤・黄・青の四角。
+
+警備員:
+ ディレクター。前回、この絵は指二本分低いとおっしゃいました。調整しておきました。
+
+Alex:
+ 僕が、言いました？
+
+Archive · 79 Cards
+79枚の図鑑カード（課金ガチャなし・単語学習のみで解放）
+
+SSR原画を含む全79枚のアーカイブカードは、課金や確率ガチャでは手に入りません。日々の単語習得とストーリー進行によってのみ解放される、学習努力の純粋な証です。
+
+Growth Log
+リアルな成長曲線＆学習レコード
+
+初習得100語／500語の達成日タイムスタンプ、累計習得曲線、連続学習日数に加え、解放済みカードを最大4枚まで添えて日々の気づきを端末内に記録できます（ランキング競争なし）。
+
+Executive Reborn 紹介ページへ
 
 EP01 · 無料体験ユニット
 
 EP01 · 合併後の取締役会
 
 初めて役員会議室に座る主人公は、一夜漬けのM&A用語をきちんと説明し、CEOハリントンとCFOビクトリアの矢継ぎ早の質問の中で、初めて本物のコミュニケーションを成し遂げなければならない。
+
+なぜ主人公は一夜漬けの英語で役員会議に挑むのか？
+ 就活全滅の夜、車に跳ねられて目を覚ますと「ディレクター Alex」になっていた——。
+先に序章『SP00 · 半分のおにぎり』を読む →
 
 同課・横断ハイライト表示中（EP01 の目標 22 語をスクリプト・読解内で計 64 回ピックアップ）：
 淡いアンバー色のハイライトが、Section 1 の音声で聴き Section 2・3 の実務文書で再び出会う本話の目標語（活用形含む）です。
@@ -3081,62 +3201,6 @@ adverb
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
 
-全16話 放課後ミステリー · SP00–SP02 無料開放
-
-番外編（仕事終わりの時間）冒頭試読＆継続の工夫
-
-本編3話を進めるごとに1話解放される全16話の番外編ビジュアルノベル。昼は一夜漬けのビジネス英語で役員会議を切り抜け、夜7時以降は記憶喪失の謎を追う二層構成です。
-
-SP00 · 半分のおにぎり（プロローグ冒頭）
-
-最後に覚えているのは、半分のおにぎりのことだ。
-
-目を開けると、障子紙に中庭の松の影が揺れていた。
-
-床暖房で、板の間がほんのり熱い。部屋の隅には大きな古い犬用ベッドがあって、水の器は満たされている。
-
-僕は横になったまま、動けなかった。
-
-終電はとっくに行った。スマホには三通目の不採用通知：「ご応募ありがとうございました。」
-
-街角で、おにぎりを半分に割って、汚れきって毛色もわからない犬に差し出した。首には古びた札があって、日付が刻まれていた。
-
-——それが、僕の「昨日」のすべてだ。
-
-その後ろに、もうひとつ。絵の中にないものがある：横から差してきた一筋の光と、短いブレーキの音。誰かがテレビをミュートにしたみたいに。
-
-SP01 · 最初の夜・俯瞰（第一夜冒頭）
-
-役員フロアのバーカウンターで、バリスタが挽きたてのコーヒーを差し出した。磁器のカップの縁が熱い。
-
-バリスタ:
- いつものでよろしいですか、ディレクター？
-
-Alex:
- ……いつもの。
-
-三日ぶりに、初めてコーヒーの味がわかった。ミルク多めで、ほんの少し塩が入っている。誰が考えた飲み方か知らないが、不思議と合う。
-
-夜七時、フロアの全員が帰った。廊下の突き当たりに、ミニマルなギャラリーがある。打ちっぱなしのコンクリートの壁、長い大理石のベンチ、その上には、赤・黄・青の四角。
-
-警備員:
- ディレクター。前回、この絵は指二本分低いとおっしゃいました。調整しておきました。
-
-Alex:
- 僕が、言いました？
-
-Archive · 79 Cards
-79枚の図鑑カード（課金ガチャなし・単語学習のみで解放）
-
-SSR原画を含む全79枚のアーカイブカードは、課金や確率ガチャでは手に入りません。日々の単語習得とストーリー進行によってのみ解放される、学習努力の純粋な証です。
-
-Growth Log
-リアルな成長曲線＆学習レコード
-
-初習得100語／500語の達成日タイムスタンプ、累計習得曲線、連続学習日数に加え、解放済みカードを最大4枚まで添えて日々の気づきを端末内に記録できます（ランキング競争なし）。
-
-Executive Reborn 紹介ページへ
-
 料金プラン
 
 Plans & Pricing — 料金プラン一覧
@@ -3194,7 +3258,7 @@ Executive Reborn 詳細ページを見る
 
 # Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
 
-Executive Reborn — 비즈니스 영어 스토리 RPG | Fawnfell
+Executive Reborn — 비즈니스 영어 스토리 RPG + FSRS | Fawnfell
 
 본문으로 건너뛰기
 
@@ -3215,12 +3279,13 @@ English
 
 繁體中文
 
-iOS · 오프라인 비즈니스 영어 스토리 RPG
+iOS · 오프라인 비즈니스 영어 스토리 RPG + FSRS
 
 Executive Reborn — 스토리에 몰입하며 익히는 실전 비즈니스 영어
 
+취업 불합격과 사고의 밤, 눈을 떠 보니 낯선 회사의 임원이 되어 있었다——. 
 Executive Reborn
-은 본편 42화 + 번외편 16화(총 58화)의 직장 드라마와 FSRS 간격 반복 학습, 1,397개 비즈니스 표현 및 11,250개 오프라인 음성을 결합한 비즈니스 영어 학습 앱입니다.
+은 갑작스레 떨어진 임원 회의를 벼락치기 영어로 버텨 내며 밤마다 진실을 쫓는 오프라인 비즈니스 영어 RPG + FSRS 앱입니다(본편 42화 + 번외 16화, 1,397표현, 11,250음성).
 
 무료 미리보기 (1–3화)
 
@@ -3230,29 +3295,239 @@ Executive Reborn
 
 개인정보처리방침
 
+앱 화면 미리보기 (9:16 모바일 뷰 · 총 8개 화면)
+
+1080×1920 실제 구동 화면(일본어 UI 빌드)입니다. 본편 42화 회의 스크립트, 사내 문서 리딩, 반응 속도 기반 FSRS 단어 퀴즈, 출퇴근 오디오 플레이어까지 한눈에 확인하실 수 있습니다. 모바일에서는 좌우로 스와이프해 보세요.
+
+01 · HOME
+계절 창밖 풍경과 아키타견 Marshal, 오늘의 과제
+
+02 · 본편 42화 EP01
+이사회 대역 스크립트, 원어민 음성 & 퀴즈
+
+03 · Reading 독해
+사내 이메일 등 150편 문서 + 핵심 어휘 하이라이트
+
+04 · FSRS 자동 판정
+버튼 피로 없이 정오답과 반응 속도로 복습 간격 산출
+
+05 · 출퇴근 리스닝
+42화 오프라인 트랙 리스트와 1화 반복/연속 재생
+
+06 · WORDS 어휘장
+모국어 해설 + TSL 1,250단어 · NGSL 2,809단어
+
+07 · 번외편 AVG
+캐릭터 스탠딩과 배경으로 이어지는 16일 밤의 서사
+
+08 · WORK 데스크
+리스닝 진도와 7가지 비즈니스 문서 수신함
+
+왜 제목이 ‘Executive Reborn’인가요? — 낯선 임원실에서 눈뜬 밤에서 시작되는 영어 서바이벌
+
+세 번째 불합격 통지를 받고 막차를 놓친 밤, 길모퉁이 유기견에게 주먹밥 반쪽을 내민 직후 덮쳐 온 헤드라이트와 짧은 브레이크 소리. 눈을 떠 보니 창호지에 소나무 그림자가 흔들리는 낯선 방이었고, 정신을 차리자 고층 빌딩의 ‘디렉터 Alex’ 자리에 앉아 있었습니다.
+
+“내가 기억하는 마지막 일은, 주먹밥 반쪽이다. 막차는 이미 끊겼고 휴대폰에는 세 번째 불합격 통지…… 그 뒤에 하나가 더 있다. 그림 속에 없는 것: 옆에서 비쳐 든 한 줄기 빛과, 짧은 브레이크 소리. 누군가 텔레비전을 음소거한 것처럼.”
+
+— 번외편 프롤로그 〈반쪽짜리 주먹밥〉(SP00) 오프닝 · 
+SP00–SP01 오프닝 지금 무료로 읽기
+
+Prologue · SP00
+“환생?” — 낯선 방에서 눈뜨다
+
+사고 직후, 따뜻한 마룻바닥과 낡은 개 침대 앞에서 눈을 뜬 주인공. 마치 다른 사람의 인생 속으로 불시착한 듯한 기묘한 밤이 열립니다.
+
+Daytime · 본편 42화
+낮: 벼락치기 영어로 이사회를 버티다
+
+임원 행세를 들키지 않으려면 M&A와 감사 용어를 당장 외울 수밖에 없습니다. ‘말이 막히면 정체가 들통난다’는 긴장감이 암기를 이끕니다.
+
+After 7 p.m. · 번외 16화
+밤: 텅 빈 층에 남는 기묘한 위화감
+
+“늘 드시던 소금 넣은 커피”, “손가락 두 마디 높이셨던 그림” — 이상하리만치 몸에 배어 있는 흔적들을 쫓아, 자신이 깨어난 삶의 정체에 다가갑니다.
+
+프롤로그(SP00–SP01) 브라우저에서 읽기
+
+본편 1–3화 영어 레슨 미리보기
+
+단어·듣기·읽기를 ‘같은 에피소드’로 묶어 반복하는 이유 (모의고사 앱이 아닌 다각적 어휘 습득)
+
+시중의 많은 영어 앱은 단어장·리스닝·독해가 서로 다른 예문을 다루지만, 
+Executive Reborn
+은 처음부터 
+어휘의 다각적 체화(Narrow Listening & Reading)
+를 위해 설계되었습니다. 매 에피소드마다 
+동일한 21–29개 TSL/NGSL 핵심 어휘
+를 ① 반응 속도 기반 FSRS-6 예습 → ② 같은 화의 회의 음성 청취 → ③ 같은 화의 핵심 사내 문서 및 워크 데스크 연계 지문(하이라이트 제공)에서 잇달아 다시 만나도록 구성했습니다.
+
+자기 평가 버튼이 없는 반응 속도 FSRS-6란?
+
+Executive Reborn은 공식 
+FSRS-6
+(목표 기억 보존율 
+90%
+, 초기 학습 단계 10분 → 1일)를 탑재했습니다. 매 카드마다 ‘다시 / 어려움 / 보통 / 쉬움’을 직접 누르게 하는 대신, 
+정오답
+과 
+본인 최근 정답 반응 시간(최대 200문항·15초 미만 이동 중앙값, 첫 20문항 기준 2,000ms)
+ 비율로 다음 복습 간격을 자동 계산합니다.
+
+0.6× 이하
+
+Easy 자동 판정 (첫 학습은 Good 상한)
+
+본인 평균 반응 속도의 0.6배 이내로 즉답했을 때만 Easy 처리합니다. 단, 초견 단어의 우연한 빠른 터치를 막기 위해 첫날은 Good까지만 부여합니다.
+
+0.6× ~ 1.5×
+
+Good / Hard 자동 분배
+
+개인 중앙값 속도를 기준으로 삼기 때문에 읽기 속도나 터치 습관 차이를 상쇄하며, 망설이다 맞힌 정답(1.5배 초과)은 자동으로 Hard로 분류됩니다.
+
+오답 시
+
+Again (10분 후 재출제)
+
+오답은 항상 Again으로 처리되어 짧은 재학습 단계로 들어가며, 단어별 독립 기억 곡선에 따라 난이도와 안정도가 재조정됩니다.
+
+하루 몇 분으로 목표 단어를 몇 번이나 만나게 되나요? (가상 학습자 시뮬레이션)
+
+아래 표는 전체 42화·사내 문서 150편·1,250개 목표 어휘(Browne & Culligan의 
+TSL
+ 기반)를 FSRS-6 가상 학습자 모델로 검증한 
+시뮬레이션 수치
+입니다(실제 사용자 임상 시험이 아니며 TOEIC 점수 상승이나 예측을 보장하지 않습니다).
+
+가상 학습자 시뮬레이션 기반 학습 속도별 벤치마크 (실측 데이터가 아님)
+
+속도 모델 (가상 학습자)
+
+42화 완주 일수
+
+일평균 시간 (어휘+독해)
+
+FSRS 복습 횟수/단어
+
+극중·문서 내 재조우/단어
+
+완료 +90일 안정 어휘율 (안정도 ≥ 14일)
+
+A1 · 매일 1화
+
+42일
+
+35.5분/일
+
+11.0회 (중앙값 8)
+
+3.3회 (중앙값 2)
+
+96% (1,205 / 1,250)
+
+A2 · 2일 1화 (권장)
+
+84일
+
+21.6분/일
+
+11.9회 (중앙값 8)
+
+4.3회 (기사 2회독 시 6.6회)
+
+97% (1,216 / 1,250)
+
+A3 · 3일 1화
+
+126일
+
+15.5분/일
+
+12.1회 (중앙값 8)
+
+5.3회 (중앙값 4)
+
+96% (1,202 / 1,250)
+
+C1 / C2 · 30% 결석 · 14일 휴식
+
+119일 / 98일
+
+20.7–21.9분/일
+
+달력 무관 진도 유지
+
+문맥 내 재조우 횟수 유지
+
+완주 후 복습 지속 전제
+
+시뮬레이션 이중 노출 지표 해설:
+ 위 표의 ‘극중·문서 내 재조우/단어(3.3~6.6회)’는 동일 에피소드의 회의 오디오와 워크 데스크 연계 문서 속에서 문맥으로 자연스럽게 다시 발견하는 횟수로, 좌측 열의 FSRS 단어 테스트 복습(약 11~12회) 위에 더해지는 이중 정착 구조입니다.
+
+“이 페이지의 학습 시간, 복습 횟수, 노출 빈도는 모두 FSRS-6 가상 학습자 모델 시뮬레이션 수치이며 실제 학습 효과나 TOEIC 점수 상승을 보증하지 않습니다. 단, 한 번 학습한 단어의 FSRS 복습 큐는 구독 해지 후에도 영구 무료로 열려 있습니다.”
+
+— Fawnfell 공개 정보 정책 · 출처: 
+TSL / NGSL 어휘 라이선스
+ & 
+Open Spaced Repetition (FSRS)
+
+TOEIC® 집중 영역: Part 3 대화 + Part 7 비즈니스 장문 독해 특화
+
+Executive Reborn은 ‘전 파트 문제집’이 아니라, 실무에서 가장 체감 난도가 높은 
+긴 대화 리스닝(TOEIC® Part 3 형식: 42화 중 40화 / Part 4 형식: 2화)
+과 
+비즈니스 문서 독해(Part 7 형식: 본편 42편 + 워크 데스크 150편, 이메일·공지·메모·보고서·광고 등 8종)
+에 집중하도록 설계되었습니다(개별 시험 점수 예측 및 보장은 하지 않습니다). 
+Part 1(사진 묘사)·Part 2(단문 응답)·Part 5/6(단독 문법 빈칸)은 의도적으로 제외
+하고 회의 음성과 실무 장문을 맥락으로 돌파하는 데 전념합니다.
+
+리스닝 집중
+Part 3 (40화) + Part 4 (2화)
+
+회의·협상·안내 방송 형식의 연속 발화를 바탕으로, 자막 대본 이해와 음성 선행 리스닝 양쪽 모드로 긴 대화 적응력을 기릅니다.
+
+리딩 집중
+Part 7 (42 + 150문서 · 8장르)
+
+사내 메일, 규정 공지, 감사 메모, 시장 리포트 등 실무 문서 포맷으로 장문 요지 파악과 핵심 어휘 즉응력을 훈련합니다.
+
+수록 범위 안내
+Part 1·2·5·6 단독 드릴 비수록
+
+기초 문법 해설이나 단문 빈칸 문제집을 찾는 분께는 맞지 않을 수 있습니다. 스토리 × 실무 장문에 집중해 미스매치를 줄였습니다.
+
+TSL 1.2 및 NGSL 1.2 학술 코퍼스 기반
+
+어휘 선정은 응용언어학자 Dr. Charles Browne·Dr. Brent Culligan·Joseph Phillips가 공개한 학술 코퍼스 
+NGSL 1.2
+(일반 영문 텍스트 약 92%를 커버하는 기초 2,809어)와 
+TSL 1.2
+(NGSL과 결합 시 TOEIC® 텍스트 약 98.5~99%를 커버한다고 원저자 사이트에 소개된 비즈니스 어휘 목록·본 앱에서는 1,250개 핵심 목표로 재구성)를 바탕으로 합니다. 어휘표 원문은 
+CC BY-SA 4.0 라이선스 페이지
+에서 내려받을 수 있으며, 해설·42화 대본·150편 문서·음성은 Fawnfell의 오리지널 제작물입니다.
+
+※ 
+독립성 고지
+: TOEIC®은 ETS(Educational Testing Service)의 등록 상표입니다. Executive Reborn 및 Fawnfell은 ETS와 제휴하거나 ETS의 후원·인증을 받지 않은 독립 앱입니다.
+
 작심삼일을 막는 3가지 설계: 퇴근 후 번외편 · 무과금 도감 · 실제 학습 기록
 
 Executive Reborn
 은 낮의 치열한 비즈니스 영어 3화를 마칠 때마다 밤의 이야기를 여는 
-16부작 퇴근 후 미스터리
+16부작 퇴근 후 환생 미스터리
 , 과금 뽑기 없이 단어를 외워야만 해금되는 
 79종 도감 카드
 , 그리고 실제 성장을 기록하는 
 학습 저널
 을 함께 담았습니다.
 
-“내가 기억하는 마지막 일은, 주먹밥 반쪽이다. 막차는 이미 끊겼고 휴대폰에는 세 번째 불합격 통지… 길모퉁이에서 주먹밥을 반으로 쪼개 날짜가 새겨진 낡은 인식표를 단 개에게 내밀었다. 눈을 뜨자 창호지 위로 소나무 그림자가 흔들리고 있었다.”
-
-— 번외편 프롤로그 〈반쪽짜리 주먹밥〉(SP00) 오프닝 · 
-SP00–SP01 오프닝 무료 읽기
-
 퇴근 후 스토리
 
-기억상실 미스터리 16화
+밤 7시 이후의 환생 미스터리 16화
 
-본편 3화마다 저녁 7시 이후의 비밀 이야기가 1편씩 열립니다. 낮에는 회의 영어로 버티고, 밤에는 잊힌 과거를 추적합니다(SP00–SP02 무료).
+본편 3화마다 저녁 7시 이후의 비밀 이야기가 1편씩 열립니다. 낮에는 회의 영어로 버티고, 밤에는 오피스와 낯선 방에 남은 기묘한 단서들을 추적합니다(SP00–SP02 무료).
 
-오프닝 미리보기
+SP00–SP01 오프닝 읽기
 
 유료 뽑기 제로
 
@@ -3260,11 +3535,15 @@ SP00–SP01 오프닝 무료 읽기
 
 SSR 일러스트를 포함한 79장의 아카이브 카드는 현금 판매나 확률 뽑기가 없습니다. 오직 단어 암기와 챕터 클리어로만 수집할 수 있습니다.
 
+플랜별 규칙 보기
+
 실제 성장 기록
 
 성장 곡선 & 개인 학습 저널
 
 첫 100·500단어 달성 시점과 누적 성장 곡선을 기록하고, 해금한 카드(최대 4장)를 붙여 나만의 회고 기록을 기기에 로컬 저장합니다.
+
+100% 로컬 저장
 
 기억 곡선 · 학습 기록 실제 화면 (9:16 모바일)
 
@@ -3279,23 +3558,6 @@ SSR 일러스트를 포함한 79장의 아카이브 카드는 현금 판매나 �
 
 피드형 학습 저널
 학습으로 해금한 도감 카드를 붙여 나만의 기록 보관
-
-단어·듣기·읽기를 ‘같은 에피소드’로 묶어 반복하는 이유 (모의고사 앱이 아닌 다각적 어휘 습득)
-
-시중의 많은 영어 앱은 단어장·리스닝·독해가 서로 다른 예문을 다루지만, 
-Executive Reborn
-은 처음부터 
-어휘의 다각적 체화(Narrow Listening & Reading)
-를 위해 설계되었습니다. 매 에피소드마다 
-동일한 21–29개 TSL/NGSL 핵심 어휘
-를 ① 반응 속도 기반 FSRS-6 예습 → ② 같은 화의 회의 음성 청취 → ③ 같은 화의 핵심 사내 문서 및 워크 데스크 연계 지문(하이라이트 제공)에서 잇달아 다시 만나도록 구성했습니다.
-
-시뮬레이션 이중 노출 지표:
- 권장 속도(2일 1화·하루 약 21.6분, 가상 학습자 모델 기준)에서 단어 1개당 평균 
-11.9회의 FSRS 능동 복습
-과 별도로, 동일 회차의 오디오·사내 문서 문맥 속에서 평균 
-4.3회(2회독 시 6.6회)
- 자연스럽게 재조우합니다(실제 임상 수치가 아닌 시뮬레이션 기준).
 
 요금제 비교
 
@@ -3315,7 +3577,7 @@ Executive Reborn 플랜 안내
 
 $0
 
-본편 1–3화 + 번외편 1–2화 + 학습한 단어 FSRS 복습 영구 무료
+본편 1–3화 + 번외편 1–2화 + 학습한 단어 FSRS 복습 영구 무료 + 계절·기념일 창밖 테마 자동 전환(12종)
 
 라이트 월간 구독
 
@@ -3323,7 +3585,7 @@ $0
 
 $4.99 / 월
 
-전체 58화 잠금 해제 + 계절·기념일 창밖 테마 자동 전환
+전체 58화 잠금 해제 + 계절·기념일 창밖 테마 자동 전환(12종)
 
 스탠다드 일시불
 
@@ -3331,7 +3593,7 @@ $4.99 / 월
 
 $17.99
 
-1회 결제로 전체 58화 및 향후 무료 업데이트 영구 소장
+1회 결제로 전체 58화 및 향후 무료 업데이트 영구 소장 + 계절·기념일 창밖 테마 자동 전환(12종)
 
 디럭스 에디션
 
@@ -3339,13 +3601,164 @@ $17.99
 
 $24.99
 
-스탠다드 전체 + 타임 옷장(의상 11종·풍경 13종 상시 고정) + 대체 앱 아이콘
+스탠다드 전체 + 타임 옷장(의상 11종·풍경 13종 상시 고정) + 한정 ‘태풍 뒤 쌍무지개’ & 헤드폰 의상 2종 + 대체 아이콘 2종(차액 업그레이드 지원)
+
+디럭스 전용 혜택 vs. 일반 플랜에서도 자동 등장하는 계절·기념일 테마 (13종 풍경 · 11종 의상)
+
+모든 사용자 공통(무료 체험·월간·스탠다드 포함):
+ 기기 날짜가 해당 기간에 닿으면 
+사계절 4종 + 기념일 8종(총 12종)의 창밖 풍경과 연동 의상 9종
+이 HOME 화면에 자동 등장합니다. 또한 
+79장의 도감 카드(SSR 원화 포함)도 과금으로는 해금되지 않으며, 모든 플랜에서 오직 단어 학습 성과로만 획득
+할 수 있습니다.
+
+디럭스 에디션(₩36,000 / 스탠다드에서 차액 업그레이드 가능) 전용 혜택:
+ ① ‘타임 옷장’으로 12종의 계절·기념일 배경과 의상을 날짜와 무관하게 1년 내내 고정 가능, ② 달력에 자동 출현하지 않는 디럭스 전용 아이템: 창밖 풍경 
+‘특전 · 태풍 지나간 뒤 쌍무지개’
+(1종), 헤드폰 의상 
+‘한정 · 헤드폰’ / ‘한정 · 넥밴드’
+(2종), 그리고 
+대체 앱 아이콘 2종
+(기본 포함 총 3종).
+
+사계절 예시 · 봄 벚꽃 창가
+봄(3~5월)에 모든 사용자에게 자동 표시
+
+기념일 예시 · 크리스마스
+매년 12월 20~25일 자동 등장(그 외 7개 기념일은 당일 서프라이즈)
+
+디럭스 한정 · 쌍무지개 & 헤드폰
+달력 미출현 전용 배경 & 의상
+
+홈 화면 앱 아이콘 3종 (디럭스 에디션에서 대체 아이콘 2종 추가 해금)
+
+기본 아이콘 (전체 플랜)
+
+디럭스 · 헤드폰 에디션
+
+디럭스 · 홀리데이 에디션
+
+전체 13종 창밖 풍경 · 11종 Marshal 의상 및 자동 출현 달력 보기
+
+전체 13종 창밖 풍경 · 11종 Marshal 의상 및 자동 출현 기간 목록
+
+창밖 풍경 (총 13종)
+
+연동 Marshal 의상 (총 11종)
+
+전체 사용자 자동 표시 기간
+
+디럭스 에디션 혜택
+
+봄 · 벚꽃 창가
+
+봄 · 벚꽃 카디건
+
+3월~5월
+
+언제든 고정 가능
+
+여름 · 불꽃놀이
+
+여름 · 축제 유카타
+
+6월~8월
+
+언제든 고정 가능
+
+가을 · 은행나무 길
+
+가을 · 트렌치코트
+
+9월~11월
+
+언제든 고정 가능
+
+겨울 · 설경
+
+겨울 · 스키 고글
+
+12월~2월
+
+언제든 고정 가능
+
+발렌타인 · 장미빛 황혼
+
+한정 · 슈트 재킷
+
+매년 2월 13~14일
+
+언제든 고정 가능
+
+장마철 · 수국 창가
+
+한정 · 레인코트
+
+매년 6월 10~18일
+
+언제든 고정 가능
+
+칠석 · 은하수와 대나무
+
+여름 · 축제 유카타
+
+매년 7월 5~7일
+
+언제든 고정 가능
+
+한가위 · 보름달
+
+가을 · 트렌치코트
+
+음력 8월 15일 전후 3일 (2026~2035년 내장)
+
+언제든 고정 가능
+
+할로윈 · 호박 등불
+
+할로윈 · 망토
+
+매년 10월 24~31일
+
+언제든 고정 가능
+
+크리스마스 · 트리
+
+크리스마스 · 레드 니트
+
+매년 12월 20~25일
+
+언제든 고정 가능
+
+섣달그믐 · 새해 전야 불꽃
+
+한정 · 슈트 재킷
+
+매년 12월 31일
+
+언제든 고정 가능
+
+설날 · 가도마쓰
+
+설날 · 하오리
+
+매년 1월 1~5일
+
+언제든 고정 가능
+
+특전 · 태풍 뒤 쌍무지개
+
+한정 · 헤드폰 / 넥밴드 (+ 대체 아이콘 2종)
+
+달력 비출현 (디럭스 전용)
+
+디럭스 전용 (수동 선택·고정)
 
 영어 단어 앱의 ‘작심삼일’과 중도 포기를 어떻게 막아주나요?
 
 대부분의 직장인이 3주 안에 영어 앱을 그만두는 이유는 매 카드마다 직접 난이도를 눌러야 하는 피로감, 하루만 빠져도 끊기는 스트릭 죄책감, 맥락 없는 예문의 지루함 때문입니다. 
 Executive Reborn
-은 반응 속도 기반 FSRS-6 자동 채점, 페널티 없는 휴식, 하루 21.6분 오피스 스토리 루프, 3화마다 열리는 퇴근 후 미스터리, 가챠 없는 수집 기록으로 꾸준한 학습을 돕습니다.
+은 반응 속도 기반 FSRS-6 자동 채점, 페널티 없는 휴식, 하루 21.6분 오피스 스토리 루프, 3화마다 열리는 퇴근 후 환생 미스터리, 가챠 없는 수집 기록으로 꾸준한 학습을 돕습니다.
 
 학습 중도 포기 원인 vs. Executive Reborn의 지속 설계
 
@@ -3371,7 +3784,7 @@ Executive Reborn의 작심삼일 방지 설계
 
 서로 연결되지 않는 단편 예문으로 내일 앱을 다시 켤 서사적 동기가 없음
 
-본편 42화 오피스 드라마 + 3화 학습마다 해금되는 16화 퇴근 후 기억상실 서스펜스 번외편
+본편 42화 오피스 드라마 + 3화 학습마다 해금되는 16화 퇴근 후 환생 서스펜스 번외편
 
 과금·가챠 중심 게임화
 
@@ -3389,19 +3802,39 @@ Executive Reborn의 작심삼일 방지 설계
 
 영어 단어 앱을 3주 넘게 꾸준히 쓰지 못하고 포기하게 되는데, Executive Reborn은 작심삼일을 어떻게 막아주나요?
 
-반응 속도 기반 FSRS-6 자동 채점으로 버튼 피로를 없애고, 연속 기록 초기화 페널티 없이 바쁜 날 쉴 수 있으며, 하루 21.6분 오피스 스토리 루프·3화마다 열리는 퇴근 후 번외편·구독 만료 후에도 남는 영구 복습 대기열로 중도 이탈을 막습니다.
+반응 속도 기반 FSRS-6 자동 채점으로 버튼 피로를 없애고, 연속 기록 초기화 페널티 없이 바쁜 날 쉴 수 있으며, 하루 21.6분 오피스 스토리 루프·3화마다 열리는 퇴근 후 미스터리·가챠 없는 79종 도감·구독 만료 후에도 남는 영구 복습 대기열로 중도 이탈을 막습니다.
+
+왜 제목이 ‘Executive Reborn’인가요? (스토리 설정)
+
+세 번째 불합격 통지와 차 사고 직후 낯선 방에서 눈을 떠 보니 초고층 회사의 ‘디렉터 Alex’가 되어 있었다——마치 임원의 삶으로 환생(Reborn)한 듯한 도입에서 이야기가 시작됩니다. 낮에는 벼락치기 영어로 이사회를 버티고, 밤 7시 이후에는 몸에 배어 있는 낯선 흔적들을 단서로 자신이 깨어난 삶의 정체를 추적합니다.
 
 Executive Reborn은 어떤 앱인가요?
 
-Fawnfell이 개발한 직장인 대상 오프라인 비즈니스 영어 스토리 RPG 및 FSRS 단어 학습 앱입니다. 총 58화와 1,397개 비즈니스 표현을 수록했습니다.
+Fawnfell이 개발한 직장인 대상 오프라인 비즈니스 영어 스토리 RPG 및 FSRS 단어 학습 앱입니다. 본편 42화와 번외편 16화, 1,397개 비즈니스 표현을 오프라인 음성과 함께 수록했습니다.
 
 일시불(영구 소장) 구매가 가능한가요?
 
-본편 3화와 번외편 2화는 무료이며, 월간 구독(₩7,500), 스탠다드 일시불(₩27,000), 디럭스 에디션(₩36,000) 중 선택할 수 있습니다.
+본편 3화와 번외편 2화는 무료이며, 월간 구독(₩7,500), 스탠다드 일시불(₩27,000), 타임 옷장 및 대체 아이콘이 포함된 디럭스 에디션(₩36,000) 중 선택할 수 있습니다.
 
 이미 학습한 단어는 구독이 끝나도 복습할 수 있나요?
 
 네. 이미 학습한 단어의 FSRS 복습 큐는 구독 상태와 무관하게 영구 무료로 유지됩니다.
+
+FSRS-6 복습은 수동으로 ‘알아요/몰라요’ 버튼을 눌러야 하나요?
+
+아니요. 정오답과 본인 최근 200문항 반응 시간 중앙값을 비교해 FSRS-6(목표 보존율 90%)가 다음 복습 간격을 자동으로 결정합니다.
+
+권장 속도로 42화를 완료하면 단어당 몇 번이나 만나게 되나요? (가상 학습자 시뮬레이션)
+
+2일 1화 권장 속도의 가상 학습자 시뮬레이션 기준으로 42화 완주에 약 84일(하루 약 21.6분)이 걸리며, 단어당 평균 11.9회의 FSRS 능동 복습과 동일 회차 회의 음성·사내 문서 문맥 내 평균 4.3회(2회독 시 6.6회) 재조우가 결합됩니다(실측 수치가 아닌 시뮬레이션 기준).
+
+TOEIC®의 어느 파트를 다루며, 무엇은 포함되지 않나요?
+
+청해는 Part 3(40화) + Part 4(2화), 독해는 실무 장문 Part 7(본편 42편 + 워크 데스크 150편·8개 장르)에 집중합니다. Part 1·2 및 Part 5/6 단독 문법 드릴은 포함하지 않습니다.
+
+디럭스 에디션 전용 혜택은 무엇이며, 일반 사용자도 계절·기념일 테마를 볼 수 있나요?
+
+네. 전체 13종 창밖 풍경 중 12종(4계절+8개 기념일)과 9종 의상은 무료 체험 포함 모든 플랜에서 해당 날짜에 자동 등장합니다. 디럭스 에디션(₩36,000)은 타임 옷장으로 연중 고정이 가능하며, 전용 배경 ‘태풍 뒤 쌍무지개’, 헤드폰 의상 2종, 대체 아이콘 2종이 추가됩니다.
 
 
 --- FILE: products/executive-reborn/ko/preview/index.html (https://fawnfell.com/products/executive-reborn/ko/preview/index.html) ---
@@ -3456,21 +3889,81 @@ Step 3
 
 에피소드 및 요금제 선택
 
+프롤로그 · 환생의 밤 (SP00–01)
+
 EP01 · 인수합병 이후의 이사회
 
 EP02 · 전사 회의에서의 마이크 사고
 
 EP03 · 비용 청구 함정
 
-번외편·퇴근 후 (SP00–SP01)
-
 요금제 비교
+
+총 16화 퇴근 후 미스터리 · 제목 ‘Executive Reborn’의 시작 (SP00–SP02 무료)
+
+프롤로그 & 첫날 밤 오프닝 (왜 ‘Executive Reborn’인가?)
+
+본편 비즈니스 영어 3화를 완료할 때마다 1편씩 열리는 16부작 퇴근 후 비주얼 노벨입니다. 불합격 통지와 사고 직후 낯선 방에서 깨어나 ‘디렉터 Alex’가 된 주인공이, 낮에는 벼락치기 회의로 버티고 밤 7시 이후에는 기묘한 단서들을 따라 자신이 깨어난 삶의 정체를 추적합니다.
+
+SP00 · 반쪽짜리 주먹밥 (프롤로그 오프닝)
+
+내가 기억하는 마지막 일은, 주먹밥 반쪽이다.
+
+눈을 뜨자, 창호지 위로 마당의 소나무 그림자가 흔들리고 있었다.
+
+온돌이 마루를 뜨끈하게 데우고 있다. 방 한구석에는 크고 낡은 개집이 있고, 물그릇은 가득 차 있다.
+
+나는 누운 채로 움직이지 못했다.
+
+막차는 이미 끊겼다. 휴대폰에는 세 번째 불합격 통지: 「귀하의 관심에 감사드립니다.」
+
+길모퉁이에서 주먹밥을 반으로 쪼개, 털 색을 알아볼 수 없을 만큼 더러운 개에게 내밀었다. 목에는 낡은 인식표가 걸려 있었고, 날짜가 새겨져 있었다.
+
+——그게 내가 기억하는 '어제'의 전부다.
+
+그 뒤에 장면 속에 없는 게 하나 더 있다: 옆에서 날아든 한 줄기 빛과, 아주 짧은 브레이크 소리. 누군가 TV를 음소거해 버린 것처럼.
+
+SP01 · 첫날 밤·내려다보다 (첫날 밤 오프닝)
+
+임원층 바에서 바리스타가 갓 간 커피를 내 앞에 밀어 주었다. 도자기 잔 가장자리가 뜨겁다.
+
+바리스타:
+ 평소처럼 드릴까요, 디렉터님?
+
+Alex:
+ ……평소처럼.
+
+사흘 만에 처음으로 커피 맛이 느껴졌다. 우유가 많고, 소금이 아주 조금 들어 있다. 누가 만든 방식인지 몰라도, 이상하게 맞는다.
+
+저녁 일곱 시, 층 전체가 퇴근했다. 복도 끝에 극도로 단순한 갤러리가 있다. 노출 콘크리트 벽, 길쭉한 대리석 벤치, 그 위에는 빨강, 노랑, 파랑의 사각형.
+
+경비원:
+ 디렉터님. 지난번에 이 그림이 손가락 두 개만큼 낮다고 하셔서, 조정해 두었습니다.
+
+Alex:
+ 제가 그랬나요?
+
+Archive · 79 Cards
+79종 도감 카드 (유료 뽑기 제로 · 단어 암기로만 해금)
+
+SSR 아트워크를 포함한 79장의 아카이브 카드는 유료 뽑기로 판매하지 않습니다. 오직 단어 암기와 에피소드 완주를 통해서만 해금되는 정직한 성취 보상입니다.
+
+Growth Log
+실제 성장 곡선 & 학습 기록 저널
+
+누적 암기 단어 곡선, 첫 100·500단어 달성 타임스탬프, 연속 학습 일수와 함께 해금한 도감 카드(최대 4장)를 붙여 나만의 학습 기록을 로컬에 남길 수 있습니다.
+
+Executive Reborn 소개 페이지로
 
 EP01 · 무료 체험 유닛
 
 EP01 · 인수합병 이후의 이사회
 
 처음으로 임원 회의실에 앉은 주인공은 벼락치기로 외운 인수합병 용어를 제대로 설명해야 한다. 해링턴 CEO와 빅토리아 CFO의 연이은 추궁 속에서 첫 진짜 소통을 완수해야 한다.
+
+왜 Alex는 벼락치기 영어로 이사회에 들어가게 됐을까?
+ 세 번째 불합격과 사고 직후, 눈을 떠 보니 낯선 임원실의 디렉터가 되어 있었습니다. 
+프롤로그 SP00–SP01 먼저 읽기 →
 
 동일 회차 교차 노출 하이라이트 적용 중 (EP01 목표 어휘 22개 → 대본·독해 내 총 64회 재등장):
  은은한 호박색 하이라이트는 1부 대사에서 듣고 2·3부 실무 문서에서 다시 마주치는 이번 화 핵심 단어(변화형 포함)입니다.
@@ -4285,62 +4778,6 @@ adverb
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
 
-총 16화 퇴근 후 미스터리 · SP00–SP02 무료
-
-번외편(퇴근 후 스토리) 오프닝 미리보기 & 학습 지속 설계
-
-본편 비즈니스 영어 3화를 완료할 때마다 1편씩 열리는 16부작 퇴근 후 비주얼 노벨입니다. 낮에는 회의 영어로 버티고, 밤에는 기억상실의 진실을 추적하는 반전 서사가 이어집니다.
-
-SP00 · 반쪽짜리 주먹밥 (프롤로그 오프닝)
-
-내가 기억하는 마지막 일은, 주먹밥 반쪽이다.
-
-눈을 뜨자, 창호지 위로 마당의 소나무 그림자가 흔들리고 있었다.
-
-온돌이 마루를 뜨끈하게 데우고 있다. 방 한구석에는 크고 낡은 개집이 있고, 물그릇은 가득 차 있다.
-
-나는 누운 채로 움직이지 못했다.
-
-막차는 이미 끊겼다. 휴대폰에는 세 번째 불합격 통지: 「귀하의 관심에 감사드립니다.」
-
-길모퉁이에서 주먹밥을 반으로 쪼개, 털 색을 알아볼 수 없을 만큼 더러운 개에게 내밀었다. 목에는 낡은 인식표가 걸려 있었고, 날짜가 새겨져 있었다.
-
-——그게 내가 기억하는 '어제'의 전부다.
-
-그 뒤에 장면 속에 없는 게 하나 더 있다: 옆에서 날아든 한 줄기 빛과, 아주 짧은 브레이크 소리. 누군가 TV를 음소거해 버린 것처럼.
-
-SP01 · 첫날 밤·내려다보다 (첫날 밤 오프닝)
-
-임원층 바에서 바리스타가 갓 간 커피를 내 앞에 밀어 주었다. 도자기 잔 가장자리가 뜨겁다.
-
-바리스타:
- 평소처럼 드릴까요, 디렉터님?
-
-Alex:
- ……평소처럼.
-
-사흘 만에 처음으로 커피 맛이 느껴졌다. 우유가 많고, 소금이 아주 조금 들어 있다. 누가 만든 방식인지 몰라도, 이상하게 맞는다.
-
-저녁 일곱 시, 층 전체가 퇴근했다. 복도 끝에 극도로 단순한 갤러리가 있다. 노출 콘크리트 벽, 길쭉한 대리석 벤치, 그 위에는 빨강, 노랑, 파랑의 사각형.
-
-경비원:
- 디렉터님. 지난번에 이 그림이 손가락 두 개만큼 낮다고 하셔서, 조정해 두었습니다.
-
-Alex:
- 제가 그랬나요?
-
-Archive · 79 Cards
-79종 도감 카드 (유료 뽑기 제로 · 단어 암기로만 해금)
-
-SSR 아트워크를 포함한 79장의 아카이브 카드는 유료 뽑기로 판매하지 않습니다. 오직 단어 암기와 에피소드 완주를 통해서만 해금되는 정직한 성취 보상입니다.
-
-Growth Log
-실제 성장 곡선 & 학습 기록 저널
-
-누적 암기 단어 곡선, 첫 100·500단어 달성 타임스탬프, 연속 학습 일수와 함께 해금한 도감 카드(최대 4장)를 붙여 나만의 학습 기록을 로컬에 남길 수 있습니다.
-
-Executive Reborn 소개 페이지로
-
 요금제 안내
 
 요금제 비교 (Plans & Pricing)
@@ -4634,21 +5071,74 @@ Read the episode's core memo plus linked inbox, briefing, marketing, HR, and ope
 
 Browse Sample Episodes & Pricing
 
+Prologue: Why “Reborn” (SP00–01)
+
 EP01 · The Post-Merger Boardroom
 
 EP02 · The Town Hall Mic Drop
 
 EP03 · The Reimbursement Trap
 
-After-Hours Story (SP00–SP01)
-
 Plans & Pricing
+
+16-Chapter After-Hours Mystery · Why It’s Called “Executive Reborn” (SP00–SP02 Free)
+
+Prologue & First Night (SP00–SP01): Waking Up in an Executive’s Life
+
+Every 3 daytime business English lessons unlock another after-hours chapter (16 episodes total). After a late-night crash, you wake up in an unfamiliar room as Director Alex—bluffing through English boardrooms by day while tracing strange clues after 7:00 p.m. about the life you suddenly stepped into.
+
+SP00 · Half a Rice Ball (Prologue)
+
+The last thing I remember is half a rice ball.
+
+When I opened my eyes, pine shadows from the courtyard were swaying across paper screens. Underfloor heating warmed the timber planks; in the corner sat a large, well-worn dog bed with a full water bowl. I lay still, afraid to move.
+
+Flashback:
+ The last train had already left. Three rejection emails sat in my phone: “Thank you for your interest.” At the street corner, I broke a rice ball in half and held it out to a stray dog too dirty to tell its coat, wearing an old tag with a date engraved on it.
+
+—That was all I remembered of “yesterday.” Behind it, something missing from the frame: a flash of headlights from the side, and a brief screech of brakes. Like someone pressed mute on a television.
+
+SP01 · First Night: Overlook (After-Hours Sample)
+
+At the executive-floor espresso bar, the barista slid a freshly brewed cup toward me. The porcelain rim was hot.
+
+Barista:
+ “The usual, Director?”
+
+Alex:
+ “…The usual.”
+
+For the first time in three days, I actually tasted the coffee—extra milk, with the faintest pinch of salt. Who came up with that recipe? Yet it worked.
+
+At 7:00 p.m., the whole floor went home. At the end of the corridor sat a minimalist gallery: exposed concrete, a long marble bench, and above it, blocks of red, yellow, and blue.
+
+Guard:
+ “Director. Last time you said this piece was hung two fingers too low. We adjusted it.”
+
+Alex:
+ “I said that?”
+
+Archive · 79 Cards
+79 Archive Cards (Study-Only, Zero Gacha)
+
+All 79 collectible Archive illustrations (N / R / SR / SSR)—including architectural SSR scenes—unlock strictly by learning target words and clearing chapters. Even Deluxe Edition never sells Archive cards for money.
+
+Growth Log
+Real Growth Curve & Study Records
+
+Your local Growth Log charts cumulative mastered words, timestamps your first 100-word and 500-word milestones, tracks study streaks, and lets you pin up to 4 unlocked Archive cards to personal reflection entries—without noisy social leaderboards.
+
+View Full Feature Breakdown
 
 EP01 · Free Curriculum Unit
 
 EP01 · The Post-Merger Boardroom
 
 Workplace English story unit covering The Post-Merger Boardroom (executive_lounge).
+
+Why is Alex sweating through an English boardroom?
+ After three rejection emails, splitting a rice ball with a stray dog, and a flash of headlights, Alex woke up in an executive’s life. 
+Read Prologue SP00–SP01 first →
 
 Cross-Modal Highlights Active (64 pickups of EP01's 22 words):
  Soft amber highlights mark this episode's own target words (including inflections) as you hear them in Section 1 and pick them up again across Sections 2 & 3.
@@ -5384,55 +5874,6 @@ correctly, precisely
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
 
-16-Chapter After-Hours Mystery · SP00–SP02 Free
-
-After-Hours Side Story Opening & Study-Persistence Design
-
-Every 3 main business English lessons unlock a new chapter of the 16-episode after-hours visual novel—an amnesia mystery linking your daytime boardroom survival with a forgotten past. Zero pay-to-win gacha, backed by real study logs.
-
-SP00 · Half a Rice Ball (Prologue)
-
-The last thing I remember is half a rice ball.
-
-When I opened my eyes, pine shadows from the courtyard were swaying across paper screens. Underfloor heating warmed the timber planks; in the corner sat a large, well-worn dog bed with a full water bowl. I lay still, afraid to move.
-
-Flashback:
- The last train had already left. Three rejection emails sat in my phone: “Thank you for your interest.” At the street corner, I broke a rice ball in half and held it out to a stray dog too dirty to tell its coat, wearing an old tag with a date engraved on it.
-
-—That was all I remembered of “yesterday.” Behind it, something missing from the frame: a flash of headlights from the side, and a brief screech of brakes. Like someone pressed mute on a television.
-
-SP01 · First Night: Overlook (After-Hours Sample)
-
-At the executive-floor espresso bar, the barista slid a freshly brewed cup toward me. The porcelain rim was hot.
-
-Barista:
- “The usual, Director?”
-
-Alex:
- “…The usual.”
-
-For the first time in three days, I actually tasted the coffee—extra milk, with the faintest pinch of salt. Who came up with that recipe? Yet it worked.
-
-At 7:00 p.m., the whole floor went home. At the end of the corridor sat a minimalist gallery: exposed concrete, a long marble bench, and above it, blocks of red, yellow, and blue.
-
-Guard:
- “Director. Last time you said this piece was hung two fingers too low. We adjusted it.”
-
-Alex:
- “I said that?”
-
-Archive · 79 Cards
-79 Archive Cards (Study-Only, Zero Gacha)
-
-All 79 collectible Archive illustrations (N / R / SR / SSR)—including architectural SSR scenes—unlock strictly by learning target words and clearing chapters. Even Deluxe Edition never sells Archive cards for money.
-
-Growth Log
-Real Growth Curve & Study Records
-
-Your local Growth Log charts cumulative mastered words, timestamps your first 100-word and 500-word milestones, tracks study streaks, and lets you pin up to 4 unlocked Archive cards to personal reflection entries—without noisy social leaderboards.
-
-View Full Feature Breakdown
-
 Pricing & Editions
 
 Plans & Pricing Comparison
@@ -5665,7 +6106,7 @@ fawnfell@gmail.com
 
 # Executive Reborn — 邊追職場懸疑劇邊練商務英語
 
-Executive Reborn — 商務英語劇情 RPG 應用 | Fawnfell
+Executive Reborn — 商務英語劇情 RPG + FSRS | Fawnfell
 
 跳至主要內容
 
@@ -5690,8 +6131,9 @@ iOS · 離線商務英語劇情 RPG + FSRS
 
 Executive Reborn — 邊追職場懸疑劇邊練商務英語
 
+求職連敗又遭逢車禍那夜，再睜眼竟成了陌生公司的高階主管——。
 Executive Reborn
- 由 Fawnfell 打造，將 42 集主線與 16 集番外（共 58 集）職場劇情、1,397 條商務片語及 FSRS 間隔重複引擎整合為純離線通勤應用，並內建 11,250 條 AAC 語音。
+ 讓你白天靠臨時抱佛腳背下的英語頂住董事會、晚上七點後追查真相，結合 58 集劇情、1,397 條商務片語、FSRS-6 引擎與 11,250 條離線語音。
 
 免費試讀 (第 1–3 集)
 
@@ -5701,28 +6143,238 @@ Executive Reborn
 
 隱私權政策
 
+App 實機畫面預覽（9:16 手機比例・共 8 張畫面）
+
+以下為 1080×1920 實機直向截圖（日語 UI 開發版本），涵蓋主線 42 集會議對話、職場郵件閱讀、反應時間 FSRS 單字測驗與離線通勤音訊播放器。手機端可左右滑動瀏覽。
+
+01 · HOME 主畫面
+四季窗景、秋田犬夥伴 Marshal 與今日學習任務
+
+02 · 主線 42 集 EP01
+董事會雙語逐字稿、語音播放與單字入口
+
+03 · Reading 閱讀
+150 篇職場實務文章＋核心單字柔光高光
+
+04 · FSRS 自動判分
+免手動按難度，依作答對錯與反應速度自動排程
+
+05 · 通勤聽力
+42 集離線播放清單，支援單集循環與連播
+
+06 · WORDS 詞庫
+母語詳解＋ TSL 1,250 詞・NGSL 2,809 詞
+
+07 · 番外篇 AVG
+角色立繪與場景背景交織的 16 夜懸疑物語
+
+08 · WORK 工作檯
+聽力進度節點與 7 類商務文件收件匣
+
+為什麼叫《Executive Reborn》？— 從車禍後在陌生房間醒來開始的英語生存戰
+
+收到第三封拒信、錯過末班車的深夜，才剛把飯糰掰成一半遞給街角的流浪狗，眼前忽然閃過一道刺眼車燈與短促煞車聲，世界像被按了靜音鍵。再睜眼時，自己從陌生的木地板醒來——回過神，竟然已經坐在摩天大樓的「總監 Alex」席位上。
+
+「我記得的最後一件事，是半個飯糰。末班車早走了，手機裡躺著第三封拒信……而在那背後，還有一樣畫面裡沒有的東西：從側面打過來的一束光，和一聲短短的煞車。像誰順手把電視按了靜音。」
+
+— 番外序幕《半個飯糰》(SP00) 開篇節選 · 
+立即免費試讀 SP00–SP01 開篇
+
+Prologue · SP00
+「重生？」— 從陌生房間醒來
+
+車禍後在鋪著地暖的木地板與舊狗窩前睜開眼，彷彿一場突如其來的轉生，毫無預警地接手了另一個人的人生。
+
+Daytime · 主線 42 集
+白天：靠臨時抱佛腳的英語頂住董事會
+
+為了不讓任何人察覺自己其實是局外人，只能硬背併購與稽核商務英語。「一開口露餡就完了」的緊張感，推著你真的把單字記進腦子。
+
+After 7 p.m. · 番外 16 集
+夜晚：空無一人的樓層裡處處透著古怪
+
+加了一撮鹽卻意外合胃口的咖啡、保全說「上次您嫌畫掛低了兩指」——循著這些隱約熟悉的線索，追查自己究竟醒在誰的人生裡。
+
+直接閱讀序幕（SP00–SP01）
+
+試讀主線第 1–3 集英語課程
+
+為什麼堅持「背單字 × 聽力 × 閱讀」同課連動？（不是刷題庫，而是多角度內化詞彙）
+
+市面多數綜合英語 App 的背單字、練聽力與做閱讀彼此脫節，背完就忘。
+《Executive Reborn》
+從設計初衷就是一款「多角度熟悉目標單字」的詞彙習得應用，遵循二語習得的
+窄化輸入（Narrow Listening & Reading）
+原理：每集固定鎖定同一批 
+21–29 個 TSL/NGSL 核心片語
+，先以反應時間 FSRS-6 預習詞義，幾分鐘後在同集會議語音裡聽見它，緊接著又在同集核心文件與工作檯文章裡帶著柔和高光再次拾取它。
+
+拿掉手動自評按鈕的反應時間 FSRS-6 是什麼？
+
+Executive Reborn 採用官方 
+FSRS-6
+ 演算法（目標記憶保留率 
+90%
+、初始學習步長 10 分鐘 → 1 天）。不強迫學習者每次手動點選「忘記 / 困難 / 良好 / 簡單」，而是依據
+作答對錯
+與
+個人近期正解反應時間（取近 200 題 15 秒內移動中位數，前 20 題基準為 2,000 ms）
+的比值自動排定下次複習時間。
+
+0.6× 以下
+
+Easy 自動判定（首見上限為 Good）
+
+僅當反應快於個人中位數的 0.6 倍時才判為 Easy；為防止新詞誤觸過關，首次學習最高只給到 Good。
+
+0.6× ～ 1.5×
+
+Good / Hard 自動分流
+
+以個人中位數為基準，可抵消閱讀速度與操作快慢差異；猶豫較久才答對（超過 1.5 倍）會自動進入 Hard。
+
+答錯時
+
+Again（10 分鐘後重測）
+
+答錯一律視為 Again 進入短間隔再學習，並依據每個單字獨立的遺忘曲線重新校準記憶穩定度。
+
+每天花多少時間、單字總共會遇見幾次？（虛擬學習者模擬）
+
+以下是以 42 集、150 篇職場文章與 1,250 個核心目標詞（源自 Browne & Culligan 之 
+TSL
+）代入 FSRS-6 虛擬學習者模型所得的
+演算法模擬基準
+（並非真人臨床試驗，亦不預測或保證 TOEIC 分數提升）。
+
+虛擬學習者模擬各節奏基準表（非真人實測數據）
+
+模擬學習節奏
+
+42 集完成天數
+
+日均耗時（單字＋閱讀）
+
+FSRS 複習次數/詞
+
+劇中與文章偶遇/詞
+
+完課 +90 天穩定率（穩定度 ≥ 14 天）
+
+A1 · 每天 1 集
+
+42 天
+
+35.5 分鐘/天
+
+11.0 次（中位數 8）
+
+3.3 次（中位數 2）
+
+96%（1,205 / 1,250）
+
+A2 · 兩天 1 集（推薦）
+
+84 天
+
+21.6 分鐘/天
+
+11.9 次（中位數 8）
+
+4.3 次（文章兩遍達 6.6 次）
+
+97%（1,216 / 1,250）
+
+A3 · 三天 1 集
+
+126 天
+
+15.5 分鐘/天
+
+12.1 次（中位數 8）
+
+5.3 次（中位數 4）
+
+96%（1,202 / 1,250）
+
+C1 / C2 · 缺席 30%・中斷 14 天
+
+119 天 / 98 天
+
+20.7–21.9 分鐘/天
+
+不受日曆斷簽影響
+
+保留語境遇見次數
+
+前提為完課後持續複習
+
+雙軌曝光指標補充：
+上表「劇中與文章偶遇/詞（3.3–6.6 次）」統計的是在同一集的會議音訊與工作檯關聯文章裡自然重逢該單字的次數，與左側 FSRS 主動測驗複習（約 11–12 次）獨立疊加，構成演算法複習＋同課語境浸泡的雙層記憶機制。
+
+「本頁所列學習時間、複習次數與語境曝光頻率皆為 FSRS-6 虛擬學習者模型之模擬算例，並不保證真人學習成效或 TOEIC 測驗分數。唯一不變的承諾是：學過的單字即使退訂月費也永久免費開放複習。」
+
+— Fawnfell 公開資訊準則 · 依據：
+TSL / NGSL 詞表授權
+ ＆ 
+Open Spaced Repetition (FSRS)
+
+TOEIC® 專攻範圍：集中強化 Part 3 對話 ＋ Part 7 商務長文閱讀
+
+Executive Reborn 並非包山包海的模擬題庫，而是瞄準職場上最容易卡關的
+長段會議聽力（TOEIC® Part 3 對話 40 集 ＋ Part 4 公告 2 集）
+與
+商務文書閱讀（Part 7 主線 42 篇 ＋ 工作檯 150 篇，涵蓋郵件、公告、備忘錄、報告、廣告等 8 大體裁）
+（本應用不預測亦不保證考試分數）。我們
+刻意未收錄 Part 1 看圖、Part 2 短問答與 Part 5/6 獨立文法填空
+，把全部精力留在聽懂實務會議與看懂長篇公文。
+
+聽力強化
+Part 3（40 集）＋ Part 4（2 集）
+
+以會議交鋒、談判與公告為藍本，提供雙語逐字稿對照與純聽力通勤播放，訓練長段連續語流的理解耐力。
+
+閱讀強化
+Part 7（42＋150 篇 · 8 體裁）
+
+模擬公司電郵、規定公告、稽核備忘錄與市場報告，練習抓取長文脈絡與瞬間辨識高光關鍵字。
+
+收錄邊界說明
+不含 Part 1・2・5・6 獨立練習
+
+若您正在尋找基礎文法講解或單句文法刷題本，本應用並不適合；我們專注於商戰劇情與實務長文閱讀。
+
+關於 TSL 1.2 與 NGSL 1.2 學術語料庫
+
+選詞基礎源自應用語言學者 Dr. Charles Browne、Dr. Brent Culligan 與 Joseph Phillips 公開之學術詞表 
+NGSL 1.2
+（涵蓋一般英文文本約 92% 的核心 2,809 詞）與 
+TSL 1.2
+（詞表官網指出與 NGSL 搭配可覆蓋 TOEIC® 文本約 98.5–99%，本應用重組為 1,250 個核心目標詞）。衍生詞表可於 
+CC BY-SA 4.0 授權頁
+自由下載；42 集劇本、150 篇職場文件、釋義與語音則全數為 Fawnfell 原創製作。
+
+※ 
+獨立聲明
+：TOEIC® 為 ETS（Educational Testing Service）之註冊商標。Executive Reborn 與 Fawnfell 獨立營運，與 ETS 無任何關聯，亦未獲得其認可或贊助。
+
 讓學習真正持續下來的設計：下課後番外懸疑・零課金圖鑑・真實學習手札
 
 大多數背單字 App 讓人放棄，不是演算法不好，而是缺乏「明天還想打開」的動力。
 Executive Reborn
  結合每 3 集正篇解鎖 1 集的
-16 集下班後失憶懸疑支線
+16 集下班後轉生懸疑支線
 、純靠背單字解鎖的
 79 張圖鑑卡（零付費抽卡）
 ，以及用真實數據錨定努力的
 個人成長手札
 。
 
-「我記得的最後一件事，是半個飯糰。末班車早走了，手機裡躺著第三封拒信……我在街角把一個飯糰掰成兩半，遞給一條戴著舊日期牌子的流浪狗。再睜眼，窗紙上晃著庭院的松影，地暖把木地板烘得發燙。」
-
-— 番外序幕《半個飯糰》(SP00) 開篇節選 · 
-免費試讀 SP00–SP01 開篇
-
 下班後支線
 
-16 集失憶反轉懸疑劇
+晚上七點後的轉生謎團（全 16 集）
 
-每完成 3 集日間商務主線即可解鎖 1 集晚上七點後的秘密劇情，白天在董事會闖關、夜晚拼回遺忘的真相（SP00–SP02 免費）。
+每完成 3 集日間商務主線即可解鎖 1 集晚上七點後的秘密劇情：白天在董事會闖關、夜晚循著怪異線索追查自己醒來的這段人生（SP00–SP02 免費）。
 
 試讀 SP00–SP01 開篇
 
@@ -5732,11 +6384,15 @@ Executive Reborn
 
 包含 SSR 原畫在內的 79 張檔案圖鑑皆不設抽卡付費，連豪華典藏版也不提前販售圖鑑，只回饋真實背過的每個單字。
 
+查看方案規則
+
 真實學習錨點
 
 成長曲線與個人學習紀錄
 
 記錄首次突破 100／500 單字的里程碑日期與累計曲線，並可用已解鎖圖鑑卡（每則最多 4 張）寫下純本地保存的學習手札。
+
+完全本機離線保存
 
 記憶曲線與真實學習手札實機截圖（9:16 手機畫面）
 
@@ -5751,23 +6407,6 @@ Executive Reborn
 
 IG 風私人學習手札
 貼上背單字解鎖的圖鑑卡，純本地記錄心得
-
-為什麼堅持「背單字 × 聽力 × 閱讀」同課連動？（不是刷題庫，而是多角度內化詞彙）
-
-市面多數綜合英語 App 的背單字、練聽力與做閱讀彼此脫節，背完就忘。
-《Executive Reborn》
-從設計初衷就是一款「多角度熟悉目標單字」的詞彙習得應用，遵循二語習得的
-窄化輸入（Narrow Listening & Reading）
-原理：每集固定鎖定同一批 
-21–29 個 TSL/NGSL 核心片語
-，先以反應時間 FSRS-6 預習詞義，幾分鐘後在同集會議語音裡聽見它，緊接著又在同集核心文件與工作檯文章裡帶著柔和高光再次拾取它。
-
-虛擬學習者模擬雙軌數據註解：
-以建議節奏（兩天一集、每日約 21.6 分鐘）推算，每個單字除了 
-平均 11.9 次 FSRS 主動複習
-外，還會在同一集的聽力逐字稿與關聯職場文章中自然偶遇 
-4.3 次（閱讀重溫兩遍達 6.6 次）
-——由演算法複習與同集語境浸泡雙軌疊加鞏固（非真人臨床實測或分數保證）。
 
 方案比較
 
@@ -5787,7 +6426,7 @@ NT$0
 
 $0
 
-前 3 集正篇 + 前 2 集番外 + 已學單字 FSRS 複習永久不鎖
+前 3 集正篇 + 前 2 集番外 + 已學單字 FSRS 複習永久不鎖 + 四季與節日窗景自動輪換（12 種）
 
 輕量月度訂閱
 
@@ -5795,7 +6434,7 @@ NT$160 / 月
 
 $4.99 / 月
 
-解鎖全部 58 集課程 + 四季與節日窗景自動輪換
+解鎖全部 58 集課程 + 四季與節日窗景自動輪換（12 種）
 
 標準永久買斷
 
@@ -5803,7 +6442,7 @@ NT$590
 
 $17.99
 
-一次買斷永久解鎖全部 58 集與後續免費內容更新
+一次買斷永久解鎖全部 58 集與後續免費內容更新 + 四季與節日窗景自動輪換（12 種）
 
 豪華典藏版
 
@@ -5811,13 +6450,164 @@ NT$790
 
 $24.99
 
-標準買斷全部權益 + 時光衣櫥（11 套造型與 13 張窗景自由鎖定）+ 備用桌面圖示
+標準買斷全部權益 + 時光衣櫥（11 套造型與 13 張窗景自由鎖定）+ 限定「颱風雙彩虹」與 2 款耳機造型 + 2 款備用桌面圖示（支援補差額升級）
+
+豪華典藏版特典 vs. 一般方案也能自動欣賞的四季與節日活動（13 張窗景・11 套造型）
+
+全用戶共通權益（含免費體驗、月訂與標準買斷）：
+只要裝置日期進入指定期間，HOME 主畫面的窗景與秋田犬 Marshal 就會自動切換為對應的
+四季 4 種＋節日 8 種（共 12 種）窗景與 9 套應景造型
+。此外，
+79 張圖鑑卡（含 SSR 原畫）皆不對外販售，全方案一律僅能透過背單字與推進集數獲得
+。
+
+豪華典藏版（NT$790／支援從標準版補差額升級）專屬特典：
+① 透過「時光衣櫥」全年隨時將 12 種季節與節日窗景和造型鎖定在主畫面；② 日曆不會自動觸發的典藏限定道具：窗景
+「特典・颱風過後雙彩虹」
+（1 種）、耳機造型
+「限定・全罩式耳機」／「限定・頸掛式耳機」
+（2 種），以及
+2 款備用桌面圖示
+（含預設共 3 款）。
+
+四季範例 · 春・櫻花窗邊
+春季（3–5 月）全用戶自動切換顯示
+
+節日範例 · 聖誕夜
+每年 12/20–25 自動登場（其餘 7 個節日當天揭曉驚喜）
+
+典藏限定 · 雙彩虹＆耳機
+日曆不自動出現的專屬窗景與造型
+
+主畫面 App 圖示全 3 款（豪華典藏版額外解鎖 2 款備用圖示）
+
+預設圖示（全方案）
+
+豪華版 · 耳機款
+
+豪華版 · 節慶款
+
+展開查看全部 13 張窗景、11 套 Marshal 造型與自動輪換日曆表
+
+全 13 張窗景、11 套 Marshal 造型與自動觸發日期一覽
+
+窗景（共 13 張）
+
+對應 Marshal 造型（共 11 套）
+
+全用戶自動登場期間
+
+豪華典藏版權益
+
+春・櫻花窗邊
+
+春・櫻花針織衫
+
+3月–5月
+
+隨時手動鎖定
+
+夏・煙火大會
+
+夏・祭典浴衣
+
+6月–8月
+
+隨時手動鎖定
+
+秋・銀杏大道
+
+秋・風衣外套
+
+9月–11月
+
+隨時手動鎖定
+
+冬・銀白雪景
+
+冬・滑雪護目鏡
+
+12月–2月
+
+隨時手動鎖定
+
+情人節・玫瑰暮色
+
+限定・西裝外套
+
+每年 2月13日–14日
+
+隨時手動鎖定
+
+梅雨季・紫陽花窗邊
+
+限定・雨衣
+
+每年 6月10日–18日
+
+隨時手動鎖定
+
+七夕・銀河與竹籤
+
+夏・祭典浴衣
+
+每年 7月5日–7日
+
+隨時手動鎖定
+
+中秋・十五圓月
+
+秋・風衣外套
+
+農曆八月十五前後 3 天（內建 2026–2035 表）
+
+隨時手動鎖定
+
+萬聖節・南瓜燈火
+
+萬聖・披風
+
+每年 10月24日–31日
+
+隨時手動鎖定
+
+聖誕夜・聖誕樹
+
+聖誕・紅毛衣
+
+每年 12月20日–25日
+
+隨時手動鎖定
+
+跨年夜・迎新煙火
+
+限定・西裝外套
+
+每年 12月31日
+
+隨時手動鎖定
+
+新年・門松賀歲
+
+新年・和服羽織
+
+每年 1月1日–5日
+
+隨時手動鎖定
+
+特典・颱風過後雙彩虹
+
+限定・耳罩式耳機 / 頸掛式耳機（＋2 款備用圖示）
+
+日曆不出現（豪華版專屬）
+
+豪華典藏版限定（手動切換鎖定）
 
 Executive Reborn 如何防止背單字倦怠與三分鐘熱度棄坑？
 
 多數上班族在三週內放棄背單字 App，往往因為每張卡片都要手動選難易度、漏學一天就斷簽清零的挫敗感，以及孤立例句缺乏動力。
 Executive Reborn
- 以反應時間自動 FSRS-6 排程、零斷簽懲罰、每日 21.6 分鐘商戰劇情閉環、下班後懸疑番外獎勵與零抽卡學習成就，幫助你自然堅持下去。
+ 以反應時間自動 FSRS-6 排程、零斷簽懲罰、每日 21.6 分鐘商戰劇情閉環、下班後轉生懸疑番外獎勵與零抽卡學習成就，幫助你自然堅持下去。
 
 常見棄坑原因 vs. Executive Reborn 防中斷設計
 
@@ -5843,7 +6633,7 @@ Executive Reborn 防棄坑設計
 
 前後毫無關聯的單句練習，缺乏明天想再打開 App 追進度的理由
 
-42 集辦公室主線劇本 + 每學完 3 集即解鎖 16 集下班後失憶懸疑番外篇
+42 集辦公室主線劇本 + 每學完 3 集即解鎖 16 集下班後轉生懸疑番外篇
 
 淺層抽卡遊戲化
 
@@ -5863,6 +6653,10 @@ Executive Reborn 防棄坑設計
 
 它針對 5 大棄坑痛點設計：反應速度自動判定 FSRS-6 消除手動按鈕疲勞、零斷簽歸零懲罰允許忙碌時安心休息、每日 21.6 分鐘職場劇情與通勤音訊閉環、每 3 集解鎖下班後懸疑番外，且已學單字即使不續訂也能永久免費複習。
 
+為什麼叫《Executive Reborn》？（故事背景與片名由來）
+
+收到第三封拒信、在街角把半個飯糰遞給流浪狗後遇上車禍，主角醒來時已置身陌生房間，成了高樓裡的「總監 Alex」——宛如一場轉生成主管的「Reborn」。白天得靠臨時抱佛腳背下的商務英語在董事會硬撐不穿幫，晚上七點後則追查身邊怪異線索背後究竟藏著誰的人生。
+
 Executive Reborn 適合什麼樣的學習者？
 
 適合不想硬啃傳統教材的職場人與商務英語學習者。全套共 58 集互動職場劇情、1,397 條核心片語並支援純離線通勤播放。
@@ -5874,6 +6668,22 @@ Executive Reborn 適合什麼樣的學習者？
 月費到期後，已經背過的單字會被鎖住嗎？
 
 不會。所有已學習過的單字都會永久保留在 FSRS 複習佇列中，絕不鎖死您累積的學習進度。
+
+FSRS-6 需要每題手動點選「忘記 / 簡單」四顆評分按鈕嗎？
+
+不需要。系統依作答對錯與你近 200 題反應時間中位數的比值自動判定等級，省去每卡自評的負擔。
+
+按建議節奏學完 42 集，每個單字大約會遇到幾次？（虛擬學習者模擬）
+
+以兩天一集（每日約 21.6 分鐘）的虛擬學習者模擬測算，42 集約 84 天完成，單字平均有 11.9 次 FSRS 複習與同集音訊／文章中 4.3 次（兩遍達 6.6 次）自然再見（非真人臨床實測）。
+
+對應 TOEIC® 哪些題型？（收錄範圍與未收錄項目）
+
+聽力聚焦 Part 3（40 集）＋ Part 4（2 集），閱讀聚焦 Part 7 商務長文（主線 42 篇＋工作檯 150 篇，8 類體裁），不包含 Part 1、Part 2 與 Part 5/6 獨立文法題。
+
+豪華典藏版多了什麼？一般用戶也能看到四季與節日窗景嗎？
+
+可以。13 張窗景中有 12 張（四季＋8 節日）與 9 套造型含免費版都會依日期自動出現；豪華版（NT$790）額外提供「時光衣櫥」隨時鎖定造型與窗景，並獨享雙彩虹窗景、2 款耳機造型與 2 款備用圖示。
 
 
 --- FILE: products/executive-reborn/zh-tw/preview/index.html (https://fawnfell.com/products/executive-reborn/zh-tw/preview/index.html) ---
@@ -5928,21 +6738,81 @@ Step 3
 
 選擇試讀集數或方案價格
 
+序幕・重生之夜 (SP00–01)
+
 EP01 · 併購後的董事會
 
 EP02 · 全員大會上的麥克風事故
 
 EP03 · 報銷陷阱
 
-番外篇・下課後 (SP00–SP01)
-
 方案與定價
+
+全 16 集下班後懸疑支線 · 《Executive Reborn》片名由來（SP00–SP02 免費）
+
+序幕與第一夜開篇試讀（為什麼叫《Executive Reborn》？）
+
+每完成 3 集日間商務主線即可解鎖 1 集下班後支線（共 16 集）。車禍後從陌生和室醒來、莫名成了「總監 Alex」的主角，白天靠背下的職場英語頂住董事會，晚上七點全員下班後，循著加鹽咖啡與畫作位置等線索追查自己「重生」進誰的人生。
+
+SP00 · 半個飯糰（序幕開篇）
+
+我記得的最後一件事，是半個飯糰。
+
+再睜眼，窗紙上晃著庭院的松影。
+
+地暖把木地板烘得發燙。牆角有一隻很大的舊狗窩，水碗是滿的。
+
+我躺著，沒敢動。
+
+末班車早走了。手機裡躺著第三封拒信：「感謝您的關注。」
+
+我在街角把一個飯糰掰成兩半，遞給一條髒得看不出毛色的狗。它脖子上有一枚舊牌子，刻著一個日期。
+
+——這就是我對“昨天”的全部記憶。
+
+後面還有一樣東西，不在畫面裡：一束從側面來的光，和一聲很短的剎車。像誰把電視按了靜音。
+
+SP01 · 第一夜·俯瞰（第一夜開篇）
+
+行政層的吧檯，咖啡師把一杯現磨的咖啡推到我面前，瓷杯沿是燙的。
+
+咖啡師:
+ 老樣子，總監？
+
+Alex:
+ ……老樣子。
+
+三天來，我第一次嚐出了咖啡的味道。奶多一點，裡面還有一點點鹽。是誰發明的喝法，居然對。
+
+晚上七點，整層樓的人都下班了。走廊盡頭，有一間極簡的畫廊：清水混凝土牆，一條長長的大理石長凳，長凳上方，紅黃藍的方塊。
+
+守衛:
+ 總監。您上次說，這幅掛低了兩指。我們調過了。
+
+Alex:
+ 我說過？
+
+Archive · 79 Cards
+79 張圖鑑卡（零氪金抽卡・純靠背單字解鎖）
+
+包含 SSR 原畫在內的全部 79 張圖鑑檔案卡都不走付費抽卡，連豪華典藏版也不提前販售圖鑑——唯有實際累積詞彙與推進集數才能解鎖。
+
+Growth Log
+真實成長曲線與個人學習手札
+
+App 內建個人成長曲線，真實記錄首次突破 100 / 500 單字的日期里程碑與連續學習天數，並可用已解鎖圖鑑卡（每則最多 4 張）寫下自己的學習手札，無焦慮排行攀比。
+
+查看完整產品介紹
 
 EP01 · 免費試讀單元
 
 EP01 · 併購後的董事會
 
 第一次坐進高管會議室，主角必須把臨時抱佛腳的併購術語說清楚，在哈林頓CEO和維多利亞CFO的連環追問中完成第一次真正的溝通。
+
+為什麼 Alex 要靠臨時抱佛腳的英語硬撐董事會？
+ 收到第三封拒信並遭遇車禍後，醒來竟成了陌生的「總監 Alex」。
+先讀序幕 SP00–SP01（了解片名由來）→
 
 已標記本集跨模態復現詞彙（EP01 鎖定 22 詞，在聽力逐字稿與閱讀文章共重現 64 次）：
 下方柔和琥珀色高光標出的，正是「剛聽完又在文章裡認出來」的本集核心單字（含詞形變化）。
@@ -6756,62 +7626,6 @@ adverb
 準確地
 record accurately / predict accurately
 ensure that every invoice and receipt accurately reflects...
-
-全 16 集下課後懸疑支線 · SP00–SP02 免費體驗
-
-番外篇（下班後劇情）開篇試讀與堅持學習設計
-
-每完成 3 集日間商務主線即可解鎖 1 集下班後支線（共 16 集）。白天靠背下的職場英語頂住董事會，晚上七點下班後拼湊失憶與過往的真相。
-
-SP00 · 半個飯糰（序幕開篇）
-
-我記得的最後一件事，是半個飯糰。
-
-再睜眼，窗紙上晃著庭院的松影。
-
-地暖把木地板烘得發燙。牆角有一隻很大的舊狗窩，水碗是滿的。
-
-我躺著，沒敢動。
-
-末班車早走了。手機裡躺著第三封拒信：「感謝您的關注。」
-
-我在街角把一個飯糰掰成兩半，遞給一條髒得看不出毛色的狗。它脖子上有一枚舊牌子，刻著一個日期。
-
-——這就是我對“昨天”的全部記憶。
-
-後面還有一樣東西，不在畫面裡：一束從側面來的光，和一聲很短的剎車。像誰把電視按了靜音。
-
-SP01 · 第一夜·俯瞰（第一夜開篇）
-
-行政層的吧檯，咖啡師把一杯現磨的咖啡推到我面前，瓷杯沿是燙的。
-
-咖啡師:
- 老樣子，總監？
-
-Alex:
- ……老樣子。
-
-三天來，我第一次嚐出了咖啡的味道。奶多一點，裡面還有一點點鹽。是誰發明的喝法，居然對。
-
-晚上七點，整層樓的人都下班了。走廊盡頭，有一間極簡的畫廊：清水混凝土牆，一條長長的大理石長凳，長凳上方，紅黃藍的方塊。
-
-守衛:
- 總監。您上次說，這幅掛低了兩指。我們調過了。
-
-Alex:
- 我說過？
-
-Archive · 79 Cards
-79 張圖鑑卡（零氪金抽卡・純靠背單字解鎖）
-
-包含 SSR 原畫在內的全部 79 張圖鑑檔案卡都不走付費抽卡，連豪華典藏版也不提前販售圖鑑——唯有實際累積詞彙與推進集數才能解鎖。
-
-Growth Log
-真實成長曲線與個人學習手札
-
-App 內建個人成長曲線，真實記錄首次突破 100 / 500 單字的日期里程碑與連續學習天數，並可用已解鎖圖鑑卡（每則最多 4 張）寫下自己的學習手札，無焦慮排行攀比。
-
-查看完整產品介紹
 
 方案與定價
 
