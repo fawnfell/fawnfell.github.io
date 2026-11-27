@@ -393,7 +393,7 @@ English
 
 夜10時、残業帰りのソファで単語帳アプリを開き、1枚ごとに「忘れた・難しい・普通・簡単」の4ボタンを100回押し続けて指が止まる——。ビジネス英語をストレスなく続けたい社会人向けにFawnfellが開発したオフライン英語RPG『
 Executive Reborn
-』（全58話・1,397表現・11,250音声）では、三日坊主の最大原因である
+』（英語本編42話＋番外16話・1,397表現・11,250音声）では、三日坊主の最大原因である
 手動4択の自己採点を廃止
 し、直近200問の個人反応速度の中央値と正誤から
 FSRS-6が自動で定着度を判定
@@ -469,7 +469,7 @@ Executive Reborn の仕様
 
 料金プランと、解約後の単語復習はどうなりますか？
 
-本編第3話・番外編第2話まで無料です。全58話（1,397表現）は月額¥800、スタンダード買い切り¥3,000、衣装と窓景色を固定できるデラックス版¥4,000から選べ、月額解約後も一度学習した単語のFSRS復習は永久無料で続けられます。
+本編第3話・番外編第2話まで無料です。本編42話＋番外16話（1,397表現）は月額¥800、スタンダード買い切り¥3,000、衣装と窓景色を固定できるデラックス版¥4,000から選べ、月額解約後も一度学習した単語のFSRS復習は永久無料で続けられます。
 
 ブラウザで第1〜3話を無料試読する
 
@@ -511,7 +511,7 @@ Why Flashcard Apps Fail in 3 Weeks: Replacing 4 Manual Rating Buttons with React
 
 It is 10 p.m. after a long commute, and tapping Again / Hard / Good / Easy a hundred times in a row burns out your willpower faster than the vocabulary itself. In 
 Executive Reborn
-—Fawnfell's offline business English RPG (58 episodes, 1,397 workplace phrases, 11,250 AAC voice clips)—we deleted all four manual grading buttons and drive 
+—Fawnfell's offline business English RPG (42 business English lessons, 16 mystery chapters, 1,397 workplace phrases, 11,250 AAC voice clips)—we deleted all four manual grading buttons and drive 
 FSRS-6
  automatically from accuracy and each learner's 
 rolling 200-item median response latency
@@ -719,7 +719,7 @@ Marshal 的犬種確定是秋田犬嗎？
 
 免費試讀《Executive Reborn》第 1–3 集
 
-為了這隻穿西裝的秋田犬 Marshal，我們做好了 58 集劇情、1,397 條商務片語與無自評按鈕的 FSRS-6 引擎——歡迎先在網頁免費試讀前 3 集。
+為了這隻穿西裝的秋田犬 Marshal，我們做好了 42 集商務英語課與 16 話轉生故事、1,397 條商務片語與無自評按鈕的 FSRS-6 引擎——歡迎先在網頁免費試讀前 3 集。
 
 免費試讀 (第 1–3 集)
 
@@ -805,7 +805,7 @@ English
 
 晚上十點下班癱在沙發上打開單字 App，每背一張卡都要手動點選「忘記 / 困難 / 良好 / 簡單」，連按一百次直接讓人崩潰關掉——。為了讓不想硬啃教材的職場人真正持續下去，Fawnfell 在純離線商務英語 RPG《
 Executive Reborn
-》（共 58 集、1,397 條核心片語、11,250 條 AAC 語音）中徹底移除手動 4 顆自評按鈕，改以
+》（42 集商務課＋16 話懸疑故事、1,397 條核心片語、11,250 條 AAC 語音）中徹底移除手動 4 顆自評按鈕，改以
 作答對錯搭配近 200 題個人反應中位數
 自動驅動 
 FSRS-6 演算法
@@ -1404,7 +1404,7 @@ $4.99/mo
 
 NT$150/mo
 
-All 42 main + 16 side episodes + auto seasonal/holiday calendar themes (12 scenes)
+All 42 business English lessons + 16 mystery stories + auto seasonal/holiday calendar themes (12 scenes)
 
 Standard Lifetime
 
@@ -1416,7 +1416,7 @@ $17.99
 
 NT$590
 
-Permanent unlock of all 58 episodes & future updates + auto seasonal/holiday calendar themes (12 scenes)
+Permanent unlock of all 42 business English lessons & 16 mystery stories + auto seasonal/holiday calendar themes (12 scenes)
 
 Deluxe Edition
 
@@ -1649,7 +1649,7 @@ Executive Reborn is an offline-first business English RPG and FSRS flashcard app
 
 How much does Executive Reborn cost and is there a lifetime option?
 
-The first 3 main episodes and first 2 side stories are free. You can unlock all 58 episodes via a $4.99/month subscription, a $17.99 Standard Lifetime buyout, or a $24.99 Deluxe Edition with Time Wardrobe unlocks and alternate app icons.
+The first 3 main episodes and first 2 side stories are free. You can unlock all 42 business lessons &amp; 16 mystery stories via a $4.99/month subscription, a $17.99 Standard Lifetime buyout, or a $24.99 Deluxe Edition with Time Wardrobe unlocks and alternate app icons.
 
 What happens to learned vocabulary if a monthly subscription expires?
 
@@ -2008,7 +2008,7 @@ $0
 
 $4.99 / 月
 
-全58話アンロック ＋ 季節・祝日カレンダー自動背景（12種）
+本編42話＋番外16話アンロック ＋ 季節・祝日カレンダー自動背景（12種）
 
 スタンダード買い切り
 
@@ -2016,7 +2016,7 @@ $4.99 / 月
 
 $17.99
 
-1回の購入で全58話と今後の無料アップデートを永久解放 ＋ 季節・祝日カレンダー自動背景（12種）
+1回の購入で英語本編42話と番外物語16話を永久解放 ＋ 季節・祝日カレンダー自動背景（12種）
 
 デラックス版
 
@@ -2237,7 +2237,7 @@ Fawnfell が開発する社会人向けビジネス英語RPG＋FSRS単語帳ア�
 
 料金体系と買い切りプランはありますか？
 
-本編第3話・番外編第2話まで無料です。全58話の解放は月額¥800、スタンダード買い切り¥3,000、着せ替え特典付きデラックス版¥4,000から選べます。
+本編第3話・番外編第2話まで無料です。本編42話＋番外16話の解放は月額¥800、スタンダード買い切り¥3,000、着せ替え特典付きデラックス版¥4,000から選べます。
 
 月額プランを解約しても学習済み単語は復習できますか？
 
@@ -3231,7 +3231,7 @@ $0
 
 $4.99 / 月
 
-全58話アンロック ＋ 季節・祝日カレンダー自動背景（12種）
+本編42話＋番外16話アンロック ＋ 季節・祝日カレンダー自動背景（12種）
 
 スタンダード買い切り
 
@@ -3239,7 +3239,7 @@ $4.99 / 月
 
 $17.99
 
-1回の購入で全58話と今後の無料アップデートを永久解放 ＋ 季節・祝日カレンダー自動背景（12種）
+1回の購入で英語本編42話と番外物語16話を永久解放 ＋ 季節・祝日カレンダー自動背景（12種）
 
 デラックス版
 
@@ -3585,7 +3585,7 @@ $0
 
 $4.99 / 월
 
-전체 58화 잠금 해제 + 계절·기념일 창밖 테마 자동 전환(12종)
+본편 42강 + 번외 16화 잠금 해제 + 계절·기념일 창밖 테마 자동 전환(12종)
 
 스탠다드 일시불
 
@@ -3593,7 +3593,7 @@ $4.99 / 월
 
 $17.99
 
-1회 결제로 전체 58화 및 향후 무료 업데이트 영구 소장 + 계절·기념일 창밖 테마 자동 전환(12종)
+1회 결제로 비즈니스 영어 42강과 번외 스토리 16화 영구 소장 + 계절·기념일 창밖 테마 자동 전환(12종)
 
 디럭스 에디션
 
@@ -4808,7 +4808,7 @@ $0
 
 $4.99 / 월
 
-전체 58화 잠금 해제 + 계절·기념일 창밖 테마 자동 전환
+본편 42강 + 번외 16화 잠금 해제 + 계절·기념일 창밖 테마 자동 전환
 
 스탠다드 일시불
 
@@ -4816,7 +4816,7 @@ $4.99 / 월
 
 $17.99
 
-1회 결제로 전체 58화 및 향후 무료 업데이트 영구 소장
+1회 결제로 비즈니스 영어 42강과 번외 스토리 16화 영구 소장
 
 디럭스 에디션
 
@@ -5916,7 +5916,7 @@ $4.99/mo
 
 NT$150/mo
 
-All 42 main + 16 side episodes + auto seasonal/holiday calendar themes (12 scenes)
+All 42 business English lessons + 16 mystery stories + auto seasonal/holiday calendar themes (12 scenes)
 
 Standard Lifetime
 
@@ -5928,7 +5928,7 @@ $17.99
 
 NT$590
 
-Permanent unlock of all 58 episodes & future updates + auto seasonal/holiday calendar themes (12 scenes)
+Permanent unlock of all 42 business English lessons & 16 mystery stories + auto seasonal/holiday calendar themes (12 scenes)
 
 Deluxe Edition
 
@@ -6133,7 +6133,7 @@ Executive Reborn — 邊追職場懸疑劇邊練商務英語
 
 求職連敗又遭逢車禍那夜，再睜眼竟成了陌生公司的高階主管——。
 Executive Reborn
- 讓你白天靠臨時抱佛腳背下的英語頂住董事會、晚上七點後追查真相，結合 58 集劇情、1,397 條商務片語、FSRS-6 引擎與 11,250 條離線語音。
+ 讓你白天靠臨時抱佛腳背下的英語頂住董事會、晚上七點後追查真相，結合 42 集商務英語課與 16 話轉生懸疑故事、1,397 條商務片語、FSRS-6 引擎與 11,250 條離線語音。
 
 免費試讀 (第 1–3 集)
 
@@ -6434,7 +6434,7 @@ NT$150 / 月
 
 $4.99 / 月
 
-解鎖全部 58 集課程 + 四季與節日窗景自動輪換（12 種）
+解鎖全部 42 集商務課與 16 話故事 + 四季與節日窗景自動輪換（12 種）
 
 標準永久買斷
 
@@ -6442,7 +6442,7 @@ NT$590
 
 $17.99
 
-一次買斷永久解鎖全部 58 集與後續免費內容更新 + 四季與節日窗景自動輪換（12 種）
+一次買斷永久解鎖全部 42 集商務英語課與 16 話懸疑故事 + 四季與節日窗景自動輪換（12 種）
 
 豪華典藏版
 
@@ -6659,7 +6659,7 @@ Executive Reborn 防棄坑設計
 
 Executive Reborn 適合什麼樣的學習者？
 
-適合不想硬啃傳統教材的職場人與商務英語學習者。全套共 58 集互動職場劇情、1,397 條核心片語並支援純離線通勤播放。
+適合不想硬啃傳統教材的職場人與商務英語學習者。全套42 集職場商務課與 16 話轉生懸疑故事、1,397 條核心片語並支援純離線通勤播放。
 
 有哪些方案？支援一次買斷嗎？
 
@@ -7657,7 +7657,7 @@ NT$150 / 月
 
 $4.99 / 月
 
-解鎖全部 58 集課程 + 四季與節日窗景自動輪換
+解鎖全部 42 集商務課與 16 話故事 + 四季與節日窗景自動輪換
 
 標準永久買斷
 
@@ -7665,7 +7665,7 @@ NT$590
 
 $17.99
 
-一次買斷永久解鎖全部 58 集與後續免費內容更新
+一次買斷永久解鎖全部 42 集商務英語課與 16 話懸疑故事
 
 豪華典藏版
 
@@ -7799,7 +7799,7 @@ EN · JA · KO · ZH-Hant
 
 Executive Reborn
 
-全58話のオフライン完結型ビジネス英語ストーリーRPG。1,397語の職場表現、反応時間 FSRS-6 復習、11,250本の AAC 音声を収録。
+本編42話のビジネス英語＋番外物語16話のオフライン完結型RPG。1,397語の職場表現、反応時間 FSRS-6 復習、11,250本の AAC 音声を収録。
 
 Executive Reborn を見る
 
@@ -7877,7 +7877,7 @@ EN · JA · KO · ZH-Hant
 
 Executive Reborn
 
-본편 42화 + 번외편 16화(총 58화) 오프라인 비즈니스 영어 스토리 RPG. 1,397개 실무 표현, 반응 속도 FSRS-6 복습, 11,250개 AAC 음성 수록.
+본편 42화 + 번외편 16화 오프라인 비즈니스 영어 스토리 RPG. 1,397개 실무 표현, 반응 속도 FSRS-6 복습, 11,250개 AAC 음성 수록.
 
 Executive Reborn 보기
 
@@ -7955,7 +7955,7 @@ EN · JA · KO · ZH-Hant
 
 Executive Reborn
 
-58 集純離線商務英語劇情 RPG，收錄 1,397 條職場片語、反應時間 FSRS-6 間隔重複記憶與 11,250 條 AAC 語音。
+42 集商務英語課＋16 話懸疑故事純離線 RPG，收錄 1,397 條職場片語、反應時間 FSRS-6 間隔重複記憶與 11,250 條 AAC 語音。
 
 查看 Executive Reborn
 
